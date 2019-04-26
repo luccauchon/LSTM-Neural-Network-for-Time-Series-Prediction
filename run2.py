@@ -21,8 +21,8 @@ epochs = 2
 saved_dir = './saved_models/'
 
 main_input = Input(shape=(input_timesteps, input_dim), dtype='float32', name='main_input')
-x = LSTM(100, return_sequences=True, name='rnn_1')(main_input)
-x = LSTM(100, name='rnn_2')(x)
+x = LSTM(100, return_sequences=True, dropout=0.5, name='rnn_1')(main_input)
+x = LSTM(100, dropout=0.5, name='rnn_2')(x)
 x = Dense(1)(x)
 main_output = x
 model = Model(inputs=[main_input], outputs=[main_output])

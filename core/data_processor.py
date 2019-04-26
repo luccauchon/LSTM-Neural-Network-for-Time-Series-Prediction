@@ -7,6 +7,7 @@ class DataLoader():
 
     def __init__(self, filename, split, cols, predicted_col=0):
         df = pd.read_csv(filename)
+        train, validate, test = np.split(df.sample(frac=1), [int(.6 * len(df)), int(.8 * len(df))])
         i_split = int(len(df) * split)
         self.data_train = df.get(cols).values[:i_split]
         self.data_test = df.get(cols).values[i_split:]
