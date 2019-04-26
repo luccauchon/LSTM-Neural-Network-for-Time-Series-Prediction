@@ -5,14 +5,15 @@ import pandas as pd
 class DataLoader():
     """A class for loading and transforming data for the lstm model"""
 
-    def __init__(self, filename, split, cols):
-        dataframe = pd.read_csv(filename)
-        i_split = int(len(dataframe) * split)
-        self.data_train = dataframe.get(cols).values[:i_split]
-        self.data_test = dataframe.get(cols).values[i_split:]
+    def __init__(self, filename, split, cols, predicted_col=0):
+        df = pd.read_csv(filename)
+        i_split = int(len(df) * split)
+        self.data_train = df.get(cols).values[:i_split]
+        self.data_test = df.get(cols).values[i_split:]
         self.len_train = len(self.data_train)
         self.len_test = len(self.data_test)
         self.len_train_windows = None
+        self.predicted_col = predicted_col
 
     def get_test_data(self, seq_len, normalise):
         '''
@@ -25,11 +26,14 @@ class DataLoader():
             data_windows.append(self.data_test[i:i + seq_len])
 
         data_windows = np.array(data_windows).astype(float)
+        data_windows_original = np.copy(data_windows)
         data_windows = self.normalise_windows(data_windows, single_window=False) if normalise else data_windows
 
         x = data_windows[:, :-1]
-        y = data_windows[:, -1, [0]]
-        return x, y
+        y = data_windows[:, -1, [self.predicted_col]]
+        x_o = data_windows_original[:, :-1]
+        y_o = data_windows_original[:, -1, [self.predicted_col]]
+        return x, y, x_o, y_o
 
     def get_train_data(self, seq_len, normalise):
         '''
@@ -48,13 +52,13 @@ class DataLoader():
     def generate_train_batch(self, seq_len, batch_size, normalise):
         '''Yield a generator of training data from filename on given list of cols split for train/test'''
         i = 0
-        while True:#i < (self.len_train - seq_len):
+        while True:  # i < (self.len_train - seq_len):
             x_batch = []
             y_batch = []
             for b in range(batch_size):
                 if i >= (self.len_train - seq_len):
                     # stop-condition for a smaller final batch if data doesn't divide evenly
-                    #yield np.array(x_batch), np.array(y_batch)
+                    # yield np.array(x_batch), np.array(y_batch)
                     i = 0
                 x, y = self._next_window(self.data_train, i, seq_len, normalise)
                 assert len(x) == seq_len - 1
@@ -69,13 +73,13 @@ class DataLoader():
     def generate_test_batch(self, seq_len, batch_size, normalise):
         '''Yield a generator of training data from filename on given list of cols split for train/test'''
         i = 0
-        while True:#i < (self.len_test - seq_len):
+        while True:  # i < (self.len_test - seq_len):
             x_batch = []
             y_batch = []
             for b in range(batch_size):
                 if i >= (self.len_test - seq_len):
                     # stop-condition for a smaller final batch if data doesn't divide evenly
-                    #yield np.array(x_batch), np.array(y_batch)
+                    # yield np.array(x_batch), np.array(y_batch)
                     i = 0
                 x, y = self._next_window(self.data_test, i, seq_len, normalise)
                 assert len(x) == seq_len - 1
@@ -94,8 +98,9 @@ class DataLoader():
         x = window[:-1]
         assert len(x) == seq_len - 1
         assert np.array_equal(x, window[0:seq_len - 1])
-        y = window[-1, [0]]
+        y = window[-1, [self.predicted_col]]
         assert len(y) == 1
+        assert len(x) + len(y) == seq_len
         return x, y
 
     def normalise_windows(self, window_data, single_window=False):
