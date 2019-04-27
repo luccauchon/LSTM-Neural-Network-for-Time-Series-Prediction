@@ -4,25 +4,30 @@ import os
 
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 from keras.callbacks import EarlyStopping, ModelCheckpoint
 from keras.layers import Input, LSTM, Dense
 from keras.models import Model
+from sklearn.model_selection import ShuffleSplit
 
 from core.data_processor import DataLoader
 from core.utils import Timer
 
-sequence_length = 20
-batch_size = 32
+sequence_length = 10
+batch_size = 12
 input_timesteps = sequence_length - 1
 cols = ["Close", 'Open', "Volume", 'High', 'Low']
 predicted_col = 0
 input_dim = len(cols)
-epochs = 2
+epochs = 1
+nfolds = 1
 saved_dir = './saved_models/'
+train_test_split = 0.95
+train_val_split = 0.15
 
 main_input = Input(shape=(input_timesteps, input_dim), dtype='float32', name='main_input')
 x = LSTM(100, return_sequences=True, dropout=0.5, name='rnn_1')(main_input)
-x = LSTM(100, dropout=0.5, name='rnn_2')(x)
+x = LSTM(100, name='rnn_2')(x)
 x = Dense(1)(x)
 main_output = x
 model = Model(inputs=[main_input], outputs=[main_output])
@@ -30,30 +35,44 @@ model = Model(inputs=[main_input], outputs=[main_output])
 model.compile(optimizer='adam', loss='mse', loss_weights=[1.])
 print(model.summary())
 
-data = DataLoader('./data/sp500.csv', split=0.85, cols=cols, predicted_col=predicted_col)
-# x, y = data.get_train_data(seq_len=sequence_length, normalise=True)
+df = pd.read_csv('./data/sp500.csv')
+train_validate_df, test_df = np.split(df.sample(frac=1), [int(train_test_split * len(df))])
+print('train/validate on %s elements, test on %s elements' % (len(train_validate_df), len(test_df)))
+assert len(train_validate_df) > len(test_df)
+# print (train_validate_df.head())
+# print (test_df.head())
+X = np.arange(len(train_validate_df))
+ss = ShuffleSplit(n_splits=nfolds, test_size=train_val_split, random_state=0)
+folds = list(ss.split(X))
+for j, (train_idx, val_idx) in enumerate(folds):
+    # X_train_cv = train_validate_df.get(cols).values[train_idx]
+    # X_valid_cv = train_validate_df.get(cols).values[val_idx]
+    assert len(train_idx) > len(val_idx)
+    data = DataLoader(df, train_idx, val_idx, cols=cols, predicted_col=predicted_col)
 
-timer = Timer()
-timer.start()
-print('[Model] Training Started')
-print('[Model] %s epochs, %s batch size' % (epochs, batch_size))
+    timer = Timer()
+    timer.start()
+    # print('[Model] Training Started, Fold %s' % j)
+    # print('[Model] %s epochs, %s batch size' % (epochs, batch_size))
 
-save_filename = os.path.join(saved_dir, '%s-e%s.h5' % (dt.datetime.now().strftime('%d%m%Y-%H%M%S'), str(epochs)))
-callbacks = [
-    EarlyStopping(monitor='val_loss', patience=2),
-    ModelCheckpoint(filepath=save_filename, monitor='val_loss', save_best_only=True)
-]
-# model.fit(x, y, epochs=epochs, batch_size=batch_size, callbacks=callbacks, verbose = 1)
-steps_per_epoch = math.ceil((data.len_train - sequence_length) / batch_size)
-steps_per_epoch_val = math.ceil((data.len_test - sequence_length) / batch_size)
-model.fit_generator(
-    generator=data.generate_train_batch(seq_len=sequence_length, batch_size=batch_size, normalise=True),
-    steps_per_epoch=steps_per_epoch, epochs=epochs, callbacks=callbacks, workers=0, verbose=2,
-    validation_data=data.generate_test_batch(seq_len=sequence_length, batch_size=batch_size, normalise=True),
-    validation_steps=steps_per_epoch_val)
-model.save(save_filename)
-print('[Model] Training Completed. Model saved as %s' % save_filename)
-timer.stop()
+    save_filename = os.path.join(saved_dir,
+                                 '%s-F%s-e%s.h5' % (dt.datetime.now().strftime('%d%m%Y-%H%M%S'), str(j), str(epochs)))
+    callbacks = [
+        EarlyStopping(monitor='val_loss', patience=2),
+        ModelCheckpoint(filepath=save_filename, monitor='val_loss', save_best_only=True)
+    ]
+
+    steps_per_epoch = math.ceil((data.len_train - sequence_length) / batch_size)
+    steps_per_epoch_val = math.ceil((data.len_test - sequence_length) / batch_size)
+    model.fit_generator(
+        generator=data.generate_train_batch(seq_len=sequence_length, batch_size=batch_size, normalise=True),
+        steps_per_epoch=steps_per_epoch, epochs=epochs, callbacks=callbacks, workers=0, verbose=2,
+        validation_data=data.generate_test_batch(seq_len=sequence_length, batch_size=batch_size, normalise=True),
+        validation_steps=steps_per_epoch_val)
+    # print(model.evaluate(X_valid_cv, y_valid_cv))
+    model.save(save_filename)
+    print('[Model] Training Completed. Model saved as %s' % save_filename)
+    timer.stop()
 
 
 def predict_sequences_multiple(model_, data_, window_size, prediction_len):
@@ -86,7 +105,8 @@ def plot_results_multiple(predicted_data, true_data, prediction_len):
     plt.show()
 
 
-x_test, y_test, x_test_original, y_test_original = data.get_test_data(seq_len=sequence_length, normalise=True)
+data = DataLoader(df, None, test_df.index, cols=cols, predicted_col=predicted_col)
+x_test, y_test, indexes = data.get_test_data(seq_len=sequence_length, normalise=True)
 predictions = predict_sequences_multiple(model_=model, data_=x_test, window_size=sequence_length,
                                          prediction_len=sequence_length)
 
