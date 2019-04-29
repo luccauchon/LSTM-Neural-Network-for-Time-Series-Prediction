@@ -96,11 +96,10 @@ for j, (train_idx, val_idx) in enumerate(folds):
     timer.stop()
 
 
-def invert_prediction(df_, y_pred, index_at_p0, predicted_cols):
-    assert 1==predicted_cols
-    p0 = df_.loc[index_at_p0, predicted_cols]
-    y_pred_inverted = p0 * (y_pred + 1)
-    return y_pred_inverted
+def invert_prediction(df_, y_pred_, index_at_p0, predicted_cols_):
+    p0 = df_.loc[index_at_p0, predicted_cols_]
+    y_pred_inverted_ = p0 * (y_pred_ + 1)
+    return y_pred_inverted_
 
 
 def predict_point_by_point(model_, x_):
@@ -109,20 +108,23 @@ def predict_point_by_point(model_, x_):
     return predicted[0]
 
 
-def predict_sequences_multiple_pp(model_, x_, df_, indexes_, sequence_length, n_steps, n_features, predicted_col):
+def predict_sequences_multiple_pp(model_, x_, df_, indexes_, sequence_length_, n_steps_, n_features_, predicted_cols_):
     assert x_.shape[0] == 1
     predictions = list()
-    for i in range(sequence_length):
-        y_pred = predict_point_by_point(model_, x_)
-        y_pred_inverted = invert_prediction(df_, y_pred, index_at_p0=index[0], predicted_cols=cols[predicted_col])
-        y_real = df_.loc[index[1] - 1 + i, cols[predicted_col]]
-        predictions.add((y_pred_inverted, y_real))
+    real_values = list()
+    for i in range(sequence_length_):
+        y_pred_ = predict_point_by_point(model_, x_)
+        y_pred_inverted_ = invert_prediction(df_, y_pred_, index_at_p0=indexes_[0], predicted_cols_=predicted_cols_)
+        y_real_ = df_.loc[indexes_[1] - 1 + i, predicted_cols_]
+        predictions.add(y_pred_inverted_)
+        real_values.add(y_real_)
 
-        x_ = x_.reshape(n_steps, n_features)
+        x_ = x_.reshape(n_steps_, n_features_)
         x_ = x_[1:]
-        x_ = np.insert(x_, n_steps - 1, y_pred, axis=0)
+        x_ = np.insert(x_, n_steps_ - 1, y_pred_, axis=0)
         x_ = x_[np.newaxis, ...]
-    return predictions
+    return np.hstack((np.array(predictions), np.array(real_values)))
+
 
 ###############################################################################
 data = DataLoader(df, None, test_df.index, cols=cols, predicted_col=predicted_col)
@@ -133,7 +135,8 @@ x_test, y_test, indexes = data.get_test_data(seq_len=sequence_length, normalise=
 ###############################################################################
 for x, y, index in zip(x_test, y_test, indexes):
     x = x[np.newaxis, ...]
-    predict_sequences_multiple_pp(model, x, df, indexes, sequence_length=sequence_length, n_steps=n_steps, n_features=n_features, predicted_col=predicted_col)
+    predict_sequences_multiple_pp(model, x, df, indexes, sequence_length_=sequence_length, n_steps_=n_steps,
+                                  n_features_=n_features, predicted_cols_=cols[predicted_col])
 
 ###############################################################################
 
