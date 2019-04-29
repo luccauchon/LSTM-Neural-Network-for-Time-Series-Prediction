@@ -11,7 +11,7 @@ class DataLoader():
         self.val_idx = val_idx
         if self.train_idx is not None:
             self.len_train = len(self.train_idx)
-        self.len_test = len(self.val_idx)
+        self.len_val = len(self.val_idx)
         self.predicted_col = predicted_col
 
     def get_test_data(self, seq_len, normalise):
@@ -20,6 +20,8 @@ class DataLoader():
         Warning: batch method, not generative, make sure you have enough memory to
         load data, otherwise reduce size of the training split.
         '''
+        assert self.train_idx is None
+
         x_batch = []
         y_batch = []
         indexes = []
@@ -34,20 +36,6 @@ class DataLoader():
             indexes.append((start_index, end_index))
 
         return np.array(x_batch), np.array(y_batch), indexes
-
-    def get_train_data(self, seq_len, normalise):
-        '''
-        Create x, y train data windows
-        Warning: batch method, not generative, make sure you have enough memory to
-        load data, otherwise use generate_training_window() method.
-        '''
-        data_x = []
-        data_y = []
-        for i in range(self.len_train - seq_len):
-            x, y = self._next_window(i, seq_len, normalise)
-            data_x.append(x)
-            data_y.append(y)
-        return np.array(data_x), np.array(data_y)
 
     def generate_train_batch(self, seq_len, batch_size, normalise):
         '''Yield a generator of training data from filename on given list of cols split for train/test'''
@@ -74,7 +62,7 @@ class DataLoader():
             assert batch_size == len(y_batch)
             yield np.array(x_batch), np.array(y_batch)
 
-    def generate_test_batch(self, seq_len, batch_size, normalise):
+    def generate_val_batch(self, seq_len, batch_size, normalise):
         '''Yield a generator of training data from filename on given list of cols split for train/test'''
         i = 0
         while True:
@@ -102,6 +90,7 @@ class DataLoader():
     def _next_window(self, start_index, end_index, seq_len, normalise):
         '''Generates the next data window from the given index location i'''
         window = self.df.values[start_index:end_index]
+        assert end_index - start_index == seq_len
         window = self.normalise_windows(window, single_window=True)[0] if normalise else window
         x = window[:-1]
         assert x.shape[0] == seq_len - 1
