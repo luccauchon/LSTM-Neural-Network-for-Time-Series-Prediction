@@ -5,14 +5,14 @@ import numpy as np
 class DataLoader():
     """A class for loading and transforming data for the lstm model"""
 
-    def __init__(self, df, train_idx, val_idx, cols, predicted_col=0):
+    def __init__(self, df, train_idx, val_idx, cols, ipredicted_col=0):
         self.df = df.get(cols)
         self.train_idx = train_idx
         self.val_idx = val_idx
         if self.train_idx is not None:
             self.len_train = len(self.train_idx)
         self.len_val = len(self.val_idx)
-        self.predicted_col = predicted_col
+        self.ipredicted_col = ipredicted_col
 
     def get_test_data(self, seq_len, normalise):
         '''
@@ -96,7 +96,7 @@ class DataLoader():
         assert x.shape[0] == seq_len - 1
         assert len(x.shape) == 2
         assert np.array_equal(x, window[0:seq_len - 1])
-        y = window[-1, [self.predicted_col]]
+        y = window[-1, [self.ipredicted_col]]
         assert len(y.shape) == 1
         assert y.shape[0] == 1
         assert x.shape[0] + y.shape[0] == seq_len

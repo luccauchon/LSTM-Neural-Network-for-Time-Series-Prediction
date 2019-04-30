@@ -5,7 +5,7 @@
 			"Close",
 			"Volume"
 		],
-		"sequence_length": 9,
+		"sequence_length": 3,
 		"train_test_split": 0.85,
 		"normalise": true
 	},
@@ -21,7 +21,7 @@
 			{
 				"type": "lstm",
 				"neurons": 100,
-				"input_timesteps": 8,
+				"input_timesteps": 2,
 				"input_dim": 2,
 				"return_seq": true
 			},

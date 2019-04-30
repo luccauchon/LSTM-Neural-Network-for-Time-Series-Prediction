@@ -1,13 +1,12 @@
-import datetime as dt
 import os
-
+import math
 import numpy as np
-from keras.callbacks import EarlyStopping, ModelCheckpoint
-from keras.layers import Dense, Dropout, LSTM
-from keras.models import Sequential, load_model
+import datetime as dt
 from numpy import newaxis
-
 from core.utils import Timer
+from keras.layers import Dense, Activation, Dropout, LSTM
+from keras.models import Sequential, load_model
+from keras.callbacks import EarlyStopping, ModelCheckpoint
 
 
 class Model():
@@ -82,8 +81,7 @@ class Model():
             steps_per_epoch=steps_per_epoch,
             epochs=epochs,
             callbacks=callbacks,
-            workers=1,
-            verbose=2
+            workers=1
         )
 
         print('[Model] Training Completed. Model saved as %s' % save_fname)
@@ -100,20 +98,13 @@ class Model():
         # Predict sequence of 50 steps before shifting prediction run forward by 50 steps
         print('[Model] Predicting Sequences Multiple...')
         prediction_seqs = []
-        # print(str(len(data)/prediction_len))
         for i in range(int(len(data) / prediction_len)):
             curr_frame = data[i * prediction_len]
             predicted = []
             for j in range(prediction_len):
-                # print('x='+str(curr_frame[newaxis,:,:]))
-                # print('predict='+str(self.model.predict(curr_frame[newaxis,:,:])))
-                # print(str(curr_frame[newaxis,:,:]))
-                # print(str(curr_frame[newaxis, :, :].shape))
                 predicted.append(self.model.predict(curr_frame[newaxis, :, :])[0, 0])
                 curr_frame = curr_frame[1:]
-                # print(str(curr_frame))
                 curr_frame = np.insert(curr_frame, [window_size - 2], predicted[-1], axis=0)
-            # print(str(curr_frame))
             prediction_seqs.append(predicted)
         return prediction_seqs
 
