@@ -1,0 +1,3123 @@
+Ticker,Name,Exchange,exchangeDisplay,Type,TypeDisplay
+B,Barnes Group Inc.,NYQ,NYSE,S,Equity
+BA,The Boeing Company,NYQ,NYSE,S,Equity
+BX,The Blackstone Group L.P.,NYQ,NYSE,S,Equity
+BAC,Bank of America Corporation,NYQ,NYSE,S,Equity
+BABA,Alibaba Group Holding Limited,NYQ,NYSE,S,Equity
+BE,Bloom Energy Corporation,NYQ,NYSE,S,Equity
+C,Citigroup Inc.,NYQ,NYSE,S,Equity
+CGC,Canopy Growth Corporation,NYQ,NYSE,S,Equity
+CVS,CVS Health Corporation,NYQ,NYSE,S,Equity
+CHK,Chesapeake Energy Corporation,NYQ,NYSE,S,Equity
+D,"Dominion Energy, Inc.",NYQ,NYSE,S,Equity
+DIS,The Walt Disney Company,NYQ,NYSE,S,Equity
+JNUG,Direxion Daily Junior Gold Miners Index Bull 3X Shares,NYQ,NYSE,E,ETF
+E,Eni S.p.A.,NYQ,NYSE,S,Equity
+EVER,"EverQuote, Inc.",NYQ,NYSE,S,Equity
+F,Ford Motor Company,NYQ,NYSE,S,Equity
+G,Genpact Limited,NYQ,NYSE,S,Equity
+GE,General Electric Company,NYQ,NYSE,S,Equity
+H,Hyatt Hotels Corporation,NYQ,NYSE,S,Equity
+HON,Honeywell International Inc.,NYQ,NYSE,S,Equity
+HD,"The Home Depot, Inc.",NYQ,NYSE,S,Equity
+I,Intelsat S.A.,NYQ,NYSE,S,Equity
+IBM,International Business Machines Corporation,NYQ,NYSE,S,Equity
+JPM,JPMorgan Chase & Co.,NYQ,NYSE,S,Equity
+JNJ,Johnson & Johnson,NYQ,NYSE,S,Equity
+JCP,"J. C. Penney Company, Inc.",NYQ,NYSE,S,Equity
+K,Kellogg Company,NYQ,NYSE,S,Equity
+KMI,"Kinder Morgan, Inc.",NYQ,NYSE,S,Equity
+KO,The Coca-Cola Company,NYQ,NYSE,S,Equity
+KEY,KeyCorp,NYQ,NYSE,S,Equity
+KR,The Kroger Co.,NYQ,NYSE,S,Equity
+KKR,KKR & Co. Inc.,NYQ,NYSE,S,Equity
+L,Loews Corporation,NYQ,NYSE,S,Equity
+LVS,Las Vegas Sands Corp.,NYQ,NYSE,S,Equity
+M,"Macy's, Inc.",NYQ,NYSE,S,Equity
+T,AT&T Inc.,NYQ,NYSE,S,Equity
+MO,"Altria Group, Inc.",NYQ,NYSE,S,Equity
+NOK,Nokia Corporation,NYQ,NYSE,S,Equity
+O,Realty Income Corporation,NYQ,NYSE,S,Equity
+OXY,Occidental Petroleum Corporation,NYQ,NYSE,S,Equity
+P,"Pandora Media, Inc.",NYQ,NYSE,S,Equity
+PFE,Pfizer Inc.,NYQ,NYSE,S,Equity
+DGX,Quest Diagnostics Incorporated,NYQ,NYSE,S,Equity
+QSR,Restaurant Brands International Inc.,NYQ,NYSE,S,Equity
+QID,ProShares UltraShort QQQ,NYQ,NYSE,E,ETF
+R,"Ryder System, Inc.",NYQ,NYSE,S,Equity
+RAD,Rite Aid Corporation,NYQ,NYSE,S,Equity
+RMED,"Ra Medical Systems, Inc.",NYQ,NYSE,S,Equity
+RF,Regions Financial Corporation,NYQ,NYSE,S,Equity
+S,Sprint Corporation,NYQ,NYSE,S,Equity
+SQ,"Square, Inc.",NYQ,NYSE,S,Equity
+SPY,SPDR S&P 500 ETF,NYQ,NYSE,E,ETF
+UNH,UnitedHealth Group Incorporated,NYQ,NYSE,S,Equity
+URI,"United Rentals, Inc.",NYQ,NYSE,S,Equity
+X,United States Steel Corporation,NYQ,NYSE,S,Equity
+UNP,Union Pacific Corporation,NYQ,NYSE,S,Equity
+UGAZ,VelocityShares 3x Long Natural Gas ETN Linked to the S&P GSCI Natural Gas Index ER,NYQ,NYSE,E,ETF
+V,Visa Inc.,NYQ,NYSE,S,Equity
+VZ,Verizon Communications Inc.,NYQ,NYSE,S,Equity
+W,Wayfair Inc.,NYQ,NYSE,S,Equity
+WFC,Wells Fargo & Company,NYQ,NYSE,S,Equity
+WMT,Walmart Inc.,NYQ,NYSE,S,Equity
+WM,"Waste Management, Inc.",NYQ,NYSE,S,Equity
+XOM,Exxon Mobil Corporation,NYQ,NYSE,S,Equity
+XLV,Health Care Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+XON,Intrexon Corporation,NYQ,NYSE,S,Equity
+XBI,SPDR S&P Biotech ETF,NYQ,NYSE,E,ETF
+XPO,"XPO Logistics, Inc.",NYQ,NYSE,S,Equity
+XXII,"22nd Century Group, Inc.",NYQ,NYSE,S,Equity
+Y,Alleghany Corporation,NYQ,NYSE,S,Equity
+AUY,Yamana Gold Inc.,NYQ,NYSE,S,Equity
+YUM,"YUM! Brands, Inc.",NYQ,NYSE,S,Equity
+YUMA,"Yuma Energy, Inc.",NYQ,NYSE,S,Equity
+ZAYO,"Zayo Group Holdings, Inc.",NYQ,NYSE,S,Equity
+BHC,Bausch Health Companies Inc.,NYQ,NYSE,S,Equity
+BK,The Bank of New York Mellon Corporation,NYQ,NYSE,S,Equity
+SAN,"Banco Santander, S.A.",NYQ,NYSE,S,Equity
+BB,BlackBerry Limited,NYQ,NYSE,S,Equity
+BBT,BB&T Corporation,NYQ,NYSE,S,Equity
+BBY,"Best Buy Co., Inc.",NYQ,NYSE,S,Equity
+BFR,BBVA Banco Francés S.A.,NYQ,NYSE,S,Equity
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYQ,NYSE,S,Equity
+BBD,Banco Bradesco S.A.,NYQ,NYSE,S,Equity
+BBL,BHP Group,NYQ,NYSE,S,Equity
+BC,Brunswick Corporation,NYQ,NYSE,S,Equity
+BCS,Barclays PLC,NYQ,NYSE,S,Equity
+BCE,BCE Inc.,NYQ,NYSE,S,Equity
+BCEI,"Bonanza Creek Energy, Inc.",NYQ,NYSE,S,Equity
+BCO,The Brink's Company,NYQ,NYSE,S,Equity
+BCC,Boise Cascade Company,NYQ,NYSE,S,Equity
+BDX,"Becton, Dickinson and Company",NYQ,NYSE,S,Equity
+BDCL,UBS ETRACS 2xLeveraged Long Wells Fargo Business Development Company Index ETN,NYQ,NYSE,E,ETF
+BDJ,BlackRock Enhanced Equity Dividend Trust,NYQ,NYSE,S,Equity
+BDR,"Blonder Tongue Laboratories, Inc.",NYQ,NYSE,S,Equity
+BDC,Belden Inc.,NYQ,NYSE,S,Equity
+BDN,Brandywine Realty Trust,NYQ,NYSE,S,Equity
+BDXA,"Becton, Dickinson and Company",NYQ,NYSE,E,ETF
+BRK-B,Berkshire Hathaway Inc.,NYQ,NYSE,S,Equity
+BRK-A,Berkshire Hathaway Inc.,NYQ,NYSE,S,Equity
+BRKB,Berkshire Hathaway Inc.,NYQ,NYSE,S,Equity
+BF-B,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BFAM,Bright Horizons Family Solutions Inc.,NYQ,NYSE,S,Equity
+BFB,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BFS,"Saul Centers, Inc.",NYQ,NYSE,S,Equity
+BFK,BlackRock Municipal Income Trust,NYQ,NYSE,S,Equity
+BF-A,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BGS,"B&G Foods, Inc.",NYQ,NYSE,S,Equity
+BGG,Briggs & Stratton Corporation,NYQ,NYSE,S,Equity
+BH,Biglari Holdings Inc.,NYQ,NYSE,S,Equity
+BHGE,"Baker Hughes, a GE company",NYQ,NYSE,S,Equity
+BHP,BHP Group,NYQ,NYSE,S,Equity
+BHE,"Benchmark Electronics, Inc.",NYQ,NYSE,S,Equity
+BPMX,BioPharmX Corporation,NYQ,NYSE,S,Equity
+BTX,"BioTime, Inc.",NYQ,NYSE,S,Equity
+BJK,VanEck Vectors Gaming ETF,NYQ,NYSE,E,ETF
+BJUL,Innovator S&P 500 Buffer ETF – July,NYQ,NYSE,E,ETF
+BJAN,Innovator S&P 500 Buffer ETF January,NYQ,NYSE,E,ETF
+BKS,"Barnes & Noble, Inc.",NYQ,NYSE,S,Equity
+BKE,"The Buckle, Inc.",NYQ,NYSE,S,Equity
+BKD,Brookdale Senior Living Inc.,NYQ,NYSE,S,Equity
+BKH,Black Hills Corporation,NYQ,NYSE,S,Equity
+BLK,"BlackRock, Inc.",NYQ,NYSE,S,Equity
+BXMT,"Blackstone Mortgage Trust, Inc.",NYQ,NYSE,S,Equity
+BMY,Bristol-Myers Squibb Company,NYQ,NYSE,S,Equity
+BMO,Bank of Montreal,NYQ,NYSE,S,Equity
+BMS,"Bemis Company, Inc.",NYQ,NYSE,S,Equity
+BMI,"Badger Meter, Inc.",NYQ,NYSE,S,Equity
+BME,BlackRock Health Sciences Trust,NYQ,NYSE,S,Equity
+BNS,The Bank of Nova Scotia,NYQ,NYSE,S,Equity
+BNED,"Barnes & Noble Education, Inc.",NYQ,NYSE,S,Equity
+BNY,BlackRock New York Municipal Income Trust,NYQ,NYSE,S,Equity
+BNO,"United States Brent Oil Fund, LP",NYQ,NYSE,E,ETF
+BSX,Boston Scientific Corporation,NYQ,NYSE,S,Equity
+BOX,"Box, Inc.",NYQ,NYSE,S,Equity
+BYD,Boyd Gaming Corporation,NYQ,NYSE,S,Equity
+SAM,"The Boston Beer Company, Inc.",NYQ,NYSE,S,Equity
+BP,BP p.l.c.,NYQ,NYSE,S,Equity
+BPL,"Buckeye Partners, L.P.",NYQ,NYSE,S,Equity
+BPT,BP Prudhoe Bay Royalty Trust,NYQ,NYSE,S,Equity
+BPY,Brookfield Property Partners L.P.,NYQ,NYSE,S,Equity
+BQH,BlackRock New York Municipal Bond Trust,NYQ,NYSE,S,Equity
+BR,"Broadridge Financial Solutions, Inc.",NYQ,NYSE,S,Equity
+BRS,Bristow Group Inc.,NYQ,NYSE,S,Equity
+BSM,"Black Stone Minerals, L.P.",NYQ,NYSE,S,Equity
+BSBR,Banco Santander (Brasil) S.A.,NYQ,NYSE,S,Equity
+BT,BT Group plc,NYQ,NYSE,S,Equity
+BTI,British American Tobacco p.l.c.,NYQ,NYSE,S,Equity
+BTE,Baytex Energy Corp.,NYQ,NYSE,S,Equity
+BTG,B2Gold Corp.,NYQ,NYSE,S,Equity
+BTU,Peabody Energy Corporation,NYQ,NYSE,S,Equity
+BUD,Anheuser-Busch InBev SA/NV,NYQ,NYSE,S,Equity
+BBW,"Build-A-Bear Workshop, Inc.",NYQ,NYSE,S,Equity
+BVN,Compañía de Minas Buenaventura S.A.A.,NYQ,NYSE,S,Equity
+BW,"Babcock & Wilcox Enterprises, Inc.",NYQ,NYSE,S,Equity
+BWA,BorgWarner Inc.,NYQ,NYSE,S,Equity
+BWXT,"BWX Technologies, Inc.",NYQ,NYSE,S,Equity
+BWX,SPDR Bloomberg Barclays International Treasury Bond ETF,NYQ,NYSE,E,ETF
+BXS,BancorpSouth Bank,NYQ,NYSE,S,Equity
+BXP,"Boston Properties, Inc.",NYQ,NYSE,S,Equity
+BXC,BlueLinx Holdings Inc.,NYQ,NYSE,S,Equity
+BXMX,Nuveen S&P 500 Buy-Write Income Fund,NYQ,NYSE,S,Equity
+BYM,BlackRock Municipal Income Quality Trust,NYQ,NYSE,S,Equity
+BZH,"Beazer Homes USA, Inc.",NYQ,NYSE,S,Equity
+BZQ,ProShares UltraShort MSCI Brazil Capped,NYQ,NYSE,E,ETF
+BRPM-UN,B. Riley Principal Merger Corp.,NYQ,NYSE,S,Equity
+CAT,Caterpillar Inc.,NYQ,NYSE,S,Equity
+CTST,CannTrust Holdings Inc.,NYQ,NYSE,S,Equity
+CAH,"Cardinal Health, Inc.",NYQ,NYSE,S,Equity
+GOOS,Canada Goose Holdings Inc.,NYQ,NYSE,S,Equity
+CB,Chubb Limited,NYQ,NYSE,S,Equity
+CBL,"CBL & Associates Properties, Inc",NYQ,NYSE,S,Equity
+CBS,CBS Corporation,NYQ,NYSE,S,Equity
+CC,The Chemours Company,NYQ,NYSE,S,Equity
+CCI,Crown Castle International Corp. (REIT),NYQ,NYSE,S,Equity
+CCL,Carnival Corporation,NYQ,NYSE,S,Equity
+CCJ,Cameco Corporation,NYQ,NYSE,S,Equity
+CCK,"Crown Holdings, Inc.",NYQ,NYSE,S,Equity
+CDE,"Coeur Mining, Inc.",NYQ,NYSE,S,Equity
+CE,Celanese Corporation,NYQ,NYSE,S,Equity
+CTL,"CenturyLink, Inc.",NYQ,NYSE,S,Equity
+CNC,Centene Corporation,NYQ,NYSE,S,Equity
+CF,"CF Industries Holdings, Inc.",NYQ,NYSE,S,Equity
+CFG,"Citizens Financial Group, Inc.",NYQ,NYSE,S,Equity
+CFR,"Cullen/Frost Bankers, Inc.",NYQ,NYSE,S,Equity
+CFX,Colfax Corporation,NYQ,NYSE,S,Equity
+GIB,CGI Inc.,NYQ,NYSE,S,Equity
+CGA,"China Green Agriculture, Inc.",NYQ,NYSE,S,Equity
+CVX,Chevron Corporation,NYQ,NYSE,S,Equity
+CMG,"Chipotle Mexican Grill, Inc.",NYQ,NYSE,S,Equity
+SCHW,The Charles Schwab Corporation,NYQ,NYSE,S,Equity
+CIM,Chimera Investment Corporation,NYQ,NYSE,S,Equity
+CI,Cigna Corporation,NYQ,NYSE,S,Equity
+CJ,"C&J Energy Services, Inc.",NYQ,NYSE,S,Equity
+CJNK,SPDR ICE BofAML Crossover Corporate Bond ETF,NYQ,NYSE,E,ETF
+CKH,Seacor Holdings Inc.,NYQ,NYSE,S,Equity
+CKX,"CKX Lands, Inc.",NYQ,NYSE,S,Equity
+CL,Colgate-Palmolive Company,NYQ,NYSE,S,Equity
+CLF,Cleveland-Cliffs Inc.,NYQ,NYSE,S,Equity
+CM,Canadian Imperial Bank of Commerce,NYQ,NYSE,S,Equity
+CMI,Cummins Inc.,NYQ,NYSE,S,Equity
+CMA,Comerica Incorporated,NYQ,NYSE,S,Equity
+CMD,Cantel Medical Corp.,NYQ,NYSE,S,Equity
+CMC,Commercial Metals Company,NYQ,NYSE,S,Equity
+CMS,CMS Energy Corporation,NYQ,NYSE,S,Equity
+CNI,Canadian National Railway Company,NYQ,NYSE,S,Equity
+CO,Global Cord Blood Corporation,NYQ,NYSE,S,Equity
+STZ,"Constellation Brands, Inc.",NYQ,NYSE,S,Equity
+CP,Canadian Pacific Railway Limited,NYQ,NYSE,S,Equity
+CPB,Campbell Soup Company,NYQ,NYSE,S,Equity
+CPRI,Capri Holdings Limited,NYQ,NYSE,S,Equity
+CPG,Crescent Point Energy Corp.,NYQ,NYSE,S,Equity
+CPE,Callon Petroleum Company,NYQ,NYSE,S,Equity
+CPLG,CorePoint Lodging Inc.,NYQ,NYSE,S,Equity
+CR,Crane Co.,NYQ,NYSE,S,Equity
+CRM,"salesforce.com, inc.",NYQ,NYSE,S,Equity
+CRMD,"CorMedix, Inc.",NYQ,NYSE,S,Equity
+CS,Credit Suisse Group AG,NYQ,NYSE,S,Equity
+CSTM,Constellium N.V.,NYQ,NYSE,S,Equity
+CSS,"CSS Industries, Inc.",NYQ,NYSE,S,Equity
+CSL,Carlisle Companies Incorporated,NYQ,NYSE,S,Equity
+CSLT,"Castlight Health, Inc.",NYQ,NYSE,S,Equity
+CURE,Direxion Daily Healthcare Bull 3X Shares,NYQ,NYSE,E,ETF
+CUB,Cubic Corporation,NYQ,NYSE,S,Equity
+CUBE,CubeSmart,NYQ,NYSE,S,Equity
+CW,Curtiss-Wright Corporation,NYQ,NYSE,S,Equity
+CVA,Covanta Holding Corporation,NYQ,NYSE,S,Equity
+CVE,Cenovus Energy Inc.,NYQ,NYSE,S,Equity
+CVRS,"Corindus Vascular Robotics, Inc.",NYQ,NYSE,S,Equity
+CVI,"CVR Energy, Inc.",NYQ,NYSE,S,Equity
+UAN,"CVR Partners, LP",NYQ,NYSE,S,Equity
+CWT,California Water Service Group,NYQ,NYSE,S,Equity
+CWEB,Direxion Daily CSI China Internet Bull 2X Shares,NYQ,NYSE,E,ETF
+CX,"CEMEX, S.A.B. de C.V.",NYQ,NYSE,S,Equity
+CXO,Concho Resources Inc.,NYQ,NYSE,S,Equity
+CXW,"CoreCivic, Inc.",NYQ,NYSE,S,Equity
+CXP,"Columbia Property Trust, Inc.",NYQ,NYSE,S,Equity
+CXE,MFS High Income Municipal Trust,NYQ,NYSE,S,Equity
+CYH,"Community Health Systems, Inc.",NYQ,NYSE,S,Equity
+CZZ,Cosan Limited,NYQ,NYSE,S,Equity
+CZA,Invesco Zacks Mid-Cap ETF,NYQ,NYSE,E,ETF
+DAL,"Delta Air Lines, Inc.",NYQ,NYSE,S,Equity
+DHR,Danaher Corporation,NYQ,NYSE,S,Equity
+DVA,DaVita Inc.,NYQ,NYSE,S,Equity
+DRI,"Darden Restaurants, Inc.",NYQ,NYSE,S,Equity
+DB,Deutsche Bank Aktiengesellschaft,NYQ,NYSE,S,Equity
+DBD,"Diebold Nixdorf, Incorporated",NYQ,NYSE,S,Equity
+DBA,Invesco DB Agriculture Fund,NYQ,NYSE,E,ETF
+DBC,Invesco DB Commodity Index Tracking Fund,NYQ,NYSE,E,ETF
+DBO,Invesco DB Oil Fund,NYQ,NYSE,E,ETF
+DCP,"DCP Midstream, LP",NYQ,NYSE,S,Equity
+DCI,"Donaldson Company, Inc.",NYQ,NYSE,S,Equity
+DCO,Ducommun Incorporated,NYQ,NYSE,S,Equity
+DDD,3D Systems Corporation,NYQ,NYSE,S,Equity
+DDS,"Dillard's, Inc.",NYQ,NYSE,S,Equity
+DDM,ProShares Ultra Dow30,NYQ,NYSE,E,ETF
+DDE,"Dover Downs Gaming & Entertainment, Inc.",NYQ,NYSE,S,Equity
+DDF,"Delaware Investments Dividend and Income Fund, Inc.",NYQ,NYSE,S,Equity
+DE,Deere & Company,NYQ,NYSE,S,Equity
+DNR,Denbury Resources Inc.,NYQ,NYSE,S,Equity
+DVN,Devon Energy Corporation,NYQ,NYSE,S,Equity
+DELL,Dell Technologies Inc.,NYQ,NYSE,S,Equity
+DF,Dean Foods Company,NYQ,NYSE,S,Equity
+DFS,Discover Financial Services,NYQ,NYSE,S,Equity
+DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares Direxion Daily Aerospace,NYQ,NYSE,E,ETF
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,NYQ,NYSE,S,Equity
+DFIN,"Donnelley Financial Solutions, Inc.",NYQ,NYSE,S,Equity
+DG,Dollar General Corporation,NYQ,NYSE,S,Equity
+DGAZ,VelocityShares 3x Inverse Natural Gas ETN Linked to the S&P GSCI Natural Gas Index ER,NYQ,NYSE,E,ETF
+DGRO,iShares Core Dividend Growth ETF,NYQ,NYSE,E,ETF
+DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,NYQ,NYSE,E,ETF
+DHI,"D.R. Horton, Inc.",NYQ,NYSE,S,Equity
+DHT,"DHT Holdings, Inc.",NYQ,NYSE,S,Equity
+DHX,"DHI Group, Inc.",NYQ,NYSE,S,Equity
+DHY,"Credit Suisse High Yield Bond Fund, Inc.",NYQ,NYSE,S,Equity
+DHF,Dreyfus High Yield Strategies Fund,NYQ,NYSE,S,Equity
+DHS,WisdomTree U.S. High Dividend Fund,NYQ,NYSE,E,ETF
+LABU,Direxion Daily S&P Biotech Bull 3X Shares,NYQ,NYSE,E,ETF
+NUGT,Direxion Daily Gold Miners Index Bull 3X Shares,NYQ,NYSE,E,ETF
+LABD,Direxion Daily S&P Biotech Bear 3X Shares,NYQ,NYSE,E,ETF
+GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 3X Shares,NYQ,NYSE,E,ETF
+DJP,iPath Bloomberg Commodity Index Total Return(SM) ETN,NYQ,NYSE,E,ETF
+DK,"Delek US Holdings, Inc.",NYQ,NYSE,S,Equity
+DKS,"Dick's Sporting Goods, Inc.",NYQ,NYSE,S,Equity
+DKL,"Delek Logistics Partners, LP",NYQ,NYSE,S,Equity
+DKT,Deutsche Bank Contingent Capital Trust V TR PFD SEC 8.05%,NYQ,NYSE,S,Equity
+DL,China Distance Education Holdings Limited,NYQ,NYSE,S,Equity
+DLB,"Dolby Laboratories, Inc.",NYQ,NYSE,S,Equity
+DLX,Deluxe Corporation,NYQ,NYSE,S,Equity
+DMO,Western Asset Mortgage Defined Opportunity Fund Inc.,NYQ,NYSE,S,Equity
+DMB,"Dreyfus Municipal Bond Infrastructure Fund, Inc.",NYQ,NYSE,S,Equity
+DNP,DNP Select Income Fund Inc.,NYQ,NYSE,S,Equity
+DNN,Denison Mines Corp.,NYQ,NYSE,S,Equity
+DNOW,NOW Inc.,NYQ,NYSE,S,Equity
+DNI,Dividend and Income Fund,NYQ,NYSE,S,Equity
+DO,"Diamond Offshore Drilling, Inc.",NYQ,NYSE,S,Equity
+DOW,Dow Inc.,NYQ,NYSE,S,Equity
+DWDP,DowDuPont Inc.,NYQ,NYSE,S,Equity
+DPZ,"Domino's Pizza, Inc.",NYQ,NYSE,S,Equity
+DOV,Dover Corporation,NYQ,NYSE,S,Equity
+DPLO,"Diplomat Pharmacy, Inc.",NYQ,NYSE,S,Equity
+DPG,Duff & Phelps Global Utility Income Fund Inc.,NYQ,NYSE,S,Equity
+DPST,Direxion Daily Regional Banks Bull 3X Shares,NYQ,NYSE,E,ETF
+DPK,Direxion Daily MSCI Developed Markets Bear 3X Shares,NYQ,NYSE,E,ETF
+DQ,Daqo New Energy Corp.,NYQ,NYSE,S,Equity
+DQML,Reality Shares Fundstrat DQM Long ETF,NYQ,NYSE,E,ETF
+DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 3X Shares,NYQ,NYSE,E,ETF
+DRE,Duke Realty Corporation,NYQ,NYSE,S,Equity
+DS,Drive Shack Inc.,NYQ,NYSE,S,Equity
+DSX,Diana Shipping Inc.,NYQ,NYSE,S,Equity
+DSS,"Document Security Systems, Inc.",NYQ,NYSE,S,Equity
+DSL,DoubleLine Income Solutions Fund,NYQ,NYSE,S,Equity
+DSW,Designer Brands Inc.,NYQ,NYSE,S,Equity
+DSSI,Diamond S Shipping Inc.,NYQ,NYSE,S,Equity
+DTE,DTE Energy Company,NYQ,NYSE,S,Equity
+DTN,WisdomTree U.S. Dividend ex-Financials Fund,NYQ,NYSE,E,ETF
+DUK,Duke Energy Corporation,NYQ,NYSE,S,Equity
+DSE,Duff & Phelps Select Energy MLP Fund Inc.,NYQ,NYSE,S,Equity
+DVYE,iShares Emerging Markets Dividend ETF,NYQ,NYSE,E,ETF
+DVD,"Dover Motorsports, Inc.",NYQ,NYSE,S,Equity
+DWT,VelocityShares 3x Inverse Crude Oil ETNs linked to the S&P GSCI Crude Oil Index ER New,NYQ,NYSE,E,ETF
+KTF,DWS Municipal Income Trust,NYQ,NYSE,S,Equity
+DWDP-WI,DowDuPont Inc.,NYQ,NYSE,S,Equity
+DX,"Dynex Capital, Inc.",NYQ,NYSE,S,Equity
+DXC,DXC Technology Company,NYQ,NYSE,S,Equity
+DXD,ProShares UltraShort Dow30,NYQ,NYSE,E,ETF
+DY,"Dycom Industries, Inc.",NYQ,NYSE,S,Equity
+DX-PB,"Dynex Capital, Inc.",NYQ,NYSE,S,Equity
+DLNG-PB,Dynagas LNG Partners LP,NYQ,NYSE,S,Equity
+ETN,Eaton Corporation plc,NYQ,NYSE,S,Equity
+KODK,Eastman Kodak Company,NYQ,NYSE,S,Equity
+EXP,Eagle Materials Inc.,NYQ,NYSE,S,Equity
+EMN,Eastman Chemical Company,NYQ,NYSE,S,Equity
+EAT,"Brinker International, Inc.",NYQ,NYSE,S,Equity
+ECC,Eagle Point Credit Company Inc.,NYQ,NYSE,S,Equity
+EBF,"Ennis, Inc.",NYQ,NYSE,S,Equity
+EBS,Emergent BioSolutions Inc.,NYQ,NYSE,S,Equity
+EBR,Centrais Elétricas Brasileiras S.A. - Eletrobras,NYQ,NYSE,S,Equity
+EC,Ecopetrol S.A.,NYQ,NYSE,S,Equity
+ECA,Encana Corporation,NYQ,NYSE,S,Equity
+ECL,Ecolab Inc.,NYQ,NYSE,S,Equity
+ECT,ECA Marcellus Trust I,NYQ,NYSE,S,Equity
+ED,"Consolidated Edison, Inc.",NYQ,NYSE,S,Equity
+EW,Edwards Lifesciences Corporation,NYQ,NYSE,S,Equity
+EIX,Edison International,NYQ,NYSE,S,Equity
+EDF,Stone Harbor Emerging Markets Income Fund,NYQ,NYSE,S,Equity
+EDU,New Oriental Education & Technology Group Inc.,NYQ,NYSE,S,Equity
+EE,El Paso Electric Company,NYQ,NYSE,S,Equity
+EEM,iShares MSCI Emerging Markets ETF,NYQ,NYSE,E,ETF
+EEMV,iShares Edge MSCI Min Vol Emerging Markets ETF,NYQ,NYSE,E,ETF
+EES,WisdomTree U.S. SmallCap Earnings Fund,NYQ,NYSE,E,ETF
+EFA,iShares MSCI EAFE ETF,NYQ,NYSE,E,ETF
+EFX,Equifax Inc.,NYQ,NYSE,S,Equity
+EFC,Ellington Financial Inc.,NYQ,NYSE,S,Equity
+EFAV,iShares Edge MSCI Min Vol EAFE ETF,NYQ,NYSE,E,ETF
+EFV,iShares MSCI EAFE Value ETF,NYQ,NYSE,E,ETF
+EFT,Eaton Vance Floating-Rate Income Trust,NYQ,NYSE,S,Equity
+EFR,Eaton Vance Senior Floating-Rate Trust,NYQ,NYSE,S,Equity
+EGO,Eldorado Gold Corporation,NYQ,NYSE,S,Equity
+EGHT,"8x8, Inc.",NYQ,NYSE,S,Equity
+EGY,"VAALCO Energy, Inc.",NYQ,NYSE,S,Equity
+EGP,"EastGroup Properties, Inc.",NYQ,NYSE,S,Equity
+EHI,Western Asset Global High Income Fund Inc.,NYQ,NYSE,S,Equity
+EHIC,eHi Car Services Limited,NYQ,NYSE,S,Equity
+EHT,Eaton Vance High Income 2021 Target Term Trust,NYQ,NYSE,S,Equity
+EIDO,iShares MSCI Indonesia ETF,NYQ,NYSE,E,ETF
+EIG,"Employers Holdings, Inc.",NYQ,NYSE,S,Equity
+EIS,iShares MSCI Israel Capped ETF,NYQ,NYSE,E,ETF
+EKAR,Innovation Shares NextGen Vehicles and Technology ETF,NYQ,NYSE,E,ETF
+EL,The Estée Lauder Companies Inc.,NYQ,NYSE,S,Equity
+LLY,Eli Lilly and Company,NYQ,NYSE,S,Equity
+ELF,"e.l.f. Beauty, Inc.",NYQ,NYSE,S,Equity
+EMR,Emerson Electric Co.,NYQ,NYSE,S,Equity
+EMES,Emerge Energy Services LP,NYQ,NYSE,S,Equity
+EMAN,eMagin Corporation,NYQ,NYSE,S,Equity
+ERJ,Embraer S.A.,NYQ,NYSE,S,Equity
+EME,"EMCOR Group, Inc.",NYQ,NYSE,S,Equity
+ET,Energy Transfer LP,NYQ,NYSE,S,Equity
+EPD,Enterprise Products Partners L.P.,NYQ,NYSE,S,Equity
+ENB,Enbridge Inc.,NYQ,NYSE,S,Equity
+ESV,Ensco Rowan plc,NYQ,NYSE,S,Equity
+EOG,"EOG Resources, Inc.",NYQ,NYSE,S,Equity
+EOS,Eaton Vance Enhanced Equity Income Fund II,NYQ,NYSE,S,Equity
+EOI,Eaton Vance Enhanced Equity Income Fund,NYQ,NYSE,S,Equity
+EOD,Wells Fargo Advantage Funds - Wells Fargo Global Dividend Opportunity Fund,NYQ,NYSE,S,Equity
+EOT,Eaton Vance National Municipal Opportunities Trust,NYQ,NYSE,S,Equity
+EPR,EPR Properties,NYQ,NYSE,S,Equity
+EPAM,"EPAM Systems, Inc.",NYQ,NYSE,S,Equity
+EQT,EQT Corporation,NYQ,NYSE,S,Equity
+EQR,Equity Residential,NYQ,NYSE,S,Equity
+EQNR,Equinor ASA,NYQ,NYSE,S,Equity
+ELS,"Equity LifeStyle Properties, Inc.",NYQ,NYSE,S,Equity
+ETRN,Equitrans Midstream Corporation,NYQ,NYSE,S,Equity
+ERX,Direxion Daily Energy Bull 3X Shares,NYQ,NYSE,E,ETF
+ERF,Enerplus Corporation,NYQ,NYSE,S,Equity
+ERA,Era Group Inc.,NYQ,NYSE,S,Equity
+ES,Eversource Energy,NYQ,NYSE,S,Equity
+ESS,"Essex Property Trust, Inc.",NYQ,NYSE,S,Equity
+ESNT,Essent Group Ltd.,NYQ,NYSE,S,Equity
+MJ,ETFMG Alternative Harvest ETF,NYQ,NYSE,E,ETF
+ETR,Entergy Corporation,NYQ,NYSE,S,Equity
+HACK,ETFMG Prime Cyber Security ETF,NYQ,NYSE,E,ETF
+EURN,Euronav NV,NYQ,NYSE,S,Equity
+EV,Eaton Vance Corp.,NYQ,NYSE,S,Equity
+EVRG,"Evergy, Inc.",NYQ,NYSE,S,Equity
+EVH,"Evolent Health, Inc.",NYQ,NYSE,S,Equity
+EWZ,iShares MSCI Brazil Capped ETF,NYQ,NYSE,E,ETF
+EWJ,iShares MSCI Japan ETF,NYQ,NYSE,E,ETF
+EWY,iShares MSCI South Korea Capped ETF,NYQ,NYSE,E,ETF
+EWW,iShares MSCI Mexico Capped ETF,NYQ,NYSE,E,ETF
+EWG,iShares MSCI Germany ETF,NYQ,NYSE,E,ETF
+EWA,iShares MSCI Australia ETF,NYQ,NYSE,E,ETF
+EWH,iShares MSCI Hong Kong ETF,NYQ,NYSE,E,ETF
+EXC,Exelon Corporation,NYQ,NYSE,S,Equity
+EXPR,"Express, Inc.",NYQ,NYSE,S,Equity
+EZA,iShares MSCI South Africa ETF,NYQ,NYSE,E,ETF
+EZM,WisdomTree U.S. MidCap Earnings Fund,NYQ,NYSE,E,ETF
+EZT,"Entergy Texas, Inc.",NYQ,NYSE,E,ETF
+SSP,The E.W. Scripps Company,NYQ,NYSE,S,Equity
+DD-PB,E. I. du Pont de Nemours and Company,NYQ,NYSE,S,Equity
+DD-PA,E. I. du Pont de Nemours and Company,NYQ,NYSE,S,Equity
+DD_PA,E.I. du Pont de Nemours and Com,NYQ,NYSE,S,Equity
+DD_PB,E.I. du Pont de Nemours and Com,NYQ,NYSE,S,Equity
+GME,GameStop Corp.,NYQ,NYSE,S,Equity
+GPS,"The Gap, Inc.",NYQ,NYSE,S,Equity
+GTX,Garrett Motion Inc.,NYQ,NYSE,S,Equity
+GRX,The Gabelli Healthcare & Wellness Trust,NYQ,NYSE,S,Equity
+GBX,"The Greenbrier Companies, Inc.",NYQ,NYSE,S,Equity
+GBR,"New Concept Energy, Inc.",NYQ,NYSE,S,Equity
+GCI,"Gannett Co., Inc.",NYQ,NYSE,S,Equity
+GCAP,"GAIN Capital Holdings, Inc.",NYQ,NYSE,S,Equity
+GCO,Genesco Inc.,NYQ,NYSE,S,Equity
+GCP,GCP Applied Technologies Inc.,NYQ,NYSE,S,Equity
+GCV,The Gabelli Convertible and Income Securities Fund Inc.,NYQ,NYSE,S,Equity
+GD,General Dynamics Corporation,NYQ,NYSE,S,Equity
+GDXJ,VanEck Vectors Junior Gold Miners ETF,NYQ,NYSE,E,ETF
+GDDY,GoDaddy Inc.,NYQ,NYSE,S,Equity
+GDOT,Green Dot Corporation,NYQ,NYSE,S,Equity
+GDV,The Gabelli Dividend & Income Trust,NYQ,NYSE,S,Equity
+GM,General Motors Company,NYQ,NYSE,S,Equity
+GIS,"General Mills, Inc.",NYQ,NYSE,S,Equity
+GPC,Genuine Parts Company,NYQ,NYSE,S,Equity
+GNW,"Genworth Financial, Inc.",NYQ,NYSE,S,Equity
+GF,"The New Germany Fund, Inc.",NYQ,NYSE,S,Equity
+GFI,Gold Fields Limited,NYQ,NYSE,S,Equity
+GFF,Griffon Corporation,NYQ,NYSE,S,Equity
+GFIN,Goldman Sachs Motif Finance Reimagined ETF,NYQ,NYSE,E,ETF
+GG,Goldcorp Inc.,NYQ,NYSE,S,Equity
+GGG,Graco Inc.,NYQ,NYSE,S,Equity
+GGB,Gerdau S.A.,NYQ,NYSE,S,Equity
+GGT,The Gabelli Multimedia Trust Inc.,NYQ,NYSE,S,Equity
+GGM,Guggenheim Credit Allocation Fund,NYQ,NYSE,S,Equity
+GHC,Graham Holdings Company,NYQ,NYSE,S,Equity
+GHL,"Greenhill & Co., Inc.",NYQ,NYSE,S,Equity
+GHM,Graham Corporation,NYQ,NYSE,S,Equity
+GHG,GreenTree Hospitality Group Ltd.,NYQ,NYSE,S,Equity
+GIL,Gildan Activewear Inc.,NYQ,NYSE,S,Equity
+GIM,Templeton Global Income Fund,NYQ,NYSE,S,Equity
+GJR,Strats Trust For Procter & Gambel Security CTF 2006-1,NYQ,NYSE,S,Equity
+GJP,"STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6",NYQ,NYSE,S,Equity
+GJV,STRATS Trust for News Corporation Securities Series 2006-4 CTF 7% CL A-1,NYQ,NYSE,S,Equity
+GJT,"Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD",NYQ,NYSE,S,Equity
+GJS,"STRATS Trust for Goldman Sachs Group Securities, Series 2006-2",NYQ,NYSE,S,Equity
+GJH,"STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375",NYQ,NYSE,S,Equity
+GJO,Strats Trust Wal Mart Stores Inc. STRT CTF 05-4,NYQ,NYSE,S,Equity
+GKOS,Glaukos Corporation,NYQ,NYSE,S,Equity
+GLD,SPDR Gold Shares,NYQ,NYSE,E,ETF
+GSK,GlaxoSmithKline plc,NYQ,NYSE,S,Equity
+GLW,Corning Incorporated,NYQ,NYSE,S,Equity
+GSAT,"Globalstar, Inc.",NYQ,NYSE,S,Equity
+GMED,"Globus Medical, Inc.",NYQ,NYSE,S,Equity
+GNL,"Global Net Lease, Inc.",NYQ,NYSE,S,Equity
+GNC,"GNC Holdings, Inc.",NYQ,NYSE,S,Equity
+GNK,Genco Shipping & Trading Limited,NYQ,NYSE,S,Equity
+GPL,Great Panther Mining Limited,NYQ,NYSE,S,Equity
+GPN,Global Payments Inc.,NYQ,NYSE,S,Equity
+GPK,Graphic Packaging Holding Company,NYQ,NYSE,S,Equity
+GQRE,FlexShares Global Quality Real Estate Index Fund,NYQ,NYSE,E,ETF
+GSS,Golden Star Resources Ltd.,NYQ,NYSE,S,Equity
+GSB,"GlobalSCAPE, Inc.",NYQ,NYSE,S,Equity
+GTN,"Gray Television, Inc.",NYQ,NYSE,S,Equity
+GTE,Gran Tierra Energy Inc.,NYQ,NYSE,S,Equity
+GTT,"GTT Communications, Inc.",NYQ,NYSE,S,Equity
+GES,"Guess', Inc.",NYQ,NYSE,S,Equity
+GWRE,"Guidewire Software, Inc.",NYQ,NYSE,S,Equity
+GOF,Guggenheim Strategic Opportunities Fund,NYQ,NYSE,S,Equity
+GUT,The Gabelli Utility Trust,NYQ,NYSE,S,Equity
+GSH,Guangshen Railway Company Limited,NYQ,NYSE,S,Equity
+GV,The Goldfield Corporation,NYQ,NYSE,S,Equity
+GVA,Granite Construction Incorporated,NYQ,NYSE,S,Equity
+GVAL,Cambria Global Value ETF,NYQ,NYSE,E,ETF
+GVI,iShares Intermediate Government/Credit Bond ETF,NYQ,NYSE,E,ETF
+GWW,"W.W. Grainger, Inc.",NYQ,NYSE,S,Equity
+GWR,Genesee & Wyoming Inc.,NYQ,NYSE,S,Equity
+GWB,"Great Western Bancorp, Inc.",NYQ,NYSE,S,Equity
+GXG,Global X MSCI Colombia ETF,NYQ,NYSE,E,ETF
+GYC,Cabco Series 2004-102 Trust (sbc Communications Inc.) CTF FLT RATE,NYQ,NYSE,E,ETF
+GYB,CABCO Series 2004-101 Trust (Goldman Sachs Capital I) CTF CALL 6.345,NYQ,NYSE,S,Equity
+GZT,Gazit Globe Ltd,NYQ,NYSE,S,Equity
+HAL,Halliburton Company,NYQ,NYSE,S,Equity
+HOG,"Harley-Davidson, Inc.",NYQ,NYSE,S,Equity
+HK,Halcón Resources Corporation,NYQ,NYSE,S,Equity
+HBI,Hanesbrands Inc.,NYQ,NYSE,S,Equity
+HBM,Hudbay Minerals Inc.,NYQ,NYSE,S,Equity
+HCA,"HCA Healthcare, Inc.",NYQ,NYSE,S,Equity
+HCLP,Hi-Crush Partners LP,NYQ,NYSE,S,Equity
+HCP,"HCP, Inc.",NYQ,NYSE,S,Equity
+HCC,"Warrior Met Coal, Inc.",NYQ,NYSE,S,Equity
+HCI,"HCI Group, Inc.",NYQ,NYSE,S,Equity
+HDB,HDFC Bank Limited,NYQ,NYSE,S,Equity
+HDGE,AdvisorShares Ranger Equity Bear ETF,NYQ,NYSE,E,ETF
+HDLV,UBS ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN,NYQ,NYSE,E,ETF
+HE,"Hawaiian Electric Industries, Inc.",NYQ,NYSE,S,Equity
+HL,Hecla Mining Company,NYQ,NYSE,S,Equity
+HPQ,HP Inc.,NYQ,NYSE,S,Equity
+HPE,Hewlett Packard Enterprise Company,NYQ,NYSE,S,Equity
+HFC,HollyFrontier Corporation,NYQ,NYSE,S,Equity
+HFRO,Highland Funds I - Highland Floating Rate Opportunities Fund,NYQ,NYSE,S,Equity
+HGV,Hilton Grand Vacations Inc.,NYQ,NYSE,S,Equity
+HGLB,Highland Global Allocation Fund,NYQ,NYSE,S,Equity
+HGH,"The Hartford Financial Services Group, Inc. DEB FIX/FLT 42",NYQ,NYSE,S,Equity
+HHC,The Howard Hughes Corporation,NYQ,NYSE,S,Equity
+HHS,"Harte Hanks, Inc.",NYQ,NYSE,S,Equity
+HI,"Hillenbrand, Inc.",NYQ,NYSE,S,Equity
+HRC,"Hill-Rom Holdings, Inc.",NYQ,NYSE,S,Equity
+HIG,"The Hartford Financial Services Group, Inc.",NYQ,NYSE,S,Equity
+HLT,Hilton Worldwide Holdings Inc.,NYQ,NYSE,S,Equity
+HJV,MS Structured Saturns Series 2007-1 NT CL A 7%,NYQ,NYSE,S,Equity
+HJPX,iShares Currency Hedged JPX-Nikkei 400 ETF,NYQ,NYSE,E,ETF
+HK-WT,Halcon Resources Corporation,NYQ,NYSE,S,Equity
+HLF,Herbalife Nutrition Ltd.,NYQ,NYSE,S,Equity
+HLTH,Nobilis Health Corp.,NYQ,NYSE,S,Equity
+HLX,"Helix Energy Solutions Group, Inc.",NYQ,NYSE,S,Equity
+HMC,"Honda Motor Co., Ltd.",NYQ,NYSE,S,Equity
+HMY,Harmony Gold Mining Company Limited,NYQ,NYSE,S,Equity
+HMLP,Höegh LNG Partners LP,NYQ,NYSE,S,Equity
+HNI,HNI Corporation,NYQ,NYSE,S,Equity
+HNGR,"Hanger, Inc.",NYQ,NYSE,S,Equity
+HNP,"Huaneng Power International, Inc.",NYQ,NYSE,S,Equity
+HRL,Hormel Foods Corporation,NYQ,NYSE,S,Equity
+HP,"Helmerich & Payne, Inc.",NYQ,NYSE,S,Equity
+HPS,John Hancock Preferred Income Fund III,NYQ,NYSE,S,Equity
+HPI,John Hancock Preferred Income Fund,NYQ,NYSE,S,Equity
+HPF,John Hancock Preferred Income Fund II,NYQ,NYSE,S,Equity
+HQH,Tekla Healthcare Investors,NYQ,NYSE,S,Equity
+HQL,Tekla Life Sciences Investors,NYQ,NYSE,S,Equity
+HR,Healthcare Realty Trust Incorporated,NYQ,NYSE,S,Equity
+HRS,Harris Corporation,NYQ,NYSE,S,Equity
+HRB,"H&R Block, Inc.",NYQ,NYSE,S,Equity
+HRI,Herc Holdings Inc.,NYQ,NYSE,S,Equity
+HSY,The Hershey Company,NYQ,NYSE,S,Equity
+HSBC,HSBC Holdings plc,NYQ,NYSE,S,Equity
+HST,"Host Hotels & Resorts, Inc.",NYQ,NYSE,S,Equity
+HSC,Harsco Corporation,NYQ,NYSE,S,Equity
+HT,Hersha Hospitality Trust,NYQ,NYSE,S,Equity
+HTGC,"Hercules Capital, Inc.",NYQ,NYSE,S,Equity
+HTA,"Healthcare Trust of America, Inc.",NYQ,NYSE,S,Equity
+HTH,Hilltop Holdings Inc.,NYQ,NYSE,S,Equity
+HUM,Humana Inc.,NYQ,NYSE,S,Equity
+HII,"Huntington Ingalls Industries, Inc.",NYQ,NYSE,S,Equity
+HUSA,Houston American Energy Corp.,NYQ,NYSE,S,Equity
+HVT,"Haverty Furniture Companies, Inc.",NYQ,NYSE,S,Equity
+HXL,Hexcel Corporation,NYQ,NYSE,S,Equity
+HY,"Hyster-Yale Materials Handling, Inc.",NYQ,NYSE,S,Equity
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,NYQ,NYSE,E,ETF
+HYT,"BlackRock Corporate High Yield Fund, Inc.",NYQ,NYSE,S,Equity
+HYD,VanEck Vectors High-Yield Municipal Index ETF,NYQ,NYSE,E,ETF
+HZN,Horizon Global Corporation,NYQ,NYSE,S,Equity
+HZO,"MarineMax, Inc.",NYQ,NYSE,S,Equity
+FUL,H.B. Fuller Company,NYQ,NYSE,S,Equity
+IAG,IAMGOLD Corporation,NYQ,NYSE,S,Equity
+IAU,iShares Gold Trust,NYQ,NYSE,E,ETF
+IAT,iShares U.S. Regional Banks ETF,NYQ,NYSE,E,ETF
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,NYQ,NYSE,E,ETF
+IAK,iShares U.S. Insurance ETF,NYQ,NYSE,E,ETF
+IAF,"Aberdeen Australia Equity Fund, Inc.",NYQ,NYSE,S,Equity
+IBN,ICICI Bank Limited,NYQ,NYSE,S,Equity
+IBIO,"iBio, Inc.",NYQ,NYSE,S,Equity
+IBP,"Installed Building Products, Inc.",NYQ,NYSE,S,Equity
+ICE,"Intercontinental Exchange, Inc.",NYQ,NYSE,S,Equity
+ICL,Israel Chemicals Ltd.,NYQ,NYSE,S,Equity
+IEX,IDEX Corporation,NYQ,NYSE,S,Equity
+IDV,iShares International Select Dividend ETF,NYQ,NYSE,E,ETF
+IEMG,iShares Core MSCI Emerging Markets ETF,NYQ,NYSE,E,ETF
+IEUR,iShares Core MSCI Europe ETF,NYQ,NYSE,E,ETF
+IFF,International Flavors & Fragrances Inc.,NYQ,NYSE,S,Equity
+IFN,"The India Fund, Inc.",NYQ,NYSE,S,Equity
+IG,Principal Investment Grade Corporate Active ETF,NYQ,NYSE,E,ETF
+IGT,International Game Technology PLC,NYQ,NYSE,S,Equity
+IGV,iShares Expanded Tech-Software Sector ETF,NYQ,NYSE,E,ETF
+IGR,CBRE Clarion Global Real Estate Income Fund,NYQ,NYSE,S,Equity
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,NYQ,NYSE,S,Equity
+IGM,iShares Expanded Tech Sector ETF,NYQ,NYSE,E,ETF
+IHG,InterContinental Hotels Group PLC,NYQ,NYSE,S,Equity
+IHC,Independence Holding Company,NYQ,NYSE,S,Equity
+IIPR,"Innovative Industrial Properties, Inc.",NYQ,NYSE,S,Equity
+IIM,Invesco Value Municipal Income Trust,NYQ,NYSE,S,Equity
+IIF,"Morgan Stanley India Investment Fund, Inc.",NYQ,NYSE,S,Equity
+IID,Voya International High Dividend Equity Income Fund,NYQ,NYSE,S,Equity
+IIPR-PA,"Innovative Industrial Properties, Inc.",NYQ,NYSE,S,Equity
+IJR,iShares Core S&P Small-Cap ETF,NYQ,NYSE,E,ETF
+IJH,iShares Core S&P Mid-Cap ETF,NYQ,NYSE,E,ETF
+IJS,iShares S&P Small-Cap 600 Value ETF,NYQ,NYSE,E,ETF
+IJK,iShares S&P Mid-Cap 400 Growth ETF,NYQ,NYSE,E,ETF
+IJJ,iShares S&P Mid-Cap 400 Value ETF,NYQ,NYSE,E,ETF
+ITW,Illinois Tool Works Inc.,NYQ,NYSE,S,Equity
+ILF,iShares Latin America 40 ETF,NYQ,NYSE,E,ETF
+ILTB,iShares Core 10+ Year USD Bond ETF,NYQ,NYSE,E,ETF
+IMAX,IMAX Corporation,NYQ,NYSE,S,Equity
+IP,International Paper Company,NYQ,NYSE,S,Equity
+IO,ION Geophysical Corporation,NYQ,NYSE,S,Equity
+IOO,iShares Global 100 ETF,NYQ,NYSE,E,ETF
+IPG,"The Interpublic Group of Companies, Inc.",NYQ,NYSE,S,Equity
+IPO,Renaissance IPO ETF,NYQ,NYSE,E,ETF
+IPI,"Intrepid Potash, Inc.",NYQ,NYSE,S,Equity
+IPAY,ETFMG Prime Mobile Payments ETF,NYQ,NYSE,E,ETF
+IQV,IQVIA Holdings Inc.,NYQ,NYSE,S,Equity
+MNA,IQ Merger Arbitrage ETF,NYQ,NYSE,E,ETF
+IQI,Invesco Quality Municipal Income Trust,NYQ,NYSE,S,Equity
+IQDF,FlexShares International Quality Dividend Index Fund,NYQ,NYSE,E,ETF
+IR,Ingersoll-Rand Plc,NYQ,NYSE,S,Equity
+IRM,Iron Mountain Incorporated,NYQ,NYSE,S,Equity
+IWM,iShares Russell 2000 ETF,NYQ,NYSE,E,ETF
+SLV,iShares Silver Trust,NYQ,NYSE,E,ETF
+IVV,iShares Core S&P 500 ETF,NYQ,NYSE,E,ETF
+IT,"Gartner, Inc.",NYQ,NYSE,S,Equity
+ITUB,Itaú Unibanco Holding S.A.,NYQ,NYSE,S,Equity
+ITA,iShares U.S. Aerospace & Defense ETF,NYQ,NYSE,E,ETF
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,NYQ,NYSE,E,ETF
+IVZ,Invesco Ltd.,NYQ,NYSE,S,Equity
+IVR,Invesco Mortgage Capital Inc.,NYQ,NYSE,S,Equity
+IVW,iShares S&P 500 Growth ETF,NYQ,NYSE,E,ETF
+IVC,Invacare Corporation,NYQ,NYSE,S,Equity
+IWF,iShares Russell 1000 Growth ETF,NYQ,NYSE,E,ETF
+IWO,iShares Russell 2000 Growth ETF,NYQ,NYSE,E,ETF
+IWD,iShares Russell 1000 Value ETF,NYQ,NYSE,E,ETF
+IWN,iShares Russell 2000 Value ETF,NYQ,NYSE,E,ETF
+IWP,iShares Russell Mid-Cap Growth ETF,NYQ,NYSE,E,ETF
+IWV,iShares Russell 3000 ETF,NYQ,NYSE,E,ETF
+IWR,iShares Russell Mid-Cap ETF,NYQ,NYSE,E,ETF
+IX,ORIX Corporation,NYQ,NYSE,S,Equity
+IXN,iShares Global Tech ETF,NYQ,NYSE,E,ETF
+IXC,iShares Global Energy ETF,NYQ,NYSE,E,ETF
+IXP,iShares Global Comm Services ETF,NYQ,NYSE,E,ETF
+IXG,iShares Global Financials ETF,NYQ,NYSE,E,ETF
+IYH,iShares U.S. Healthcare ETF,NYQ,NYSE,E,ETF
+IYT,iShares Transportation Average ETF,NYQ,NYSE,E,ETF
+IYW,iShares U.S. Technology ETF,NYQ,NYSE,E,ETF
+IYF,iShares U.S. Financials ETF,NYQ,NYSE,E,ETF
+IYZ,iShares U.S. Telecommunications ETF,NYQ,NYSE,E,ETF
+IYE,iShares U.S. Energy ETF,NYQ,NYSE,E,ETF
+IYM,iShares U.S. Basic Materials ETF,NYQ,NYSE,E,ETF
+IYLD,iShares Morningstar Multi-Asset Income ETF,NYQ,NYSE,E,ETF
+JBL,Jabil Inc.,NYQ,NYSE,S,Equity
+JEC,Jacobs Engineering Group Inc.,NYQ,NYSE,S,Equity
+JBGS,JBG SMITH Properties,NYQ,NYSE,S,Equity
+JBT,John Bean Technologies Corporation,NYQ,NYSE,S,Equity
+JCI,Johnson Controls International plc,NYQ,NYSE,S,Equity
+JCAP,"Jernigan Capital, Inc.",NYQ,NYSE,S,Equity
+JCE,Nuveen Core Equity Alpha Fund,NYQ,NYSE,S,Equity
+JCAP-PB,"Jernigan Capital, Inc.",NYQ,NYSE,S,Equity
+JDST,Direxion Daily Junior Gold Miners Index Bear 3X Shares,NYQ,NYSE,E,ETF
+JDD,Nuveen Diversified Dividend and Income Fund,NYQ,NYSE,S,Equity
+JDIV,JPMorgan U.S. Dividend ETF,NYQ,NYSE,E,ETF
+JE,Just Energy Group Inc.,NYQ,NYSE,S,Equity
+JEF,Jefferies Financial Group Inc.,NYQ,NYSE,S,Equity
+JFR,Nuveen Floating Rate Income Fund,NYQ,NYSE,S,Equity
+JGH,Nuveen Global High Income Fund,NYQ,NYSE,S,Equity
+JHX,James Hardie Industries plc,NYQ,NYSE,S,Equity
+JHI,John Hancock Investors Trust,NYQ,NYSE,S,Equity
+JHMM,John Hancock Multifactor Mid Cap ETF,NYQ,NYSE,E,ETF
+JHS,John Hancock Income Securities Trust,NYQ,NYSE,S,Equity
+JKS,"JinkoSolar Holding Co., Ltd.",NYQ,NYSE,S,Equity
+JJG,iPath Series B Bloomberg Grains Subindex Total Return ETN,NYQ,NYSE,E,ETF
+JJC,iPath Series B Bloomberg Copper Subindex Total Return ETN,NYQ,NYSE,E,ETF
+JJA,iPath Series B Bloomberg Agriculture Subindex Total Return ETN,NYQ,NYSE,E,ETF
+JKH,iShares Morningstar Mid-Cap Growth ETF,NYQ,NYSE,E,ETF
+JKK,iShares Morningstar Small-Cap Growth ETF,NYQ,NYSE,E,ETF
+JKJ,iShares Morningstar Small-Cap ETF,NYQ,NYSE,E,ETF
+JKF,iShares Morningstar Large-Cap Value ETF,NYQ,NYSE,E,ETF
+JLL,Jones Lang LaSalle Incorporated,NYQ,NYSE,S,Equity
+JLS,Nuveen Mortgage Opportunity Term Fund,NYQ,NYSE,S,Equity
+JMF,Nuveen Energy MLP Total Return Fund,NYQ,NYSE,S,Equity
+JMP,JMP Group LLC,NYQ,NYSE,S,Equity
+JMST,JPMorgan Ultra-Short Municipal Income ETF,NYQ,NYSE,E,ETF
+JMLP,Nuveen All Cap Energy MLP Opportunities Fund,NYQ,NYSE,S,Equity
+JNPR,"Juniper Networks, Inc.",NYQ,NYSE,S,Equity
+JO,iPath Series B Bloomberg Coffee Subindex Total Return ETN,NYQ,NYSE,E,ETF
+JOE,The St. Joe Company,NYQ,NYSE,S,Equity
+JP,Jupai Holdings Limited,NYQ,NYSE,S,Equity
+JPS,Nuveen Preferred Securities Income Fund,NYQ,NYSE,S,Equity
+AMJ,JPMorgan Alerian MLP Index ETN,NYQ,NYSE,E,ETF
+BBUS,JPMorgan BetaBuilders U.S. Equity ETF,NYQ,NYSE,E,ETF
+JQC,Nuveen Credit Strategies Income Fund,NYQ,NYSE,S,Equity
+JQUA,JPMorgan U.S. Quality Factor ETF,NYQ,NYSE,E,ETF
+JRS,Nuveen Real Estate Income Fund,NYQ,NYSE,S,Equity
+JRO,Nuveen Floating Rate Income Opportunity Fund,NYQ,NYSE,S,Equity
+JRI,Nuveen Real Asset Income and Growth Fund,NYQ,NYSE,S,Equity
+JSD,Nuveen Short Duration Credit Opportunities Fund,NYQ,NYSE,S,Equity
+JTD,Nuveen Tax-Advantaged Dividend Growth Fund,NYQ,NYSE,S,Equity
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,NYQ,NYSE,S,Equity
+JWN,"Nordstrom, Inc.",NYQ,NYSE,S,Equity
+JW-A,"John Wiley & Sons, Inc.",NYQ,NYSE,S,Equity
+JWA,John Wiley & Sons Inc.,NYQ,NYSE,S,Equity
+JW-B,"John Wiley & Sons, Inc.",NYQ,NYSE,S,Equity
+JWB,"John Wiley & Sons, Inc.",NYQ,NYSE,S,Equity
+SJM,The J. M. Smucker Company,NYQ,NYSE,S,Equity
+JAX,"J. Alexander's Holdings, Inc.",NYQ,NYSE,S,Equity
+KSU,Kansas City Southern,NYQ,NYSE,S,Equity
+KAR,"KAR Auction Services, Inc.",NYQ,NYSE,S,Equity
+KYN,Kayne Anderson MLP/Midstream Investment Company,NYQ,NYSE,S,Equity
+KDMN,"Kadmon Holdings, Inc.",NYQ,NYSE,S,Equity
+KB,KB Financial Group Inc.,NYQ,NYSE,S,Equity
+KBA,KraneShares Bosera MSCI China A ETF,NYQ,NYSE,E,ETF
+KBH,KB Home,NYQ,NYSE,S,Equity
+KBE,SPDR S&P Bank ETF,NYQ,NYSE,E,ETF
+KCE,SPDR S&P Capital Markets ETF,NYQ,NYSE,E,ETF
+KCNY,KraneShares E Fund China Commercial Paper ETF,NYQ,NYSE,E,ETF
+KEYS,"Keysight Technologies, Inc.",NYQ,NYSE,S,Equity
+KEM,KEMET Corporation,NYQ,NYSE,S,Equity
+KEG,"Key Energy Services, Inc.",NYQ,NYSE,S,Equity
+KMT,Kennametal Inc.,NYQ,NYSE,S,Equity
+KF,"The Korea Fund, Inc.",NYQ,NYSE,S,Equity
+KFS,Kingsway Financial Services Inc.,NYQ,NYSE,S,Equity
+KFY,Korn Ferry,NYQ,NYSE,S,Equity
+KFYP,KraneShares CICC China Leaders 100 Index ETF,NYQ,NYSE,E,ETF
+KGC,Kinross Gold Corporation,NYQ,NYSE,S,Equity
+KGRN,KraneShares MSCI China Environment Index ETF,NYQ,NYSE,E,ETF
+KMB,Kimberly-Clark Corporation,NYQ,NYSE,S,Equity
+KL,Kirkland Lake Gold Ltd.,NYQ,NYSE,S,Equity
+KIM,Kimco Realty Corporation,NYQ,NYSE,S,Equity
+KRG,Kite Realty Group Trust,NYQ,NYSE,S,Equity
+KIO,KKR Income Opportunities Fund,NYQ,NYSE,S,Equity
+KKR-PA,KKR & Co. Inc.,NYQ,NYSE,S,Equity
+KKR-PB,KKR & Co. Inc.,NYQ,NYSE,S,Equity
+KLDW,Knowledge Leaders Developed World ETF,NYQ,NYSE,E,ETF
+KMX,"CarMax, Inc.",NYQ,NYSE,S,Equity
+KMPR,Kemper Corporation,NYQ,NYSE,S,Equity
+KMF,"Kayne Anderson Midstream/Energy Fund, Inc.",NYQ,NYSE,S,Equity
+KMPA,Kemper Corporation SUB NT 54,NYQ,NYSE,E,ETF
+KN,Knowles Corporation,NYQ,NYSE,S,Equity
+KNX,Knight-Swift Transportation Holdings Inc.,NYQ,NYSE,S,Equity
+KNL,"Knoll, Inc.",NYQ,NYSE,S,Equity
+KSS,Kohl's Corporation,NYQ,NYSE,S,Equity
+PHG,Koninklijke Philips N.V.,NYQ,NYSE,S,Equity
+KRO,"Kronos Worldwide, Inc.",NYQ,NYSE,S,Equity
+KSA,iShares MSCI Saudi Arabia ETF,NYQ,NYSE,E,ETF
+KSM,DWS Strategic Municipal Income Trust,NYQ,NYSE,S,Equity
+KSU-P,Kansas City Southern,NYQ,NYSE,S,Equity
+KT,KT Corporation,NYQ,NYSE,S,Equity
+KTP,Corts Trust for J.C. Penney Debentures,NYQ,NYSE,S,Equity
+KURE,KraneShares MSCI All China Health Care Index ETF,NYQ,NYSE,E,ETF
+KW,"Kennedy-Wilson Holdings, Inc.",NYQ,NYSE,S,Equity
+KWR,Quaker Chemical Corporation,NYQ,NYSE,S,Equity
+KXI,iShares Global Consumer Staples ETF,NYQ,NYSE,E,ETF
+KYN-PF,Kayne Anderson MLP Investment Company PFD 3.50 SER F,NYQ,NYSE,S,Equity
+LRN,K12 Inc.,NYQ,NYSE,S,Equity
+LCI,"Lannett Company, Inc.",NYQ,NYSE,S,Equity
+LH,Laboratory Corporation of America Holdings,NYQ,NYSE,S,Equity
+LPI,"Laredo Petroleum, Inc.",NYQ,NYSE,S,Equity
+LAC,Lithium Americas Corp.,NYQ,NYSE,S,Equity
+LB,"L Brands, Inc.",NYQ,NYSE,S,Equity
+LBY,Libbey Inc.,NYQ,NYSE,S,Equity
+LC,LendingClub Corporation,NYQ,NYSE,S,Equity
+LCII,LCI Industries,NYQ,NYSE,S,Equity
+LDOS,"Leidos Holdings, Inc.",NYQ,NYSE,S,Equity
+LDL,"Lydall, Inc.",NYQ,NYSE,S,Equity
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",NYQ,NYSE,S,Equity
+LEN,Lennar Corporation,NYQ,NYSE,S,Equity
+LFC,China Life Insurance Company Limited,NYQ,NYSE,S,Equity
+LGF-A,Lions Gate Entertainment Corp.,NYQ,NYSE,S,Equity
+LGF-B,Lions Gate Entertainment Corp.,NYQ,NYSE,S,Equity
+LGL,"The LGL Group, Inc.",NYQ,NYSE,S,Equity
+LHC,Leo Holdings Corp.,NYQ,NYSE,S,Equity
+LIN,Linde plc,NYQ,NYSE,S,Equity
+LKSD,"LSC Communications, Inc.",NYQ,NYSE,S,Equity
+LL,"Lumber Liquidators Holdings, Inc.",NYQ,NYSE,S,Equity
+LYG,Lloyds Banking Group plc,NYQ,NYSE,S,Equity
+LM,"Legg Mason, Inc.",NYQ,NYSE,S,Equity
+LMT,Lockheed Martin Corporation,NYQ,NYSE,S,Equity
+LMLP,UBS ETRACS Monthly Pay 2xLeveraged Wells Fargo MLP Ex-Energy ETN,NYQ,NYSE,E,ETF
+LN,LINE Corporation,NYQ,NYSE,S,Equity
+LNC,Lincoln National Corporation,NYQ,NYSE,S,Equity
+LNN,Lindsay Corporation,NYQ,NYSE,S,Equity
+LOW,"Lowe's Companies, Inc.",NYQ,NYSE,S,Equity
+LPX,Louisiana-Pacific Corporation,NYQ,NYSE,S,Equity
+LPG,Dorian LPG Ltd.,NYQ,NYSE,S,Equity
+LPT,Liberty Property Trust,NYQ,NYSE,S,Equity
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,NYQ,NYSE,E,ETF
+LQDH,iShares Interest Rate Hedged Corporate Bond ETF,NYQ,NYSE,E,ETF
+LRGF,iShares Edge MSCI Multifactor USA ETF,NYQ,NYSE,E,ETF
+LSI,"Life Storage, Inc.",NYQ,NYSE,S,Equity
+LXU,"LSB Industries, Inc.",NYQ,NYSE,S,Equity
+LTC,"LTC Properties, Inc.",NYQ,NYSE,S,Equity
+LTM,LATAM Airlines Group S.A.,NYQ,NYSE,S,Equity
+LUV,Southwest Airlines Co.,NYQ,NYSE,S,Equity
+LUB,"Luby's, Inc.",NYQ,NYSE,S,Equity
+LUXTY,Luxottica Group S.p.A.,NYQ,NYSE,S,Equity
+LVL,Invesco S&P Global Dividend Opportunities Index ETF,NYQ,NYSE,E,ETF
+LW,"Lamb Weston Holdings, Inc.",NYQ,NYSE,S,Equity
+LXP,Lexington Realty Trust,NYQ,NYSE,S,Equity
+LXFT,"Luxoft Holding, Inc.",NYQ,NYSE,S,Equity
+LXFR,Luxfer Holdings PLC,NYQ,NYSE,S,Equity
+LYB,LyondellBasell Industries N.V.,NYQ,NYSE,S,Equity
+LYV,"Live Nation Entertainment, Inc.",NYQ,NYSE,S,Equity
+LZB,La-Z-Boy Incorporated,NYQ,NYSE,S,Equity
+SCX,The L.S. Starrett Company,NYQ,NYSE,S,Equity
+MA,Mastercard Incorporated,NYQ,NYSE,S,Equity
+MNK,Mallinckrodt plc,NYQ,NYSE,S,Equity
+MPC,Marathon Petroleum Corporation,NYQ,NYSE,S,Equity
+MRO,Marathon Oil Corporation,NYQ,NYSE,S,Equity
+MBI,MBIA Inc.,NYQ,NYSE,S,Equity
+MBT,Public Joint-Stock Company Mobile TeleSystems,NYQ,NYSE,S,Equity
+MC,Moelis & Company,NYQ,NYSE,S,Equity
+MCD,McDonald's Corporation,NYQ,NYSE,S,Equity
+MDR,"McDermott International, Inc.",NYQ,NYSE,S,Equity
+MCK,McKesson Corporation,NYQ,NYSE,S,Equity
+MUX,McEwen Mining Inc.,NYQ,NYSE,S,Equity
+MKC,"McCormick & Company, Incorporated",NYQ,NYSE,S,Equity
+MD,"MEDNAX, Inc.",NYQ,NYSE,S,Equity
+MDT,Medtronic plc,NYQ,NYSE,S,Equity
+MRK,"Merck & Co., Inc.",NYQ,NYSE,S,Equity
+MFC,Manulife Financial Corporation,NYQ,NYSE,S,Equity
+MFA,"MFA Financial, Inc.",NYQ,NYSE,S,Equity
+MFGP,Micro Focus International plc,NYQ,NYSE,S,Equity
+MFCB,MFC Bancorp Ltd.,NYQ,NYSE,S,Equity
+MMT,MFS Multimarket Income Trust,NYQ,NYSE,S,Equity
+MFMS,MFAM Small-Cap Growth ETF,NYQ,NYSE,E,ETF
+MFG,"Mizuho Financial Group, Inc.",NYQ,NYSE,S,Equity
+MG,"Mistras Group, Inc.",NYQ,NYSE,S,Equity
+MGM,MGM Resorts International,NYQ,NYSE,S,Equity
+MGA,Magna International Inc.,NYQ,NYSE,S,Equity
+MTG,MGIC Investment Corporation,NYQ,NYSE,S,Equity
+MHK,"Mohawk Industries, Inc.",NYQ,NYSE,S,Equity
+MHO,"M/I Homes, Inc.",NYQ,NYSE,S,Equity
+MHH,"Mastech Digital, Inc.",NYQ,NYSE,S,Equity
+MHI,Pioneer Municipal High Income Trust,NYQ,NYSE,S,Equity
+MIC,Macquarie Infrastructure Corporation,NYQ,NYSE,S,Equity
+MKL,Markel Corporation,NYQ,NYSE,S,Equity
+MLM,"Martin Marietta Materials, Inc.",NYQ,NYSE,S,Equity
+MLSS,Milestone Scientific Inc.,NYQ,NYSE,S,Equity
+MLPA,Global X MLP ETF,NYQ,NYSE,E,ETF
+MLR,"Miller Industries, Inc.",NYQ,NYSE,S,Equity
+MLI,"Mueller Industries, Inc.",NYQ,NYSE,S,Equity
+MMM,3M Company,NYQ,NYSE,S,Equity
+MMP,"Magellan Midstream Partners, L.P.",NYQ,NYSE,S,Equity
+MMC,"Marsh & McLennan Companies, Inc.",NYQ,NYSE,S,Equity
+MMS,"MAXIMUS, Inc.",NYQ,NYSE,S,Equity
+MN,"Manning & Napier, Inc.",NYQ,NYSE,S,Equity
+MNR,Monmouth Real Estate Investment Corporation,NYQ,NYSE,S,Equity
+MNI,The McClatchy Company,NYQ,NYSE,S,Equity
+MS,Morgan Stanley,NYQ,NYSE,S,Equity
+TAP,Molson Coors Brewing Company,NYQ,NYSE,S,Equity
+MPLX,MPLX LP,NYQ,NYSE,S,Equity
+MPO,"Midstates Petroleum Company, Inc.",NYQ,NYSE,S,Equity
+MPX,Marine Products Corporation,NYQ,NYSE,S,Equity
+MQY,"BlackRock MuniYield Quality Fund, Inc.",NYQ,NYSE,S,Equity
+MQT,"BlackRock MuniYield Quality Fund II, Inc.",NYQ,NYSE,S,Equity
+MR,Montage Resources Corporation,NYQ,NYSE,S,Equity
+MSC,Studio City International Holdings Limited,NYQ,NYSE,S,Equity
+MSI,"Motorola Solutions, Inc.",NYQ,NYSE,S,Equity
+MSB,Mesabi Trust,NYQ,NYSE,S,Equity
+MSCI,MSCI Inc.,NYQ,NYSE,S,Equity
+MSM,"MSC Industrial Direct Co., Inc.",NYQ,NYSE,S,Equity
+MSG,The Madison Square Garden Company,NYQ,NYSE,S,Equity
+MT,ArcelorMittal,NYQ,NYSE,S,Equity
+MTNB,"Matinas BioPharma Holdings, Inc.",NYQ,NYSE,S,Equity
+MTB,M&T Bank Corporation,NYQ,NYSE,S,Equity
+MTOR,"Meritor, Inc.",NYQ,NYSE,S,Equity
+MTN,"Vail Resorts, Inc.",NYQ,NYSE,S,Equity
+MTZ,"MasTec, Inc.",NYQ,NYSE,S,Equity
+MTW,"The Manitowoc Company, Inc.",NYQ,NYSE,S,Equity
+MWA,"Mueller Water Products, Inc.",NYQ,NYSE,S,Equity
+MUR,Murphy Oil Corporation,NYQ,NYSE,S,Equity
+MUB,iShares National Muni Bond ETF,NYQ,NYSE,E,ETF
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",NYQ,NYSE,S,Equity
+MUSA,Murphy USA Inc.,NYQ,NYSE,S,Equity
+MVO,MV Oil Trust,NYQ,NYSE,S,Equity
+MVC,"MVC Capital, Inc.",NYQ,NYSE,S,Equity
+MVV,ProShares Ultra MidCap400,NYQ,NYSE,E,ETF
+MXL,"MaxLinear, Inc.",NYQ,NYSE,S,Equity
+MXC,Mexco Energy Corporation,NYQ,NYSE,S,Equity
+MXF,"The Mexico Fund, Inc.",NYQ,NYSE,S,Equity
+MXI,iShares Global Materials ETF,NYQ,NYSE,E,ETF
+MZA,"BlackRock MuniYield Arizona Fund, Inc.",NYQ,NYSE,S,Equity
+MDC,"M.D.C. Holdings, Inc.",NYQ,NYSE,S,Equity
+NBR,Nabors Industries Ltd.,NYQ,NYSE,S,Equity
+NAT,Nordic American Tankers Limited,NYQ,NYSE,S,Equity
+NOV,"National Oilwell Varco, Inc.",NYQ,NYSE,S,Equity
+NGG,National Grid plc,NYQ,NYSE,S,Equity
+NBL,"Noble Energy, Inc.",NYQ,NYSE,S,Equity
+NC,"NACCO Industries, Inc.",NYQ,NYSE,S,Equity
+NCLH,Norwegian Cruise Line Holdings Ltd.,NYQ,NYSE,S,Equity
+NCR,NCR Corporation,NYQ,NYSE,S,Equity
+NCS,"NCI Building Systems, Inc.",NYQ,NYSE,S,Equity
+NCV,AllianzGI Convertible & Income Fund,NYQ,NYSE,S,Equity
+NCZ,AllianzGI Convertible & Income Fund II,NYQ,NYSE,S,Equity
+NCI,"Navigant Consulting, Inc.",NYQ,NYSE,S,Equity
+NDP,"Tortoise Energy Independence Fund, Inc.",NYQ,NYSE,S,Equity
+NE,Noble Corporation plc,NYQ,NYSE,S,Equity
+NEM,Newmont Mining Corporation,NYQ,NYSE,S,Equity
+NFG,National Fuel Gas Company,NYQ,NYSE,S,Equity
+NFJ,"AllianzGI NFJ Dividend, Interest & Premium Strategy Fund",NYQ,NYSE,S,Equity
+NFC,New Frontier Corporation,NYQ,NYSE,S,Equity
+NG,NovaGold Resources Inc.,NYQ,NYSE,S,Equity
+NGL,NGL Energy Partners LP,NYQ,NYSE,S,Equity
+NGD,New Gold Inc.,NYQ,NYSE,S,Equity
+NGVT,Ingevity Corporation,NYQ,NYSE,S,Equity
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",NYQ,NYSE,S,Equity
+NHI,"National Health Investors, Inc.",NYQ,NYSE,S,Equity
+NHF,NexPoint Strategic Opportunities Fund,NYQ,NYSE,S,Equity
+NHC,National HealthCare Corporation,NYQ,NYSE,S,Equity
+NI,NiSource Inc.,NYQ,NYSE,S,Equity
+NKE,"NIKE, Inc.",NYQ,NYSE,S,Equity
+NLSN,Nielsen Holdings plc,NYQ,NYSE,S,Equity
+NJR,New Jersey Resources Corporation,NYQ,NYSE,S,Equity
+NJV,Nuveen New Jersey Municipal Value Fund,NYQ,NYSE,S,Equity
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NKG,Nuveen Georgia Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NL,"NL Industries, Inc.",NYQ,NYSE,S,Equity
+NLY,"Annaly Capital Management, Inc.",NYQ,NYSE,S,Equity
+NLS,"Nautilus, Inc.",NYQ,NYSE,S,Equity
+NLY-PF,"Annaly Capital Management, Inc.",NYQ,NYSE,S,Equity
+NM,Navios Maritime Holdings Inc.,NYQ,NYSE,S,Equity
+NMM,Navios Maritime Partners L.P.,NYQ,NYSE,S,Equity
+NMFC,New Mountain Finance Corporation,NYQ,NYSE,S,Equity
+NMR,"Nomura Holdings, Inc.",NYQ,NYSE,S,Equity
+NNA,Navios Maritime Acquisition Corporation,NYQ,NYSE,S,Equity
+NNN,"National Retail Properties, Inc.",NYQ,NYSE,S,Equity
+NNI,"Nelnet, Inc.",NYQ,NYSE,S,Equity
+NVS,Novartis AG,NYQ,NYSE,S,Equity
+NOC,Northrop Grumman Corporation,NYQ,NYSE,S,Equity
+NSC,Norfolk Southern Corporation,NYQ,NYSE,S,Equity
+NP,"Neenah, Inc.",NYQ,NYSE,S,Equity
+NPTN,NeoPhotonics Corporation,NYQ,NYSE,S,Equity
+NPO,"EnPro Industries, Inc.",NYQ,NYSE,S,Equity
+NPK,"National Presto Industries, Inc.",NYQ,NYSE,S,Equity
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NR,"Newpark Resources, Inc.",NYQ,NYSE,S,Equity
+NRZ,New Residential Investment Corp.,NYQ,NYSE,S,Equity
+NRG,"NRG Energy, Inc.",NYQ,NYSE,S,Equity
+NRP,Natural Resource Partners L.P.,NYQ,NYSE,S,Equity
+NRO,Neuberger Berman Real Estate Securities Income Fund Inc.,NYQ,NYSE,S,Equity
+NRE,Northstar Realty Europe Corp.,NYQ,NYSE,S,Equity
+NRT,North European Oil Royalty Trust,NYQ,NYSE,S,Equity
+NS,NuStar Energy L.P.,NYQ,NYSE,S,Equity
+NSP,"Insperity, Inc.",NYQ,NYSE,S,Equity
+NSA,National Storage Affiliates Trust,NYQ,NYSE,S,Equity
+NUE,Nucor Corporation,NYQ,NYSE,S,Equity
+NUS,"Nu Skin Enterprises, Inc.",NYQ,NYSE,S,Equity
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,NYQ,NYSE,S,Equity
+NVO,Novo Nordisk A/S,NYQ,NYSE,S,Equity
+NVR,"NVR, Inc.",NYQ,NYSE,S,Equity
+NWN,Northwest Natural Holding Company,NYQ,NYSE,S,Equity
+NWE,NorthWestern Corporation,NYQ,NYSE,S,Equity
+NWHM,The New Home Company Inc.,NYQ,NYSE,S,Equity
+NX,Quanex Building Products Corporation,NYQ,NYSE,S,Equity
+NXP,Nuveen Select Tax-Free Income Portfolio,NYQ,NYSE,S,Equity
+NXRT,"NexPoint Residential Trust, Inc.",NYQ,NYSE,S,Equity
+NYCB,"New York Community Bancorp, Inc.",NYQ,NYSE,S,Equity
+NYT,The New York Times Company,NYQ,NYSE,S,Equity
+NZF,Nuveen Municipal Credit Income Fund,NYQ,NYSE,S,Equity
+PANW,"Palo Alto Networks, Inc.",NYQ,NYSE,S,Equity
+PE,"Parsley Energy, Inc.",NYQ,NYSE,S,Equity
+PTN,"Palatin Technologies, Inc.",NYQ,NYSE,S,Equity
+PB,"Prosperity Bancshares, Inc.",NYQ,NYSE,S,Equity
+PBR,Petróleo Brasileiro S.A. - Petrobras,NYQ,NYSE,S,Equity
+PBI,Pitney Bowes Inc.,NYQ,NYSE,S,Equity
+PBT,Permian Basin Royalty Trust,NYQ,NYSE,S,Equity
+PBF,PBF Energy Inc.,NYQ,NYSE,S,Equity
+PBA,Pembina Pipeline Corporation,NYQ,NYSE,S,Equity
+PBR-A,Petróleo Brasileiro S.A. - Petrobras,NYQ,NYSE,S,Equity
+PCG,PG&E Corporation,NYQ,NYSE,S,Equity
+PDS,Precision Drilling Corporation,NYQ,NYSE,S,Equity
+PDI,PIMCO Dynamic Income Fund,NYQ,NYSE,S,Equity
+PDT,John Hancock Premium Dividend Fund,NYQ,NYSE,S,Equity
+PEI,Pennsylvania Real Estate Investment Trust,NYQ,NYSE,S,Equity
+PEG,Public Service Enterprise Group Incorporated,NYQ,NYSE,S,Equity
+PNR,Pentair plc,NYQ,NYSE,S,Equity
+PFG,"Principal Financial Group, Inc.",NYQ,NYSE,S,Equity
+PFS,"Provident Financial Services, Inc.",NYQ,NYSE,S,Equity
+PFN,PIMCO Income Strategy Fund II,NYQ,NYSE,S,Equity
+PFGC,Performance Food Group Company,NYQ,NYSE,S,Equity
+PG,The Procter & Gamble Company,NYQ,NYSE,S,Equity
+PGR,The Progressive Corporation,NYQ,NYSE,S,Equity
+PGX,Invesco Preferred ETF,NYQ,NYSE,E,ETF
+PGP,PIMCO Global StocksPLUS & Income Fund,NYQ,NYSE,S,Equity
+PH,Parker-Hannifin Corporation,NYQ,NYSE,S,Equity
+PM,Philip Morris International Inc.,NYQ,NYSE,S,Equity
+PSX,Phillips 66,NYQ,NYSE,S,Equity
+PSXP,Phillips 66 Partners LP,NYQ,NYSE,S,Equity
+PHM,"PulteGroup, Inc.",NYQ,NYSE,S,Equity
+PHK,PIMCO High Income Fund,NYQ,NYSE,S,Equity
+PIR,"Pier 1 Imports, Inc.",NYQ,NYSE,S,Equity
+PXD,Pioneer Natural Resources Company,NYQ,NYSE,S,Equity
+PIN,Invesco India ETF,NYQ,NYSE,E,ETF
+PJP,Invesco Dynamic Pharmaceuticals ETF,NYQ,NYSE,E,ETF
+PJT,PJT Partners Inc.,NYQ,NYSE,S,Equity
+PJC,Piper Jaffray Companies,NYQ,NYSE,S,Equity
+PJH,"Prudential Financial, Inc. JR SUB NT 52",NYQ,NYSE,S,Equity
+PK,Park Hotels & Resorts Inc.,NYQ,NYSE,S,Equity
+PKG,Packaging Corporation of America,NYQ,NYSE,S,Equity
+PKI,"PerkinElmer, Inc.",NYQ,NYSE,S,Equity
+PKD,Parker Drilling Company,NYQ,NYSE,S,Equity
+PKX,POSCO,NYQ,NYSE,S,Equity
+PKO,PIMCO Income Opportunity Fund,NYQ,NYSE,S,Equity
+PLM,PolyMet Mining Corp.,NYQ,NYSE,S,Equity
+PLNT,"Planet Fitness, Inc.",NYQ,NYSE,S,Equity
+PAA,"Plains All American Pipeline, L.P.",NYQ,NYSE,S,Equity
+PLD,"Prologis, Inc.",NYQ,NYSE,S,Equity
+PMT,PennyMac Mortgage Investment Trust,NYQ,NYSE,S,Equity
+PML,PIMCO Municipal Income Fund II,NYQ,NYSE,S,Equity
+PMF,PIMCO Municipal Income Fund,NYQ,NYSE,S,Equity
+PMO,Putnam Municipal Opportunities Trust,NYQ,NYSE,S,Equity
+PNC,"The PNC Financial Services Group, Inc.",NYQ,NYSE,S,Equity
+PNW,Pinnacle West Capital Corporation,NYQ,NYSE,S,Equity
+PNM,"PNM Resources, Inc.",NYQ,NYSE,S,Equity
+PII,Polaris Industries Inc.,NYQ,NYSE,S,Equity
+POL,PolyOne Corporation,NYQ,NYSE,S,Equity
+PPG,"PPG Industries, Inc.",NYQ,NYSE,S,Equity
+PPL,PPL Corporation,NYQ,NYSE,S,Equity
+PPA,Invesco Aerospace & Defense ETF,NYQ,NYSE,E,ETF
+PPT,Putnam Premier Income Trust,NYQ,NYSE,S,Equity
+PQG,PQ Group Holdings Inc.,NYQ,NYSE,S,Equity
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,NYQ,NYSE,E,ETF
+PSTG,"Pure Storage, Inc.",NYQ,NYSE,S,Equity
+PSA,Public Storage,NYQ,NYSE,S,Equity
+PSJ,Invesco Dynamic Software ETF,NYQ,NYSE,E,ETF
+PVH,PVH Corp.,NYQ,NYSE,S,Equity
+PVG,Pretium Resources Inc.,NYQ,NYSE,S,Equity
+PW,Power REIT,NYQ,NYSE,S,Equity
+PWR,"Quanta Services, Inc.",NYQ,NYSE,S,Equity
+PWZ,Invesco California AMT-Free Municipal Bond ETF,NYQ,NYSE,E,ETF
+PXMG,Invesco Russell MidCap Pure Growth ETF,NYQ,NYSE,E,ETF
+PXQ,Invesco Dynamic Networking ETF,NYQ,NYSE,E,ETF
+PXE,Invesco Dynamic Energy Exploration & Production ETF,NYQ,NYSE,E,ETF
+PXJ,Invesco Dynamic Oil & Gas Services ETF,NYQ,NYSE,E,ETF
+PYS,PPlus Trust Series RRD-1 RRD-1 CTF CL A,NYQ,NYSE,E,ETF
+PYN,PIMCO New York Municipal Income Fund III,NYQ,NYSE,S,Equity
+PZN,"Pzena Investment Management, Inc",NYQ,NYSE,S,Equity
+PZG,Paramount Gold Nevada Corp.,NYQ,NYSE,S,Equity
+PZC,PIMCO California Municipal Income Fund III,NYQ,NYSE,S,Equity
+PZD,Invesco Cleantech ETF,NYQ,NYSE,E,ETF
+PZT,Invesco New York AMT-Free Municipal Bond ETF,NYQ,NYSE,E,ETF
+GLT,P. H. Glatfelter Company,NYQ,NYSE,S,Equity
+QEP,"QEP Resources, Inc.",NYQ,NYSE,S,Equity
+QEFA,SPDR MSCI EAFE StrategicFactors ETF,NYQ,NYSE,E,ETF
+QGEN,QIAGEN N.V.,NYQ,NYSE,S,Equity
+QGTA,IQ Leaders GTAA Tracker ETF,NYQ,NYSE,E,ETF
+QHC,Quorum Health Corporation,NYQ,NYSE,S,Equity
+QLD,ProShares Ultra QQQ,NYQ,NYSE,E,ETF
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,NYQ,NYSE,E,ETF
+QMOM,Alpha Architect U.S. Quantitative Momentum ETF,NYQ,NYSE,E,ETF
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,NYQ,NYSE,E,ETF
+QTWO,"Q2 Holdings, Inc.",NYQ,NYSE,S,Equity
+QUAD,"Quad/Graphics, Inc.",NYQ,NYSE,S,Equity
+QVCD,"QVC, Inc. 6.375% Senior Secured",NYQ,NYSE,E,ETF
+CTBB,Qwest Corp. NT,NYQ,NYSE,E,ETF
+CTDD,Qwest Corp. 6.75% NT 57,NYQ,NYSE,E,ETF
+CTY,Qwest Corp. NT,NYQ,NYSE,S,Equity
+CTZ,Qwest Corp. NT,NYQ,NYSE,E,ETF
+CTAA,Qwest Corp. NT 7% 2056,NYQ,NYSE,S,Equity
+CTV,Qwest Corp. NT 10/01/54,NYQ,NYSE,E,ETF
+QXGG,QUANTX Risk Managed Growth ETF,NYQ,NYSE,E,ETF
+QXTR,QUANTX Risk Managed Multi-Asset Total Return ETF,NYQ,NYSE,E,ETF
+RA,Brookfield Real Assets Income Fund Inc.,NYQ,NYSE,S,Equity
+RTN,Raytheon Company,NYQ,NYSE,S,Equity
+RRC,Range Resources Corporation,NYQ,NYSE,S,Equity
+RL,Ralph Lauren Corporation,NYQ,NYSE,S,Equity
+RBS,The Royal Bank of Scotland Group plc,NYQ,NYSE,S,Equity
+RBC,Regal Beloit Corporation,NYQ,NYSE,S,Equity
+RBA,Ritchie Bros. Auctioneers Incorporated,NYQ,NYSE,S,Equity
+RC,Ready Capital Corporation,NYQ,NYSE,S,Equity
+RCL,Royal Caribbean Cruises Ltd.,NYQ,NYSE,S,Equity
+RCI,Rogers Communications Inc.,NYQ,NYSE,S,Equity
+RCS,"PIMCO Strategic Income Fund, Inc.",NYQ,NYSE,S,Equity
+RDS-A,Royal Dutch Shell plc,NYQ,NYSE,S,Equity
+RDS-B,Royal Dutch Shell plc,NYQ,NYSE,S,Equity
+RDN,Radian Group Inc.,NYQ,NYSE,S,Equity
+RDC,Rowan Companies plc,NYQ,NYSE,S,Equity
+RDY,Dr. Reddy's Laboratories Limited,NYQ,NYSE,S,Equity
+RE,"Everest Re Group, Ltd.",NYQ,NYSE,S,Equity
+RNN,"Rexahn Pharmaceuticals, Inc.",NYQ,NYSE,S,Equity
+RFI,"Cohen & Steers Total Return Realty Fund, Inc.",NYQ,NYSE,S,Equity
+RFP,Resolute Forest Products Inc.,NYQ,NYSE,S,Equity
+RFV,Invesco S&P MidCap 400 Pure Value ETF,NYQ,NYSE,E,ETF
+RGR,"Sturm, Ruger & Company, Inc.",NYQ,NYSE,S,Equity
+RGA,"Reinsurance Group of America, Incorporated",NYQ,NYSE,S,Equity
+RGS,Regis Corporation,NYQ,NYSE,S,Equity
+RH,RH,NYQ,NYSE,S,Equity
+RHE,"Regional Health Properties, Inc.",NYQ,NYSE,S,Equity
+RHI,Robert Half International Inc.,NYQ,NYSE,S,Equity
+RHP,"Ryman Hospitality Properties, Inc.",NYQ,NYSE,S,Equity
+RHS,Invesco S&P 500 Equal Weight Consumer Staples ETF,NYQ,NYSE,E,ETF
+RIG,Transocean Ltd.,NYQ,NYSE,S,Equity
+RIO,Rio Tinto Group,NYQ,NYSE,S,Equity
+RJF,"Raymond James Financial, Inc.",NYQ,NYSE,S,Equity
+RJA,ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return,NYQ,NYSE,E,ETF
+RJI,ELEMENTS Linked to the Rogers International Commodity Index - Total Return,NYQ,NYSE,E,ETF
+RJZ,ELEMENTS Linked to the Rogers International Commodity Index - Metals Total Return,NYQ,NYSE,E,ETF
+RJN,ELEMENTS Linked to the Rogers International Commodity Index - Energy Total Return,NYQ,NYSE,E,ETF
+RLI,RLI Corp.,NYQ,NYSE,S,Equity
+RLGT,"Radiant Logistics, Inc.",NYQ,NYSE,S,Equity
+RLGY,Realogy Holdings Corp.,NYQ,NYSE,S,Equity
+RLJ,RLJ Lodging Trust,NYQ,NYSE,S,Equity
+RLH,Red Lion Hotels Corporation,NYQ,NYSE,S,Equity
+RM,Regional Management Corp.,NYQ,NYSE,S,Equity
+RMD,ResMed Inc.,NYQ,NYSE,S,Equity
+RNP,"Cohen & Steers REIT and Preferred Income Fund, Inc.",NYQ,NYSE,S,Equity
+RNR,RenaissanceRe Holdings Ltd.,NYQ,NYSE,S,Equity
+ROK,"Rockwell Automation, Inc.",NYQ,NYSE,S,Equity
+RPM,RPM International Inc.,NYQ,NYSE,S,Equity
+RES,"RPC, Inc.",NYQ,NYSE,S,Equity
+RPAI,"Retail Properties of America, Inc.",NYQ,NYSE,S,Equity
+RPT,RPT Realty,NYQ,NYSE,S,Equity
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",NYQ,NYSE,S,Equity
+RRD,R.R. Donnelley & Sons Company,NYQ,NYSE,S,Equity
+RRTS,"Roadrunner Transportation Systems, Inc.",NYQ,NYSE,S,Equity
+RRR,"Red Rock Resorts, Inc.",NYQ,NYSE,S,Equity
+RS,Reliance Steel & Aluminum Co.,NYQ,NYSE,S,Equity
+RSG,"Republic Services, Inc.",NYQ,NYSE,S,Equity
+RSP,Invesco S&P 500 Equal Weight ETF,NYQ,NYSE,E,ETF
+RST,Rosetta Stone Inc.,NYQ,NYSE,S,Equity
+RTEC,"Rudolph Technologies, Inc.",NYQ,NYSE,S,Equity
+RTH,VanEck Vectors Retail ETF,NYQ,NYSE,E,ETF
+RTM,Invesco S&P 500 Equal Weight Materials ETF,NYQ,NYSE,E,ETF
+RUSL,Direxion Daily Russia Bull 3X Shares,NYQ,NYSE,E,ETF
+RVT,Royce Value Trust Inc.,NYQ,NYSE,S,Equity
+RVI,Retail Value Inc.,NYQ,NYSE,S,Equity
+RWT,"Redwood Trust, Inc.",NYQ,NYSE,S,Equity
+RWR,SPDR Dow Jones REIT ETF,NYQ,NYSE,E,ETF
+RWM,ProShares Short Russell2000,NYQ,NYSE,E,ETF
+RWL,Oppenheimer S&P 500 Revenue ETF,NYQ,NYSE,E,ETF
+RWX,SPDR Dow Jones International Real Estate ETF,NYQ,NYSE,E,ETF
+RXL,ProShares Ultra Health Care,NYQ,NYSE,E,ETF
+RXN,Rexnord Corporation,NYQ,NYSE,S,Equity
+RXD,ProShares UltraShort Health Care,NYQ,NYSE,E,ETF
+RXN-PA,Rexnord Corporation,NYQ,NYSE,S,Equity
+RY,Royal Bank of Canada,NYQ,NYSE,S,Equity
+RYAM,Rayonier Advanced Materials Inc.,NYQ,NYSE,S,Equity
+RYT,Invesco S&P 500 Equal Weight Technology ETF,NYQ,NYSE,S,Equity
+RYN,Rayonier Inc.,NYQ,NYSE,S,Equity
+RYH,Invesco S&P 500 Equal Weight Health Care ETF,NYQ,NYSE,E,ETF
+RZV,Invesco S&P SmallCap 600 Pure Value ETF,NYQ,NYSE,E,ETF
+RZG,Invesco S&P SmallCap 600 Pure Growth ETF,NYQ,NYSE,E,ETF
+RZB,"Reinsurance Group of America, Incorporated",NYQ,NYSE,E,ETF
+RZA,"Reinsurance Group of America, Incorporated",NYQ,NYSE,S,Equity
+SA,Seabridge Gold Inc.,NYQ,NYSE,S,Equity
+SAP,SAP SE,NYQ,NYSE,S,Equity
+SAVE,"Spirit Airlines, Inc.",NYQ,NYSE,S,Equity
+SB,"Safe Bulkers, Inc.",NYQ,NYSE,S,Equity
+SBGL,Sibanye Gold Limited,NYQ,NYSE,S,Equity
+SC,Santander Consumer USA Holdings Inc.,NYQ,NYSE,S,Equity
+SLB,Schlumberger Limited,NYQ,NYSE,S,Equity
+SMG,The Scotts Miracle-Gro Company,NYQ,NYSE,S,Equity
+SCHD,Schwab U.S. Dividend Equity ETF,NYQ,NYSE,E,ETF
+SCCO,Southern Copper Corporation,NYQ,NYSE,S,Equity
+STNG,Scorpio Tankers Inc.,NYQ,NYSE,S,Equity
+SCI,Service Corporation International,NYQ,NYSE,S,Equity
+SD,"SandRidge Energy, Inc.",NYQ,NYSE,S,Equity
+SDIV,Global X SuperDividend ETF,NYQ,NYSE,E,ETF
+SDRL,Seadrill Limited,NYQ,NYSE,S,Equity
+SDY,SPDR S&P Dividend ETF,NYQ,NYSE,E,ETF
+SDR,SandRidge Mississippian Trust II,NYQ,NYSE,S,Equity
+SDT,SandRidge Mississippian Trust I,NYQ,NYSE,S,Equity
+SENS,"Senseonics Holdings, Inc.",NYQ,NYSE,S,Equity
+SF,Stifel Financial Corp.,NYQ,NYSE,S,Equity
+SFS,"Smart & Final Stores, Inc.",NYQ,NYSE,S,Equity
+SFL,Ship Finance International Limited,NYQ,NYSE,S,Equity
+SH,ProShares Short S&P500,NYQ,NYSE,E,ETF
+SHOP,Shopify Inc.,NYQ,NYSE,S,Equity
+SHW,The Sherwin-Williams Company,NYQ,NYSE,S,Equity
+SHAK,Shake Shack Inc.,NYQ,NYSE,S,Equity
+SHLX,"Shell Midstream Partners, L.P.",NYQ,NYSE,S,Equity
+SIG,Signet Jewelers Limited,NYQ,NYSE,S,Equity
+SIX,Six Flags Entertainment Corporation,NYQ,NYSE,S,Equity
+SPG,"Simon Property Group, Inc.",NYQ,NYSE,S,Equity
+SJT,San Juan Basin Royalty Trust,NYQ,NYSE,S,Equity
+SJI,"South Jersey Industries, Inc.",NYQ,NYSE,S,Equity
+SJW,SJW Group,NYQ,NYSE,S,Equity
+SJR,Shaw Communications Inc.,NYQ,NYSE,S,Equity
+SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond ETF,NYQ,NYSE,E,ETF
+SJB,ProShares Short High Yield,NYQ,NYSE,E,ETF
+SJIU,"South Jersey Industries, Inc. CORP UNITS",NYQ,NYSE,S,Equity
+SKX,"Skechers U.S.A., Inc.",NYQ,NYSE,S,Equity
+SKT,"Tanger Factory Outlet Centers, Inc.",NYQ,NYSE,S,Equity
+SKM,"SK Telecom Co., Ltd.",NYQ,NYSE,S,Equity
+SLG,SL Green Realty Corp.,NYQ,NYSE,S,Equity
+SM,SM Energy Company,NYQ,NYSE,S,Equity
+SNA,Snap-on Incorporated,NYQ,NYSE,S,Equity
+SNE,Sony Corporation,NYQ,NYSE,S,Equity
+SO,The Southern Company,NYQ,NYSE,S,Equity
+SWN,Southwestern Energy Company,NYQ,NYSE,S,Equity
+SQM,Sociedad Química y Minera de Chile S.A.,NYQ,NYSE,S,Equity
+SQNS,Sequans Communications S.A.,NYQ,NYSE,S,Equity
+SR,Spire Inc.,NYQ,NYSE,S,Equity
+SRE,Sempra Energy,NYQ,NYSE,S,Equity
+SSW,Seaspan Corporation,NYQ,NYSE,S,Equity
+SSI,"Stage Stores, Inc.",NYQ,NYSE,S,Equity
+ST,Sensata Technologies Holding plc,NYQ,NYSE,S,Equity
+SYK,Stryker Corporation,NYQ,NYSE,S,Equity
+SU,Suncor Energy Inc.,NYQ,NYSE,S,Equity
+STI,"SunTrust Banks, Inc.",NYQ,NYSE,S,Equity
+SVXY,ProShares Short VIX Short-Term Futures ETF,NYQ,NYSE,E,ETF
+SWK,"Stanley Black & Decker, Inc.",NYQ,NYSE,S,Equity
+SWM,"Schweitzer-Mauduit International, Inc.",NYQ,NYSE,S,Equity
+SXE,"Southcross Energy Partners, L.P.",NYQ,NYSE,S,Equity
+SXC,"SunCoke Energy, Inc.",NYQ,NYSE,S,Equity
+SXT,Sensient Technologies Corporation,NYQ,NYSE,S,Equity
+SXI,Standex International Corporation,NYQ,NYSE,S,Equity
+SYF,Synchrony Financial,NYQ,NYSE,S,Equity
+SYY,Sysco Corporation,NYQ,NYSE,S,Equity
+SNV,Synovus Financial Corp.,NYQ,NYSE,S,Equity
+SZC,The Cushing Renaissance Fund,NYQ,NYSE,S,Equity
+UA,"Under Armour, Inc.",NYQ,NYSE,S,Equity
+UAA,"Under Armour, Inc.",NYQ,NYSE,S,Equity
+UBS,UBS Group AG,NYQ,NYSE,S,Equity
+MORL,UBS ETRACS Monthly Pay 2xLeveraged Mortgage REIT ETN,NYQ,NYSE,E,ETF
+UBOT,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 3X Shares",NYQ,NYSE,E,ETF
+CEFL,UBS ETRACS Monthly Pay 2xLeveraged Closed-End Fund ETN,NYQ,NYSE,E,ETF
+SMHD,UBS ETRACS Monthly Pay 2xLeveraged US Small Cap High Dividend ETN,NYQ,NYSE,E,ETF
+UCO,ProShares Ultra Bloomberg Crude Oil,NYQ,NYSE,E,ETF
+UCC,ProShares Ultra Consumer Services,NYQ,NYSE,E,ETF
+UDR,"UDR, Inc.",NYQ,NYSE,S,Equity
+UE,Urban Edge Properties,NYQ,NYSE,S,Equity
+UEC,Uranium Energy Corp.,NYQ,NYSE,S,Equity
+UEVM,USAA MSCI Emerging Markets Value Momentum Blend Index ETF,NYQ,NYSE,E,ETF
+UFI,"Unifi, Inc.",NYQ,NYSE,S,Equity
+UFS,Domtar Corporation,NYQ,NYSE,S,Equity
+UGI,UGI Corporation,NYQ,NYSE,S,Equity
+UGP,Ultrapar Participações S.A.,NYQ,NYSE,S,Equity
+UGL,ProShares Ultra Gold,NYQ,NYSE,E,ETF
+UHS,"Universal Health Services, Inc.",NYQ,NYSE,S,Equity
+UHT,Universal Health Realty Income Trust,NYQ,NYSE,S,Equity
+UIS,Unisys Corporation,NYQ,NYSE,S,Equity
+UJB,ProShares Ultra High Yield,NYQ,NYSE,E,ETF
+UJUL,Innovator S&P 500 Ultra Buffer ETF — July,NYQ,NYSE,E,ETF
+UJAN,Innovator S&P 500 Ultra Buffer ETF January,NYQ,NYSE,E,ETF
+UJPY,Citigroup ETNs linked to the VelocityShares Daily 4X Long JPY vs. USD Index,NYQ,NYSE,E,ETF
+UL,Unilever PLC,NYQ,NYSE,S,Equity
+UPL,Ultra Petroleum Corp.,NYQ,NYSE,S,Equity
+UMC,United Microelectronics Corporation,NYQ,NYSE,S,Equity
+UMH,"UMH Properties, Inc.",NYQ,NYSE,S,Equity
+UMDD,ProShares UltraPro MidCap400,NYQ,NYSE,E,ETF
+UN,Unilever N.V.,NYQ,NYSE,S,Equity
+UTX,United Technologies Corporation,NYQ,NYSE,S,Equity
+UPS,"United Parcel Service, Inc.",NYQ,NYSE,S,Equity
+UPRO,ProShares UltraPro S&P500,NYQ,NYSE,E,ETF
+UQM,"UQM Technologies, Inc.",NYQ,NYSE,S,Equity
+URG,Ur-Energy Inc.,NYQ,NYSE,S,Equity
+URA,Global X Uranium ETF,NYQ,NYSE,E,ETF
+USB,U.S. Bancorp,NYQ,NYSE,S,Equity
+USO,"United States Oil Fund, LP",NYQ,NYSE,E,ETF
+USAC,"USA Compression Partners, LP",NYQ,NYSE,S,Equity
+USMV,iShares Edge MSCI Min Vol USA ETF,NYQ,NYSE,E,ETF
+USG,USG Corporation,NYQ,NYSE,S,Equity
+USA,Liberty All-Star Equity Fund,NYQ,NYSE,S,Equity
+XLU,Utilities Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+UTF,"Cohen & Steers Infrastructure Fund, Inc",NYQ,NYSE,S,Equity
+UTG,Reaves Utility Income Fund,NYQ,NYSE,S,Equity
+UTI,"Universal Technical Institute, Inc.",NYQ,NYSE,S,Equity
+UTL,Unitil Corporation,NYQ,NYSE,S,Equity
+UUP,Invesco DB US Dollar Index Bullish Fund,NYQ,NYSE,E,ETF
+UUU,"Universal Security Instruments, Inc.",NYQ,NYSE,S,Equity
+UVV,Universal Corporation,NYQ,NYSE,S,Equity
+UVE,"Universal Insurance Holdings, Inc.",NYQ,NYSE,S,Equity
+UXI,ProShares Ultra Industrials,NYQ,NYSE,E,ETF
+UYG,ProShares Ultra Financials,NYQ,NYSE,E,ETF
+UYM,ProShares Ultra Basic Materials,NYQ,NYSE,E,ETF
+UZA,United States Cellular Corporation CALL SR NT 60,NYQ,NYSE,S,Equity
+UZC,United States Cellular Corporation SR NT 64,NYQ,NYSE,S,Equity
+UZB,United States Cellular Corporation SR NT 120163,NYQ,NYSE,E,ETF
+USX,"U.S. Xpress Enterprises, Inc.",NYQ,NYSE,S,Equity
+USB-PO,U.S. Bancorp,NYQ,NYSE,S,Equity
+WAB,Wabtec Corporation,NYQ,NYSE,S,Equity
+WPG,Washington Prime Group Inc.,NYQ,NYSE,S,Equity
+WAT,Waters Corporation,NYQ,NYSE,S,Equity
+WBS,Webster Financial Corporation,NYQ,NYSE,S,Equity
+WBK,Westpac Banking Corporation,NYQ,NYSE,S,Equity
+WBT,"Welbilt, Inc.",NYQ,NYSE,S,Equity
+WBC,WABCO Holdings Inc.,NYQ,NYSE,S,Equity
+WBIY,WBI Power Factor High Dividend ETF,NYQ,NYSE,E,ETF
+WCG,"WellCare Health Plans, Inc.",NYQ,NYSE,S,Equity
+WCN,"Waste Connections, Inc.",NYQ,NYSE,S,Equity
+WCC,"WESCO International, Inc.",NYQ,NYSE,S,Equity
+WD,"Walker & Dunlop, Inc.",NYQ,NYSE,S,Equity
+WDR,"Waddell & Reed Financial, Inc.",NYQ,NYSE,S,Equity
+WRK,WestRock Company,NYQ,NYSE,S,Equity
+WFT,Weatherford International plc,NYQ,NYSE,S,Equity
+WY,Weyerhaeuser Company,NYQ,NYSE,S,Equity
+WF,Woori Financial Group Inc.,NYQ,NYSE,S,Equity
+WFC-PL,Wells Fargo & Company,NYQ,NYSE,S,Equity
+WFC-PO,Wells Fargo & Company,NYQ,NYSE,S,Equity
+WFC-PN,Wells Fargo & Company,NYQ,NYSE,S,Equity
+WGO,"Winnebago Industries, Inc.",NYQ,NYSE,S,Equity
+WGP,"Western Midstream Partners, LP",NYQ,NYSE,S,Equity
+WH,"Wyndham Hotels & Resorts, Inc.",NYQ,NYSE,S,Equity
+WLL,Whiting Petroleum Corporation,NYQ,NYSE,S,Equity
+WPM,Wheaton Precious Metals Corp.,NYQ,NYSE,S,Equity
+WHR,Whirlpool Corporation,NYQ,NYSE,S,Equity
+WSR,Whitestone REIT,NYQ,NYSE,S,Equity
+WHG,"Westwood Holdings Group, Inc.",NYQ,NYSE,S,Equity
+WMB,"The Williams Companies, Inc.",NYQ,NYSE,S,Equity
+WYY,WidePoint Corporation,NYQ,NYSE,S,Equity
+WSM,"Williams-Sonoma, Inc.",NYQ,NYSE,S,Equity
+WK,Workiva Inc.,NYQ,NYSE,S,Equity
+WLK,Westlake Chemical Corporation,NYQ,NYSE,S,Equity
+WLH,William Lyon Homes,NYQ,NYSE,S,Equity
+WLKP,Westlake Chemical Partners LP,NYQ,NYSE,S,Equity
+WMC,Western Asset Mortgage Capital Corporation,NYQ,NYSE,S,Equity
+WMK,"Weis Markets, Inc.",NYQ,NYSE,S,Equity
+WNC,Wabash National Corporation,NYQ,NYSE,S,Equity
+WNS,WNS (Holdings) Limited,NYQ,NYSE,S,Equity
+WWE,"World Wrestling Entertainment, Inc.",NYQ,NYSE,S,Equity
+INT,World Fuel Services Corporation,NYQ,NYSE,S,Equity
+WOR,"Worthington Industries, Inc.",NYQ,NYSE,S,Equity
+WWW,"Wolverine World Wide, Inc.",NYQ,NYSE,S,Equity
+WPC,W. P. Carey Inc.,NYQ,NYSE,S,Equity
+WPX,"WPX Energy, Inc.",NYQ,NYSE,S,Equity
+WPP,WPP plc,NYQ,NYSE,S,Equity
+WPG-PH,Washington Prime Group Inc.,NYQ,NYSE,S,Equity
+WPG-PI,Washington Prime Group Inc.,NYQ,NYSE,S,Equity
+WRB,W. R. Berkley Corporation,NYQ,NYSE,S,Equity
+WRE,Washington Real Estate Investment Trust,NYQ,NYSE,S,Equity
+WRI,Weingarten Realty Investors,NYQ,NYSE,S,Equity
+WRN,Western Copper and Gold Corporation,NYQ,NYSE,S,Equity
+WSO,"Watsco, Inc.",NYQ,NYSE,S,Equity
+WST,"West Pharmaceutical Services, Inc.",NYQ,NYSE,S,Equity
+WTR,"Aqua America, Inc.",NYQ,NYSE,S,Equity
+WTI,"W&T Offshore, Inc.",NYQ,NYSE,S,Equity
+WTT,"Wireless Telecom Group, Inc.",NYQ,NYSE,S,Equity
+WTS,"Watts Water Technologies, Inc.",NYQ,NYSE,S,Equity
+WU,The Western Union Company,NYQ,NYSE,S,Equity
+WYND,"Wyndham Destinations, Inc.",NYQ,NYSE,S,Equity
+WYDE,ProShares CDS Short North American HY Credit ETF,NYQ,NYSE,E,ETF
+GRA,W. R. Grace & Co.,NYQ,NYSE,S,Equity
+WRB-PE,W. R. Berkley Corporation 5.70% SB DB 2058,NYQ,NYSE,S,Equity
+WRB-PD,W. R. Berkley Corporation SUB DEB 56,NYQ,NYSE,S,Equity
+WRB-PC,W. R. Berkley Corporation,NYQ,NYSE,S,Equity
+WRB-PB,W. R. Berkley Corporation SUB DEB 53,NYQ,NYSE,S,Equity
+YCS,ProShares UltraShort Yen,NYQ,NYSE,E,ETF
+YCL,ProShares Ultra Yen,NYQ,NYSE,E,ETF
+YELP,Yelp Inc.,NYQ,NYSE,S,Equity
+YEXT,"Yext, Inc.",NYQ,NYSE,S,Equity
+YINN,Direxion Daily FTSE China Bull 3X Shares,NYQ,NYSE,E,ETF
+YRD,Yirendai Ltd.,NYQ,NYSE,S,Equity
+YYY,YieldShares High Income ETF,NYQ,NYSE,E,ETF
+YMLP,VanEck Vectors High Income MLP ETF,NYQ,NYSE,E,ETF
+YMLI,VanEck Vectors High Income Infrastructure MLP ETF,NYQ,NYSE,E,ETF
+YPF,YPF Sociedad Anónima,NYQ,NYSE,S,Equity
+YUMC,"Yum China Holdings, Inc.",NYQ,NYSE,S,Equity
+TPVG,TriplePoint Venture Growth BDC Corp.,NYQ,NYSE,S,Equity
+BIZD,VanEck Vectors BDC Income ETF,NYQ,NYSE,E,ETF
+BBDC,"Barings BDC, Inc.",NYQ,NYSE,S,Equity
+BDCS,UBS ETRACS Linked to the Wells Fargo Business Development Company Index ETN,NYQ,NYSE,E,ETF
+BDD,DB Base Metals Double Long ETN,NYQ,NYSE,E,ETF
+BDL,"Flanigan's Enterprises, Inc.",NYQ,NYSE,S,Equity
+EAE,"Entergy Arkansas, Inc. 1STMTG BD4.75%63",NYQ,NYSE,S,Equity
+BFA,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BFO,BlackRock Florida Municipal 2020 Term Trust,NYQ,NYSE,S,Equity
+BFOR,Barron's 400 ETF,NYQ,NYSE,E,ETF
+BFS-PD,"Saul Centers, Inc.",NYQ,NYSE,S,Equity
+BFS-PC,"Saul Centers, Inc.",NYQ,NYSE,S,Equity
+BFY,BlackRock New York Municipal Income Trust II,NYQ,NYSE,S,Equity
+BFZ,BlackRock California Municipal Income Trust,NYQ,NYSE,S,Equity
+BIBL,Inspire 100 ETF,NYQ,NYSE,E,ETF
+BID,Sotheby's,NYQ,NYSE,S,Equity
+UBA,Urstadt Biddle Properties Inc.,NYQ,NYSE,S,Equity
+UBP,Urstadt Biddle Properties Inc.,NYQ,NYSE,S,Equity
+UBP-PG,Urstadt Biddle Properties Inc.,NYQ,NYSE,S,Equity
+UBP-PH,Urstadt Biddle Properties Inc.,NYQ,NYSE,S,Equity
+BIF,"Boulder Growth & Income Fund, Inc.",NYQ,NYSE,S,Equity
+BIG,"Big Lots, Inc.",NYQ,NYSE,S,Equity
+BH-A,Biglari Holdings Inc.,NYQ,NYSE,S,Equity
+BIKR,Rogers AI Global Macro ETF,NYQ,NYSE,E,ETF
+BIL,SPDR Bloomberg Barclays 1-3 Month T-Bill ETF,NYQ,NYSE,E,ETF
+BIO,"Bio-Rad Laboratories, Inc.",NYQ,NYSE,S,Equity
+BIP,Brookfield Infrastructure Partners L.P.,NYQ,NYSE,S,Equity
+BGI,Birks Group Inc.,NYQ,NYSE,S,Equity
+BITA,Bitauto Holdings Limited,NYQ,NYSE,S,Equity
+BIV,Vanguard Intermediate-Term Bond Index Fund ETF Shares,NYQ,NYSE,E,ETF
+BLD,TopBuild Corp.,NYQ,NYSE,S,Equity
+BLE,BlackRock Municipal Income Trust II,NYQ,NYSE,S,Equity
+ULVM,USAA MSCI USA Value Momentum Blend Index ETF,NYQ,NYSE,E,ETF
+BLHY,Virtus Newfleet Dynamic Credit ETF,NYQ,NYSE,E,ETF
+BLL,Ball Corporation,NYQ,NYSE,S,Equity
+SCO,ProShares UltraShort Bloomberg Crude Oil,NYQ,NYSE,E,ETF
+BLV,Vanguard Long-Term Bond Index Fund ETF Shares,NYQ,NYSE,E,ETF
+BLX,"Banco Latinoamericano de Comercio Exterior, S.A",NYQ,NYSE,S,Equity
+BML-PL,Bank of America Corporation,NYQ,NYSE,S,Equity
+BML-PG,Bank of America Corporation,NYQ,NYSE,S,Equity
+BML-PH,Bank of America Corporation,NYQ,NYSE,S,Equity
+BML-PJ,Bank of America Corporation,NYQ,NYSE,S,Equity
+BNDC,FlexShares Core Select Bond Fund,NYQ,NYSE,E,ETF
+BOCT,Innovator S&P 500 Buffer ETF - October,NYQ,NYSE,E,ETF
+BOE,BlackRock Enhanced Global Dividend Trust,NYQ,NYSE,S,Equity
+BOH,Bank of Hawaii Corporation,NYQ,NYSE,S,Equity
+BOIL,ProShares Ultra Bloomberg Natural Gas,NYQ,NYSE,E,ETF
+BOM,DB Base Metals Double Short ETN,NYQ,NYSE,E,ETF
+AGG,iShares Core U.S. Aggregate Bond ETF,NYQ,NYSE,E,ETF
+TIP,iShares TIPS Bond ETF,NYQ,NYSE,E,ETF
+BAH,Booz Allen Hamilton Holding Corporation,NYQ,NYSE,S,Equity
+BOON,NYSE Pickens Oil Response ETF,NYQ,NYSE,E,ETF
+BORN,China New Borun Corporation,NYQ,NYSE,S,Equity
+BOUT,Innovator IBD Breakout Opportunities ETF,NYQ,NYSE,E,ETF
+BWLA,Bowl America Incorporated,NYQ,NYSE,S,Equity
+PBI-PB,Pitney Bowes Inc. NT 43,NYQ,NYSE,S,Equity
+CAG,"Conagra Brands, Inc.",NYQ,NYSE,S,Equity
+TLRD,"Tailored Brands, Inc.",NYQ,NYSE,S,Equity
+BRC,Brady Corporation,NYQ,NYSE,S,Equity
+SBIO,ALPS Medical Breakthroughs ETF,NYQ,NYSE,E,ETF
+TAP-A,Molson Coors Brewing Company,NYQ,NYSE,S,Equity
+BRFS,BRF S.A.,NYQ,NYSE,S,Equity
+BRG-PA,"Bluerock Residential Growth REIT, Inc.",NYQ,NYSE,S,Equity
+BRG-PD,"Bluerock Residential Growth REIT, Inc.",NYQ,NYSE,S,Equity
+BRKA,Berkshire Hathaway Inc.,NYQ,NYSE,S,Equity
+BRO,"Brown & Brown, Inc.",NYQ,NYSE,S,Equity
+BEP,Brookfield Renewable Partners L.P.,NYQ,NYSE,S,Equity
+BAM,Brookfield Asset Management Inc.,NYQ,NYSE,S,Equity
+TOL,"Toll Brothers, Inc.",NYQ,NYSE,S,Equity
+BRSS,"Global Brass and Copper Holdings, Inc.",NYQ,NYSE,S,Equity
+BRT,BRT Apartments Corp.,NYQ,NYSE,S,Equity
+BC-PC,Brunswick Corporation 6.375% No,NYQ,NYSE,S,Equity
+BC-PB,Brunswick Corporation 6.625% Se,NYQ,NYSE,S,Equity
+BC-PA,Brunswick Corporation 6.500% Se,NYQ,NYSE,S,Equity
+BRZU,Direxion Daily MSCI Brazil Bull 3X Shares,NYQ,NYSE,E,ETF
+BSA,BrightSphere Investment Group plc,NYQ,NYSE,E,ETF
+BSAC,Banco Santander-Chile,NYQ,NYSE,S,Equity
+BSCL,Invesco BulletShares 2021 Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSCJ,Invesco BulletShares 2019 Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSCN,Invesco BulletShares 2023 Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSCM,Invesco BulletShares 2022 Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSCP,Invesco BulletShares 2025 Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSD,BlackRock Strategic Municipal Trust,NYQ,NYSE,S,Equity
+BSE,BlackRock New York Municipal Income Quality Trust,NYQ,NYSE,S,Equity
+BSIG,BrightSphere Investment Group plc,NYQ,NYSE,S,Equity
+BSJL,Invesco BulletShares 2021 High Yield Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSJM,Invesco BulletShares 2022 High Yield Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSL,Blackstone/GSO Senior Floating Rate Term Fund,NYQ,NYSE,S,Equity
+BSMX,"Banco Santander (México), S.A., Institución de Banca Múltiple, Grupo Financiero Santander México",NYQ,NYSE,S,Equity
+PAPR,Innovator S&P 500 Power Buffer ETF - April New,NYQ,NYSE,E,ETF
+BAPR,Innovator S&P 500 Buffer ETF - April New,NYQ,NYSE,E,ETF
+CBPX,"Continental Building Products, Inc.",NYQ,NYSE,S,Equity
+SPXL,Direxion Daily S&P500 Bull 3X Shares,NYQ,NYSE,E,ETF
+BBU,Brookfield Business Partners L.P.,NYQ,NYSE,S,Equity
+PSB,"PS Business Parks, Inc.",NYQ,NYSE,S,Equity
+NTB,The Bank of N.T. Butterfield & Son Limited,NYQ,NYSE,S,Equity
+BUY,USCF SummerHaven SHPEI Index Fund,NYQ,NYSE,E,ETF
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,NYQ,NYSE,S,Equity
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,NYQ,NYSE,S,Equity
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,NYQ,NYSE,S,Equity
+PBP,Invesco S&P 500 BuyWrite ETF,NYQ,NYSE,E,ETF
+SPYB,SPDR S&P 500 Buyback ETF,NYQ,NYSE,E,ETF
+BUZ,BUZZ US Sentiment Leaders ETF,NYQ,NYSE,E,ETF
+NTN,"NTN Buzztime, Inc.",NYQ,NYSE,S,Equity
+COG,Cabot Oil & Gas Corporation,NYQ,NYSE,S,Equity
+CBT,Cabot Corporation,NYQ,NYSE,S,Equity
+CABO,"Cable One, Inc.",NYQ,NYSE,S,Equity
+PFH,CABCO Trust for JC Penney Debentures,NYQ,NYSE,S,Equity
+CACI,CACI International Inc,NYQ,NYSE,S,Equity
+CAE,CAE Inc.,NYQ,NYSE,S,Equity
+CAF,"Morgan Stanley China A Share Fund, Inc.",NYQ,NYSE,S,Equity
+CAI,"CAI International, Inc.",NYQ,NYSE,S,Equity
+CAI-PA,"CAI International, Inc.",NYQ,NYSE,S,Equity
+CAI-PB,"CAI International, Inc.",NYQ,NYSE,S,Equity
+CAJ,Canon Inc.,NYQ,NYSE,S,Equity
+CAL,"Caleres, Inc.",NYQ,NYSE,S,Equity
+CRC,California Resources Corporation,NYQ,NYSE,S,Equity
+ELY,Callaway Golf Company,NYQ,NYSE,S,Equity
+CEI,"Camber Energy, Inc.",NYQ,NYSE,S,Equity
+ACC,"American Campus Communities, Inc.",NYQ,NYSE,S,Equity
+CBM,Cambrex Corporation,NYQ,NYSE,S,Equity
+CPT,Camden Property Trust,NYQ,NYSE,S,Equity
+ACB,Aurora Cannabis Inc.,NYQ,NYSE,S,Equity
+VHT,Vanguard Health Care Index Fund ETF Shares,NYQ,NYSE,E,ETF
+ROX,Castle Brands Inc.,NYQ,NYSE,S,Equity
+CATO,The Cato Corporation,NYQ,NYSE,S,Equity
+CAW,"CCA Industries, Inc.",NYQ,NYSE,S,Equity
+CBB,Cincinnati Bell Inc.,NYQ,NYSE,S,Equity
+CBB-PB,Cincinnati Bell Inc. PFD CV DEP1/20,NYQ,NYSE,S,Equity
+CBD,Companhia Brasileira de Distribuição,NYQ,NYSE,S,Equity
+CBZ,"CBIZ, Inc.",NYQ,NYSE,S,Equity
+CBK,Christopher & Banks Corporation,NYQ,NYSE,S,Equity
+CBL-PD,"CBL & Associates Properties, Inc",NYQ,NYSE,S,Equity
+CBL-PE,"CBL & Associates Properties, Inc",NYQ,NYSE,S,Equity
+CBND,SPDR Bloomberg Barclays Corporate Bond ETF,NYQ,NYSE,E,ETF
+CBO,CBO (Listing Market - NYSE - Ne,NYQ,NYSE,S,Equity
+PUTW,WisdomTree CBOE S&P 500 PutWrite Strategy Fund,NYQ,NYSE,E,ETF
+CBON,VanEck Vectors ChinaAMC China Bond ETF,NYQ,NYSE,E,ETF
+CBRE,"CBRE Group, Inc.",NYQ,NYSE,S,Equity
+CBS-A,CBS Corporation,NYQ,NYSE,S,Equity
+CBU,"Community Bank System, Inc.",NYQ,NYSE,S,Equity
+CBX,CBX (Listing Market NYSE Networ,NYQ,NYSE,S,Equity
+CDR,"Cedar Realty Trust, Inc.",NYQ,NYSE,S,Equity
+CDR-PC,"Cedar Realty Trust, Inc.",NYQ,NYSE,S,Equity
+CDR-PB,"Cedar Realty Trust, Inc.",NYQ,NYSE,S,Equity
+CEA,China Eastern Airlines Corporation Limited,NYQ,NYSE,S,Equity
+FUN,"Cedar Fair, L.P.",NYQ,NYSE,S,Equity
+CEE,"The Central and Eastern Europe Fund, Inc.",NYQ,NYSE,S,Equity
+CEF,Sprott Physical Gold and Silver Trust,NYQ,NYSE,S,Equity
+PCEF,Invesco CEF Income Composite ETF,NYQ,NYSE,E,ETF
+GCE,Claymore CEF GS Connect ETN,NYQ,NYSE,E,ETF
+CEIX,CONSOL Energy Inc.,NYQ,NYSE,S,Equity
+CEL,Cellcom Israel Ltd.,NYQ,NYSE,S,Equity
+CEM,ClearBridge Energy MLP Fund Inc.,NYQ,NYSE,S,Equity
+CPAC,Cementos Pacasmayo S.A.A.,NYQ,NYSE,S,Equity
+CEN,Center Coast MLP & Infrastructure Fund,NYQ,NYSE,S,Equity
+CNP,"CenterPoint Energy, Inc.",NYQ,NYSE,S,Equity
+CEO,CNOOC Limited,NYQ,NYSE,S,Equity
+CEQP,Crestwood Equity Partners LP,NYQ,NYSE,S,Equity
+CRR,CARBO Ceramics Inc.,NYQ,NYSE,S,Equity
+CCU,Compañía Cervecerías Unidas S.A.,NYQ,NYSE,S,Equity
+CET,Central Securities Corp.,NYQ,NYSE,S,Equity
+CEV,Eaton Vance California Municipal Income Trust,NYQ,NYSE,S,Equity
+CEW,WisdomTree Emerging Currency Strategy Fund,NYQ,NYSE,E,ETF
+CHA,China Telecom Corporation Limited,NYQ,NYSE,S,Equity
+CHAP,"Chaparral Energy, Inc.",NYQ,NYSE,S,Equity
+CHCT,Community Healthcare Trust Incorporated,NYQ,NYSE,S,Equity
+CHD,"Church & Dwight Co., Inc.",NYQ,NYSE,S,Equity
+CHE,Chemed Corporation,NYQ,NYSE,S,Equity
+APD,"Air Products and Chemicals, Inc.",NYQ,NYSE,S,Equity
+CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,NYQ,NYSE,E,ETF
+CHH,"Choice Hotels International, Inc.",NYQ,NYSE,S,Equity
+FXI,iShares China Large-Cap ETF,NYQ,NYSE,E,ETF
+CHL,China Mobile Limited,NYQ,NYSE,S,Equity
+CHS,"Chico's FAS, Inc.",NYQ,NYSE,S,Equity
+CHKR,Chesapeake Granite Wash Trust,NYQ,NYSE,S,Equity
+CHK-PD,Chesapeake Energy Corporation,NYQ,NYSE,S,Equity
+CHMI-PA,Cherry Hill Mortgage Investment Corporation,NYQ,NYSE,S,Equity
+CHMI-PB,Cherry Hill Mortgage Investment Corporation,NYQ,NYSE,S,Equity
+CHN,"The China Fund, Inc.",NYQ,NYSE,S,Equity
+FCAU,Fiat Chrysler Automobiles N.V.,NYQ,NYSE,S,Equity
+CHSP,Chesapeake Lodging Trust,NYQ,NYSE,S,Equity
+CHT,"Chunghwa Telecom Co., Ltd.",NYQ,NYSE,S,Equity
+CCC,Churchill Capital Corp,NYQ,NYSE,S,Equity
+CNA,CNA Financial Corporation,NYQ,NYSE,S,Equity
+CNDT,Conduent Incorporated,NYQ,NYSE,S,Equity
+CNHI,CNH Industrial N.V.,NYQ,NYSE,S,Equity
+CNHX,CSOP MSCI China A International Hedged ETF,NYQ,NYSE,E,ETF
+CNK,"Cinemark Holdings, Inc.",NYQ,NYSE,S,Equity
+CNNE,"Cannae Holdings, Inc.",NYQ,NYSE,S,Equity
+CNO,"CNO Financial Group, Inc.",NYQ,NYSE,S,Equity
+CNP-PB,"CenterPoint Energy, Inc.",NYQ,NYSE,S,Equity
+CNQ,Canadian Natural Resources Limited,NYQ,NYSE,S,Equity
+CNS,"Cohen & Steers, Inc.",NYQ,NYSE,S,Equity
+CNXM,CNX Midstream Partners LP,NYQ,NYSE,S,Equity
+CNXT,VanEck Vectors ChinaAMC SME-ChiNext ETF,NYQ,NYSE,E,ETF
+CNYA,iShares MSCI China A ETF,NYQ,NYSE,E,ETF
+ROYT,Pacific Coast Oil Trust,NYQ,NYSE,S,Equity
+ARCH,"Arch Coal, Inc.",NYQ,NYSE,S,Equity
+CCR,CONSOL Coal Resources LP,NYQ,NYSE,S,Equity
+CCEP,Coca-Cola European Partners plc,NYQ,NYSE,S,Equity
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",NYQ,NYSE,S,Equity
+NIB,iPath Bloomberg Cocoa Subindex Total Return(SM) ETN,NYQ,NYSE,E,ETF
+CODI,Compass Diversified Holdings LLC,NYQ,NYSE,S,Equity
+CODI-PA,Compass Diversified Holdings LLC,NYQ,NYSE,S,Equity
+CODI-PB,Compass Diversified Holdings LLC,NYQ,NYSE,S,Equity
+COF,Capital One Financial Corporation,NYQ,NYSE,S,Equity
+COF-PG,Capital One Financial Corporation,NYQ,NYSE,S,Equity
+COF-PP,Capital One Financial Corporation,NYQ,NYSE,S,Equity
+COF-PC,Capital One Financial Corp Depo,NYQ,NYSE,S,Equity
+ICF,iShares Cohen & Steers REIT ETF,NYQ,NYSE,E,ETF
+CLNY,"Colony Capital, Inc.",NYQ,NYSE,S,Equity
+CLNC,"Colony Credit Real Estate, Inc.",NYQ,NYSE,S,Equity
+COP,ConocoPhillips,NYQ,NYSE,S,Equity
+COO,"The Cooper Companies, Inc.",NYQ,NYSE,S,Equity
+CTB,Cooper Tire & Rubber Company,NYQ,NYSE,S,Equity
+CPS,Cooper-Standard Holdings Inc.,NYQ,NYSE,S,Equity
+CPA,"Copa Holdings, S.A.",NYQ,NYSE,S,Equity
+ELP,Companhia Paranaense de Energia - COPEL,NYQ,NYSE,S,Equity
+COPX,Global X Copper Miners ETF,NYQ,NYSE,E,ETF
+COR,CoreSite Realty Corporation,NYQ,NYSE,S,Equity
+CMRE,Costamare Inc.,NYQ,NYSE,S,Equity
+CMRE-PE,Costamare Inc.,NYQ,NYSE,S,Equity
+CMRE-PD,Costamare Inc.,NYQ,NYSE,S,Equity
+CMRE-PC,Costamare Inc.,NYQ,NYSE,S,Equity
+COT,Cott Corporation,NYQ,NYSE,S,Equity
+COTY,Coty Inc.,NYQ,NYSE,S,Equity
+BAL,iPath Series B Bloomberg Cotton Subindex Total Return ETN,NYQ,NYSE,E,ETF
+COUP,Coupa Software Incorporated,NYQ,NYSE,S,Equity
+CUZ,Cousins Properties Incorporated,NYQ,NYSE,S,Equity
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,NYQ,NYSE,E,ETF
+CVIA,Covia Holdings Corporation,NYQ,NYSE,S,Equity
+FC,Franklin Covey Co.,NYQ,NYSE,S,Equity
+HSPX,Global X S&P 500 Covered Call ETF,NYQ,NYSE,E,ETF
+MCN,Madison Covered Call & Equity Strategy Fund,NYQ,NYSE,S,Equity
+COW,iPath Series B Bloomberg Livestock Subindex Total Return ETN,NYQ,NYSE,E,ETF
+GCOW,Pacer Global Cash Cows Dividend ETF,NYQ,NYSE,E,ETF
+CRAK,VanEck Vectors Oil Refiners ETF,NYQ,NYSE,E,ETF
+CRD-A,Crawford & Company,NYQ,NYSE,S,Equity
+CRD-B,Crawford & Company,NYQ,NYSE,S,Equity
+CRCM,"Care.com, Inc.",NYQ,NYSE,S,Equity
+CRF,"Cornerstone Total Return Fund, Inc.",NYQ,NYSE,S,Equity
+CRH,CRH plc,NYQ,NYSE,S,Equity
+CRHM,CRH Medical Corporation,NYQ,NYSE,S,Equity
+CRI,"Carter's, Inc.",NYQ,NYSE,S,Equity
+CRK,"Comstock Resources, Inc.",NYQ,NYSE,S,Equity
+CRL,"Charles River Laboratories International, Inc.",NYQ,NYSE,S,Equity
+CAPL,CrossAmerica Partners LP,NYQ,NYSE,S,Equity
+CRT,Cross Timbers Royalty Trust,NYQ,NYSE,S,Equity
+BIOX,Bioceres Crop Solutions Corp.,NYQ,NYSE,S,Equity
+CRS,Carpenter Technology Corporation,NYQ,NYSE,S,Equity
+OIL,iPath Series B S&P GSCI Crude Oil Total Return Index ETN,NYQ,NYSE,E,ETF
+OILD,ProShares UltraPro 3x Short Crude Oil ETF,NYQ,NYSE,E,ETF
+CRY,"CryoLife, Inc.",NYQ,NYSE,S,Equity
+PIY,Merrill Lynch Depositor Inc - PreferredPlus Trust Series CZN-1 CZN-1 TR CTF,NYQ,NYSE,S,Equity
+CTO,Consolidated-Tomoka Land Co.,NYQ,NYSE,S,Equity
+CTRA,"Contura Energy, Inc.",NYQ,NYSE,S,Equity
+CTS,CTS Corporation,NYQ,NYSE,S,Equity
+CUBI,"Customers Bancorp, Inc.",NYQ,NYSE,S,Equity
+CUBI-PC,"Customers Bancorp, Inc.",NYQ,NYSE,S,Equity
+CUK,Carnival plc,NYQ,NYSE,S,Equity
+CULP,"Culp, Inc.",NYQ,NYSE,S,Equity
+CFR-PA,"Cullen/Frost Bankers, Inc.",NYQ,NYSE,S,Equity
+NS-PC,NuStar Energy L.P. 9.00% CUM PFD C,NYQ,NYSE,S,Equity
+DCP-PB,"DCP Midstream, LP 7.875 CUM RED B",NYQ,NYSE,S,Equity
+CUO,Continental Materials Corporation,NYQ,NYSE,S,Equity
+FXE,Invesco CurrencyShares Euro Currency Trust,NYQ,NYSE,E,ETF
+SRV,Cushing MLP Total Return Fund,NYQ,NYSE,S,Equity
+MLPY,Morgan Stanley Cushing MLP High Income Index ETN,NYQ,NYSE,E,ETF
+CUT,Invesco MSCI Global Timber ETF,NYQ,NYSE,E,ETF
+CVEO,Civeo Corporation,NYQ,NYSE,S,Equity
+CVU,"CPI Aerostructures, Inc.",NYQ,NYSE,S,Equity
+CVY,Invesco Zacks Multi-Asset Income ETF,NYQ,NYSE,E,ETF
+AMX,"América Móvil, S.A.B. de C.V.",NYQ,NYSE,S,Equity
+PAC,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",NYQ,NYSE,S,Equity
+FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",NYQ,NYSE,S,Equity
+TZA,Direxion Daily Small Cap Bear 3X Shares,NYQ,NYSE,E,ETF
+SOXS,Direxion Daily Semiconductor Bear 3X Shares,NYQ,NYSE,E,ETF
+DAN,Dana Incorporated,NYQ,NYSE,S,Equity
+DHR-PA,Danaher Corporation,NYQ,NYSE,S,Equity
+DAR,Darling Ingredients Inc.,NYQ,NYSE,S,Equity
+ADS,Alliance Data Systems Corporation,NYQ,NYSE,S,Equity
+FDC,First Data Corporation,NYQ,NYSE,S,Equity
+TDS,"Telephone and Data Systems, Inc.",NYQ,NYSE,S,Equity
+DCP-PC,"DCP Midstream, LP",NYQ,NYSE,S,Equity
+DCUD,"Dominion Energy, Inc. UT SER A 081519",NYQ,NYSE,S,Equity
+DDG,ProShares Short Oil & Gas,NYQ,NYSE,E,ETF
+DDJP,WisdomTree Dynamic Currency Hedged Japan Equity Fund,NYQ,NYSE,E,ETF
+DDT,Dillards Capital Trust I CAP SECS 7.5%,NYQ,NYSE,S,Equity
+DDWM,WisdomTree Dynamic Currency Hedged International Equity Fund,NYQ,NYSE,E,ETF
+DHDG,WisdomTree Dynamic Currency Hedged International Quality Dividend Growth Fund,NYQ,NYSE,E,ETF
+DEO,Diageo plc,NYQ,NYSE,S,Equity
+DIG,ProShares Ultra Oil & Gas,NYQ,NYSE,E,ETF
+DSUM,Invesco Chinese Yuan Dim Sum Bond ETF,NYQ,NYSE,E,ETF
+DIN,"Dine Brands Global, Inc.",NYQ,NYSE,S,Equity
+XLY,Consumer Discretionary Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+VCR,Vanguard Consumer Discretionary Index Fund ETF Shares,NYQ,NYSE,E,ETF
+DIT,AMCON Distributing Company,NYQ,NYSE,S,Equity
+DIV,Global X SuperDividend U.S. ETF,NYQ,NYSE,E,ETF
+VYM,Vanguard High Dividend Yield Index Fund ETF Shares,NYQ,NYSE,E,ETF
+VIG,Vanguard Dividend Appreciation Index Fund ETF Shares,NYQ,NYSE,E,ETF
+SPYD,SPDR Portfolio S&P 500 High Dividend ETF,NYQ,NYSE,E,ETF
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,NYQ,NYSE,E,ETF
+DJCI,UBS ETRACS Bloomberg Commodity Index Total Return ETN,NYQ,NYSE,E,ETF
+DLA,"Delta Apparel, Inc.",NYQ,NYSE,S,Equity
+DLN,WisdomTree U.S. LargeCap Dividend Fund,NYQ,NYSE,E,ETF
+DLNG-PA,Dynagas LNG Partners LP,NYQ,NYSE,S,Equity
+DLR-PJ,"Digital Realty Trust, Inc.",NYQ,NYSE,S,Equity
+DLR-PC,"Digital Realty Trust, Inc.",NYQ,NYSE,S,Equity
+DLR-PK,"Digital Realty Trust, Inc.",NYQ,NYSE,S,Equity
+DLR-PG,"Digital Realty Trust, Inc.",NYQ,NYSE,S,Equity
+DLR-PI,"Digital Realty Trust, Inc.",NYQ,NYSE,S,Equity
+DLS,WisdomTree International SmallCap Dividend Fund,NYQ,NYSE,E,ETF
+DMDV,AAM S&P Developed Markets High Dividend Value ETF,NYQ,NYSE,E,ETF
+DMRI,DeltaShares S&P International Managed Risk ETF,NYQ,NYSE,E,ETF
+DNL,WisdomTree Global ex-U.S. Quality Dividend Growth Fund,NYQ,NYSE,E,ETF
+DOC,Physicians Realty Trust,NYQ,NYSE,S,Equity
+ARC,"ARC Document Solutions, Inc.",NYQ,NYSE,S,Equity
+SDOG,ALPS Sector Dividend Dogs ETF,NYQ,NYSE,E,ETF
+EDOG,ALPS Emerging Sector Dividend Dogs ETF,NYQ,NYSE,E,ETF
+DOL,WisdomTree International LargeCap Dividend Fund,NYQ,NYSE,E,ETF
+EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",NYQ,NYSE,S,Equity
+FWDD,AdvisorShares Madrona Domestic ETF,NYQ,NYSE,E,ETF
+DRUA,"Dominion Energy, Inc. ENHCD SUB NT16 A",NYQ,NYSE,E,ETF
+DON,WisdomTree U.S. MidCap Dividend Fund,NYQ,NYSE,E,ETF
+DOOR,Masonite International Corporation,NYQ,NYSE,S,Equity
+ARCO,Arcos Dorados Holdings Inc.,NYQ,NYSE,S,Equity
+AADR,AdvisorShares Dorsey Wright ADR ETF,NYQ,NYSE,E,ETF
+DEI,"Douglas Emmett, Inc.",NYQ,NYSE,S,Equity
+DBL,DoubleLine Opportunistic Credit Fund,NYQ,NYSE,S,Equity
+FDN,First Trust Dow Jones Internet Index Fund,NYQ,NYSE,E,ETF
+TDF,"Templeton Dragon Fund, Inc.",NYQ,NYSE,S,Equity
+DRD,DRDGOLD Limited,NYQ,NYSE,S,Equity
+DSM,"Dreyfus Strategic Municipal Bond Fund, Inc.",NYQ,NYSE,S,Equity
+LEO,"Dreyfus Strategic Municipals, Inc.",NYQ,NYSE,S,Equity
+DRH,DiamondRock Hospitality Company,NYQ,NYSE,S,Equity
+DRQ,"Dril-Quip, Inc.",NYQ,NYSE,S,Equity
+DRR,Market Vectors Double Short Euro ETN,NYQ,NYSE,E,ETF
+DRV,Direxion Daily MSCI Real Estate Bear 3X Shares,NYQ,NYSE,E,ETF
+DRW,WisdomTree Global ex-US Real Estate Fund,NYQ,NYSE,E,ETF
+DTV,DTE Energy Company CORPORATE UNIT,NYQ,NYSE,S,Equity
+DTY,DTE Energy Company,NYQ,NYSE,E,ETF
+DTJ,DTE Energy Company JR SUB DEB 76,NYQ,NYSE,E,ETF
+DTQ,DTE Energy Company SUB DEB 62,NYQ,NYSE,S,Equity
+DTF,DTF Tax-Free Income Inc.,NYQ,NYSE,S,Equity
+DTH,WisdomTree International High Dividend Fund,NYQ,NYSE,E,ETF
+DTLA-P,Brookfield DTLA Fund Office Trust Investor Inc.,NYQ,NYSE,S,Equity
+DTO,DB Crude Oil Double Short ETN,NYQ,NYSE,E,ETF
+DUC,Duff & Phelps Utility and Corporate Bond Trust Inc.,NYQ,NYSE,S,Equity
+SSWA,Seaspan Corporation 7.125% NT DUE 27,NYQ,NYSE,E,ETF
+DUKH,Duke Energy Corporation JR SUB DEB 73,NYQ,NYSE,E,ETF
+DUK-PA,Duke Energy Corporation,NYQ,NYSE,S,Equity
+DUKB,Duke Energy Corporation 5.625% ,NYQ,NYSE,E,ETF
+DUK_PA,Duke Energy Corporation Deposit,NYQ,NYSE,S,Equity
+EDV,Vanguard Extended Duration Treasury Index Fund ETF Shares,NYQ,NYSE,E,ETF
+FTF,Franklin Limited Duration Income Trust,NYQ,NYSE,S,Equity
+GSY,Invesco Ultra Short Duration ETF,NYQ,NYSE,E,ETF
+EVV,Eaton Vance Limited Duration Income Fund,NYQ,NYSE,S,Equity
+FPF,First Trust Intermediate Duration Preferred & Income Fund,NYQ,NYSE,S,Equity
+DUSL,Direxion Daily Industrials Bull 3X Shares Direxion Daily Industrials Bull 3,NYQ,NYSE,E,ETF
+DVEM,WisdomTree Emerging Markets Dividend Fund,NYQ,NYSE,E,ETF
+DVN_W,Devon Energy Corporation,NYQ,NYSE,S,Equity
+DVP,Deep Value ETF,NYQ,NYSE,E,ETF
+DWM,WisdomTree International Equity Fund,NYQ,NYSE,E,ETF
+EFAD,ProShares MSCI EAFE Dividend Growers ETF,NYQ,NYSE,E,ETF
+EFAX,SPDR MSCI EAFE Fossil Fuel Free ETF,NYQ,NYSE,E,ETF
+EFF,Eaton Vance Floating-Rate Income Plus Fund,NYQ,NYSE,S,Equity
+EFG,iShares MSCI EAFE Growth ETF,NYQ,NYSE,E,ETF
+EFU,ProShares UltraShort MSCI EAFE,NYQ,NYSE,E,ETF
+EFZ,ProShares Short MSCI EAFE,NYQ,NYSE,E,ETF
+EGF,"BlackRock Enhanced Government Fund, Inc.",NYQ,NYSE,S,Equity
+EGI,Entrée Resources Ltd.,NYQ,NYSE,S,Equity
+EGIF,Eagle Growth & Income Opportunities Fund,NYQ,NYSE,S,Equity
+EIV,Eaton Vance Municipal Bond Fund II,NYQ,NYSE,S,Equity
+EMAG,VanEck Vectors Emerging Markets Aggregate Bond ETF,NYQ,NYSE,E,ETF
+AKO-B,Embotelladora Andina S.A.,NYQ,NYSE,S,Equity
+AKOA,Embotelladora Andina S.A.,NYQ,NYSE,S,Equity
+AKO-A,Embotelladora Andina S.A.,NYQ,NYSE,S,Equity
+EMD,Western Asset Emerging Markets Debt Fund Inc.,NYQ,NYSE,S,Equity
+EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,NYQ,NYSE,E,ETF
+VWO,Vanguard FTSE Emerging Markets Index Fund ETF Shares,NYQ,NYSE,E,ETF
+EMF,Templeton Emerging Markets Fund,NYQ,NYSE,S,Equity
+EMIH,Xtrackers Emerging Markets Bond - Interest Rate Hedged ETF,NYQ,NYSE,E,ETF
+EMLP,First Trust North American Energy Infrastructure Fund,NYQ,NYSE,E,ETF
+EMO,ClearBridge Energy MLP Opportunity Fund Inc.,NYQ,NYSE,S,Equity
+EMP,"Entergy Mississippi, Inc. 1M BD 66",NYQ,NYSE,E,ETF
+ESRT,"Empire State Realty Trust, Inc.",NYQ,NYSE,S,Equity
+ESBA,"Empire State Realty OP, L.P.",NYQ,NYSE,S,Equity
+WOMN,Impact Shares YWCA Women's Empowerment ETF,NYQ,NYSE,E,ETF
+EMQQ,EMQQ The Emerging Markets Internet & Ecommerce ETF,NYQ,NYSE,E,ETF
+EMSG,Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF,NYQ,NYSE,E,ETF
+EMSH,ProShares Short Term USD Emerging Markets Bond ETF,NYQ,NYSE,E,ETF
+EMTY,ProShares Decline of the Retail Store ETF,NYQ,NYSE,E,ETF
+EMTL,SPDR DoubleLine Emerging Markets Fixed Income ETF,NYQ,NYSE,E,ETF
+ENBA,Enbridge Inc. 6.375 SNT18 B 78,NYQ,NYSE,E,ETF
+EXK,Endeavour Silver Corp.,NYQ,NYSE,S,Equity
+VLO,Valero Energy Corporation,NYQ,NYSE,S,Equity
+ENFR,Alerian Energy Infrastructure ETF,NYQ,NYSE,E,ETF
+OEC,Orion Engineered Carbons S.A.,NYQ,NYSE,S,Equity
+NEN,New England Realty Associates Limited Partnership,NYQ,NYSE,S,Equity
+MINT,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,NYQ,NYSE,E,ETF
+GPM,Guggenheim Enhanced Equity Income Fund,NYQ,NYSE,S,Equity
+CII,"BlackRock Enhanced Capital and Income Fund, Inc.",NYQ,NYSE,S,Equity
+DEX,Delaware Enhanced Global Dividend and Income Fund,NYQ,NYSE,S,Equity
+ENIA,Enel Américas S.A.,NYQ,NYSE,S,Equity
+ENIC,Enel Chile S.A.,NYQ,NYSE,S,Equity
+ENJ,"Entergy Utility Group, Inc. 1ST MTG 5% 52",NYQ,NYSE,E,ETF
+ENLC,"EnLink Midstream, LLC",NYQ,NYSE,S,Equity
+ENO,"Entergy Utility Group, Inc. 1ST MTG BD 66",NYQ,NYSE,E,ETF
+ENVA,"Enova International, Inc.",NYQ,NYSE,S,Equity
+ENR,"Energizer Holdings, Inc.",NYQ,NYSE,S,Equity
+ENR-PA,"Energizer Holdings, Inc.",NYQ,NYSE,S,Equity
+ENS,EnerSys,NYQ,NYSE,S,Equity
+ENV,"Envestnet, Inc.",NYQ,NYSE,S,Equity
+EVA,"Enviva Partners, LP",NYQ,NYSE,S,Equity
+ENZ,"Enzo Biochem, Inc.",NYQ,NYSE,S,Equity
+EPHE,iShares MSCI Philippines ETF,NYQ,NYSE,E,ETF
+EPP,iShares MSCI Pacific ex Japan ETF,NYQ,NYSE,E,ETF
+EPRF,Innovator S&P Investment Grade Preferred ETF,NYQ,NYSE,E,ETF
+FFR,First Trust FTSE EPRA/NAREIT Developed Markets Real Estate Index Fund,NYQ,NYSE,E,ETF
+EPR-PG,EPR Properties,NYQ,NYSE,S,Equity
+EPR-PC,EPR Properties 5.75% Series C C,NYQ,NYSE,S,Equity
+EPR-PE,EPR Properties Series E Cumulat,NYQ,NYSE,S,Equity
+EPS,WisdomTree U.S. Earnings 500 Fund,NYQ,NYSE,E,ETF
+EPU,iShares MSCI All Peru ETF,NYQ,NYSE,E,ETF
+ERH,Wells Fargo Advantage Utilities and High Income Fund,NYQ,NYSE,S,Equity
+ERM,EquityCompass Risk Manager ETF,NYQ,NYSE,E,ETF
+ERUS,iShares MSCI Russia Capped ETF,NYQ,NYSE,E,ETF
+ERY,Direxion Daily Energy Bear 3X Shares,NYQ,NYSE,E,ETF
+EUDV,ProShares MSCI Europe Dividend Growers ETF,NYQ,NYSE,E,ETF
+EUFX,ProShares Short Euro,NYQ,NYSE,E,ETF
+EUFL,Direxion Daily MSCI European Financials Bull 2X Shares,NYQ,NYSE,E,ETF
+EUM,ProShares Short MSCI Emerging Markets,NYQ,NYSE,E,ETF
+EUMV,iShares Edge MSCI Min Vol Europe ETF,NYQ,NYSE,E,ETF
+VGK,Vanguard FTSE Europe Index Fund ETF Shares,NYQ,NYSE,E,ETF
+FEZ,SPDR EURO STOXX 50 ETF,NYQ,NYSE,E,ETF
+EUSA,iShares MSCI USA Equal Weighted ETF,NYQ,NYSE,E,ETF
+EVBN,"Evans Bancorp, Inc.",NYQ,NYSE,S,Equity
+EVC,Entravision Communications Corporation,NYQ,NYSE,S,Equity
+EVRI,Everi Holdings Inc.,NYQ,NYSE,S,Equity
+EVR,Evercore Inc.,NYQ,NYSE,S,Equity
+EVF,Eaton Vance Senior Income Trust,NYQ,NYSE,S,Equity
+EVG,Eaton Vance Short Duration Diversified Income Fund,NYQ,NYSE,S,Equity
+EVI,"EVI Industries, Inc.",NYQ,NYSE,S,Equity
+EVM,Eaton Vance California Municipal Bond Fund,NYQ,NYSE,S,Equity
+EVN,Eaton Vance Municipal Income Trust,NYQ,NYSE,S,Equity
+IEME,iShares Evolved U.S. Media and Entertainment ETF,NYQ,NYSE,E,ETF
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,NYQ,NYSE,S,Equity
+EVX,VanEck Vectors Environmental Services ETF,NYQ,NYSE,E,ETF
+XAN,Exantas Capital Corp.,NYQ,NYSE,S,Equity
+XAN-PC,Exantas Capital Corp.,NYQ,NYSE,S,Equity
+BOND,PIMCO Active Bond Exchange-Traded Fund,NYQ,NYSE,E,ETF
+EXD,Eaton Vance Tax-Advantaged Bond and Option Strategies Fund,NYQ,NYSE,S,Equity
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,NYQ,NYSE,S,Equity
+EXI,iShares Global Industrials ETF,NYQ,NYSE,E,ETF
+EXIV,VelocityShares 1x Daily Inverse VSTOXX Futures ETN,NYQ,NYSE,E,ETF
+AXP,American Express Company,NYQ,NYSE,S,Equity
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,NYQ,NYSE,E,ETF
+EXR,Extra Space Storage Inc.,NYQ,NYSE,S,Equity
+EXT,WisdomTree U.S. Total Earnings Fund,NYQ,NYSE,E,ETF
+VXF,Vanguard Extended Market Index Fund ETF Shares,NYQ,NYSE,E,ETF
+GAA,Cambria Global Asset Allocation ETF,NYQ,NYSE,E,ETF
+GAB,The Gabelli Equity Trust Inc.,NYQ,NYSE,S,Equity
+GLU,The Gabelli Global Utility & Income Trust,NYQ,NYSE,S,Equity
+GDG,Gadsden Dynamic Growth ETF,NYQ,NYSE,E,ETF
+GDMA,Gadsden Dynamic Multi-Asset ETF New,NYQ,NYSE,E,ETF
+GAL,SPDR SSgA Global Allocation ETF,NYQ,NYSE,E,ETF
+AJG,Arthur J. Gallagher & Co.,NYQ,NYSE,S,Equity
+GAM,"General American Investors Company, Inc.",NYQ,NYSE,S,Equity
+UNG,"United States Natural Gas Fund, LP",NYQ,NYSE,E,ETF
+NOG,"Northern Oil and Gas, Inc.",NYQ,NYSE,S,Equity
+GATX,GATX Corporation,NYQ,NYSE,S,Equity
+GMTA,GATX Corporation SR NT 2066,NYQ,NYSE,E,ETF
+GBAB,Guggenheim Taxable Municipal Managed Duration Trust,NYQ,NYSE,S,Equity
+GBF,iShares Government/Credit Bond ETF,NYQ,NYSE,E,ETF
+GBL,"GAMCO Investors, Inc.",NYQ,NYSE,S,Equity
+DGBP,Citigroup ETNs linked to the VelocityShares Daily 4X Long USD vs. GBP Index,NYQ,NYSE,E,ETF
+GBUY,Goldman Sachs Motif New Age Consumer ETF,NYQ,NYSE,E,ETF
+GCC,WisdomTree Continuous Commodity Index Fund,NYQ,NYSE,E,ETF
+GCV-PB,The Gabelli Convertible and Income Securities Fund Inc.,NYQ,NYSE,S,Equity
+OGIG,O'Shares Global Internet Giants ETF,NYQ,NYSE,E,ETF
+GIG,"GigCapital, Inc.",NYQ,NYSE,S,Equity
+GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,NYQ,NYSE,E,ETF
+GIG-RI,"GigCapital, Inc.",NYQ,NYSE,S,Equity
+TBB,AT&T Inc. 5.35% GLB NTS 66,NYQ,NYSE,E,ETF
+GLBY,WisdomTree Yield Enhanced Global Aggregate Bond Fund,NYQ,NYSE,E,ETF
+GLDM,SPDR Gold MiniShares,NYQ,NYSE,E,ETF
+GLDW,SPDR Long Dollar Gold Trust,NYQ,NYSE,E,ETF
+GLL,ProShares UltraShort Gold,NYQ,NYSE,E,ETF
+APO,"Apollo Global Management, LLC",NYQ,NYSE,S,Equity
+GLP,Global Partners LP,NYQ,NYSE,S,Equity
+GLP-PA,Global Partners LP,NYQ,NYSE,S,Equity
+GLQ,Clough Global Equity Fund,NYQ,NYSE,S,Equity
+GNE,Genie Energy Ltd.,NYQ,NYSE,S,Equity
+GNE-PA,Genie Energy Ltd.,NYQ,NYSE,S,Equity
+GNL-PA,"Global Net Lease, Inc.",NYQ,NYSE,S,Equity
+GNR,SPDR S&P Global Natural Resources ETF,NYQ,NYSE,E,ETF
+GNT,"GAMCO Natural Resources, Gold & Income Trust",NYQ,NYSE,S,Equity
+GNT-PA,"GAMCO Natural Resources, Gold &",NYQ,NYSE,S,Equity
+GOAU,U.S. Global GO GOLD and Precious Metal Miners ETF,NYQ,NYSE,E,ETF
+GOL,Gol Linhas Aéreas Inteligentes S.A.,NYQ,NYSE,S,Equity
+GORO,Gold Resource Corporation,NYQ,NYSE,S,Equity
+DEA,"Easterly Government Properties, Inc.",NYQ,NYSE,S,Equity
+GOVT,iShares U.S. Treasury Bond ETF,NYQ,NYSE,E,ETF
+MGF,MFS Government Markets Income Trust,NYQ,NYSE,S,Equity
+GPI,"Group 1 Automotive, Inc.",NYQ,NYSE,S,Equity
+GPJA,Georgia Power Company 5% JR SUB NT 77,NYQ,NYSE,E,ETF
+GPRK,GeoPark Limited,NYQ,NYSE,S,Equity
+GPX,GP Strategies Corporation,NYQ,NYSE,S,Equity
+GRF,"Eagle Capital Growth Fund, Inc.",NYQ,NYSE,S,Equity
+GRMY,Xtrackers Germany Equity ETF,NYQ,NYSE,E,ETF
+GRP-UN,Granite Real Estate Investment Trust,NYQ,NYSE,S,Equity
+GRU,ELEMENTS Linked to the MLCX Grains Index - Total Return,NYQ,NYSE,E,ETF
+SUPV,Grupo Supervielle S.A.,NYQ,NYSE,S,Equity
+TV,"Grupo Televisa, S.A.B.",NYQ,NYSE,S,Equity
+AVAL,Grupo Aval Acciones Y Valores S.A.,NYQ,NYSE,S,Equity
+ASR,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",NYQ,NYSE,S,Equity
+GRX-PB,The Gabelli Healthcare & Wellness Trust,NYQ,NYSE,S,Equity
+GRX-PA,The Gabelli Healthcare & Wellness Trust,NYQ,NYSE,S,Equity
+AGO,Assured Guaranty Ltd.,NYQ,NYSE,S,Equity
+GUDB,Sage ESG Intermediate Credit ETF,NYQ,NYSE,E,ETF
+GUT-PA,The Gabelli Utility Trust,NYQ,NYSE,S,Equity
+GUT-PC,The Gabelli Utility Trust,NYQ,NYSE,S,Equity
+GUT_PA,Gabelli Utility Trust (The) 5.6,NYQ,NYSE,S,Equity
+GWX,SPDR S&P International Small Cap ETF,NYQ,NYSE,E,ETF
+HCFT,"Hunt Companies Finance Trust, Inc.",NYQ,NYSE,S,Equity
+HCXZ,"Hercules Capital, Inc.",NYQ,NYSE,E,ETF
+HCXY,"Hercules Capital, Inc.",NYQ,NYSE,S,Equity
+OHI,"Omega Healthcare Investors, Inc.",NYQ,NYSE,S,Equity
+HEB,"Hemispherx Biopharma, Inc.",NYQ,NYSE,S,Equity
+HE-PU,HECO Capital Trust III QUIPS 6.5% 04,NYQ,NYSE,S,Equity
+HECO,Strategy Shares EcoLogical Strategy ETF,NYQ,NYSE,E,ETF
+HL-PB,Hecla Mining Company,NYQ,NYSE,S,Equity
+HL_PB,Hecla Mining Company Preferred ,NYQ,NYSE,S,Equity
+HEDJ,WisdomTree Europe Hedged Equity Fund,NYQ,NYSE,E,ETF
+DXJ,WisdomTree Japan Hedged Equity Fund,NYQ,NYSE,E,ETF
+IPOA,Social Capital Hedosophia Holdings Corp.,NYQ,NYSE,S,Equity
+HYGH,iShares Interest Rate Hedged High Yield Bond ETF,NYQ,NYSE,E,ETF
+HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,NYQ,NYSE,E,ETF
+HEFA,iShares Currency Hedged MSCI EAFE ETF,NYQ,NYSE,E,ETF
+HEI,HEICO Corporation,NYQ,NYSE,S,Equity
+HEI-A,HEICO Corporation,NYQ,NYSE,S,Equity
+HEIA,HEICO Corporation,NYQ,NYSE,S,Equity
+SWZ,The Swiss Helvetia Fund Inc.,NYQ,NYSE,S,Equity
+HEP,"Holly Energy Partners, L.P.",NYQ,NYSE,S,Equity
+HEQ,John Hancock Hedged Equity & Income Fund,NYQ,NYSE,S,Equity
+HES,Hess Corporation,NYQ,NYSE,S,Equity
+HEWJ,iShares Currency Hedged MSCI Japan ETF,NYQ,NYSE,E,ETF
+HEWY,iShares Currency Hedged MSCI South Korea ETF,NYQ,NYSE,E,ETF
+HEWW,iShares Currency Hedged MSCI Mexico ETF,NYQ,NYSE,E,ETF
+HEWU,iShares Currency Hedged MSCI United Kingdom ETF,NYQ,NYSE,E,ETF
+HEWI,iShares Currency Hedged MSCI Italy ETF,NYQ,NYSE,E,ETF
+HGSD,WisdomTree Global Hedged SmallCap Dividend Fund,NYQ,NYSE,E,ETF
+HIE,Miller/Howard High Income Equity Fund,NYQ,NYSE,S,Equity
+HIL,"Hill International, Inc.",NYQ,NYSE,S,Equity
+TRQ,Turquoise Hill Resources Ltd.,NYQ,NYSE,S,Equity
+HIO,Western Asset High Income Opportunity Fund Inc.,NYQ,NYSE,S,Equity
+HIVE,"Aerohive Networks, Inc.",NYQ,NYSE,S,Equity
+HIW,"Highwoods Properties, Inc.",NYQ,NYSE,S,Equity
+HIX,Western Asset High Income Fund II Inc.,NYQ,NYSE,S,Equity
+TKC,Turkcell Iletisim Hizmetleri A.S.,NYQ,NYSE,S,Equity
+HMLP-PA,Höegh LNG Partners LP,NYQ,NYSE,S,Equity
+HNW,Pioneer Diversified High Income Trust,NYQ,NYSE,S,Equity
+AHH,"Armada Hoffler Properties, Inc.",NYQ,NYSE,S,Equity
+ITB,iShares U.S. Home Construction ETF,NYQ,NYSE,E,ETF
+FBHS,"Fortune Brands Home & Security, Inc.",NYQ,NYSE,S,Equity
+BLES,Inspire Global Hope ETF,NYQ,NYSE,E,ETF
+FHN,First Horizon National Corporation,NYQ,NYSE,S,Equity
+HOS,"Hornbeck Offshore Services, Inc.",NYQ,NYSE,S,Equity
+APLE,"Apple Hospitality REIT, Inc.",NYQ,NYSE,S,Equity
+AHT,"Ashford Hospitality Trust, Inc.",NYQ,NYSE,S,Equity
+HLI,"Houlihan Lokey, Inc.",NYQ,NYSE,S,Equity
+HOV,"Hovnanian Enterprises, Inc.",NYQ,NYSE,S,Equity
+HOMZ,The Hoya Capital Housing ETF,NYQ,NYSE,E,ETF
+HSBC-PA,HSBC Holdings plc ADR A 1/40PF A,NYQ,NYSE,S,Equity
+HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,NYQ,NYSE,E,ETF
+HUBB,Hubbell Incorporated,NYQ,NYSE,S,Equity
+HPP,"Hudson Pacific Properties, Inc.",NYQ,NYSE,S,Equity
+HTUS,Hull Tactical US ETF,NYQ,NYSE,E,ETF
+GDNA,Goldman Sachs Motif Human Evolution ETF,NYQ,NYSE,E,ETF
+HUSV,First Trust Horizon Managed Volatility Domestic ETF,NYQ,NYSE,E,ETF
+HUSE,Strategy Shares US Market Rotation Strategy ETF,NYQ,NYSE,E,ETF
+HVTA,Haverty Furniture Companies Inc.,NYQ,NYSE,S,Equity
+HVT-A,"Haverty Furniture Companies, Inc.",NYQ,NYSE,S,Equity
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,NYQ,NYSE,S,Equity
+IBCD,iShares iBonds Mar 2020 Term Corporate ex-Financials ETF,NYQ,NYSE,E,ETF
+IBCE,iShares iBonds Mar 2023 Term Corporate ex-Financials ETF,NYQ,NYSE,E,ETF
+IBD,Inspire Corporate Bond Impact ETF,NYQ,NYSE,E,ETF
+FFTY,Innovator IBD 50 ETF,NYQ,NYSE,E,ETF
+IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,NYQ,NYSE,E,ETF
+IBDK,iShares iBonds Dec 2019 Term Corporate ETF,NYQ,NYSE,E,ETF
+IBDO,iShares iBonds Dec 2023 Term Corporate ETF,NYQ,NYSE,E,ETF
+IBMH,iShares iBonds Sep 2019 Term Muni Bond ETF,NYQ,NYSE,E,ETF
+IBMK,iShares iBonds Dec 2022 Term Muni Bond ETF,NYQ,NYSE,E,ETF
+IBML,iShares iBonds Dec 2023 Term Muni Bond ETF,NYQ,NYSE,E,ETF
+IBMJ,iShares iBonds Dec 2021 Term Muni Bond ETF,NYQ,NYSE,E,ETF
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,NYQ,NYSE,E,ETF
+ICAN,SerenityShares Impact ETF,NYQ,NYSE,E,ETF
+ICD,"Independence Contract Drilling, Inc.",NYQ,NYSE,S,Equity
+ICOL,iShares MSCI Colombia ETF,NYQ,NYSE,E,ETF
+IDA,"IDACORP, Inc.",NYQ,NYSE,S,Equity
+IDE,"Voya Infrastructure, Industrials and Materials Fund",NYQ,NYSE,S,Equity
+IDEV,iShares Core MSCI International Developed Markets ETF,NYQ,NYSE,E,ETF
+IDHD,Invesco S&P International Developed High Dividend Low Volatility ETF,NYQ,NYSE,E,ETF
+IDHQ,Invesco S&P International Developed Quality ETF,NYQ,NYSE,E,ETF
+IDLV,Invesco S&P International Developed Low Volatility ETF,NYQ,NYSE,E,ETF
+IDMO,Invesco S&P International Developed Momentum ETF,NYQ,NYSE,E,ETF
+IDN,"Intellicheck, Inc.",NYQ,NYSE,S,Equity
+IDT,IDT Corporation,NYQ,NYSE,S,Equity
+IDX,VanEck Vectors Indonesia Index ETF,NYQ,NYSE,E,ETF
+IEDI,iShares Evolved U.S. Discretionary Spending ETF,NYQ,NYSE,E,ETF
+IEHS,iShares Evolved U.S. Healthcare Staples ETF,NYQ,NYSE,E,ETF
+IEIH,iShares Evolved U.S. Innovative Healthcare ETF,NYQ,NYSE,E,ETF
+IEV,iShares Europe ETF,NYQ,NYSE,E,ETF
+IEZ,iShares U.S. Oil Equipment & Services ETF,NYQ,NYSE,E,ETF
+IFFT,International Flavors & Fragran,NYQ,NYSE,S,Equity
+IFRA,iShares U.S. Infrastructure ETF,NYQ,NYSE,E,ETF
+IGA,Voya Global Advantage and Premium Opportunity Fund,NYQ,NYSE,S,Equity
+IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,NYQ,NYSE,E,ETF
+IGE,iShares North American Natural Resources ETF,NYQ,NYSE,E,ETF
+IGHG,ProShares Investment Grade—Interest Rate Hedged,NYQ,NYSE,E,ETF
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,NYQ,NYSE,S,Equity
+IGIH,Xtrackers Investment Grade Bond - Interest Rate Hedged ETF,NYQ,NYSE,E,ETF
+IGN,iShares North American Tech-Multimedia Networking ETF,NYQ,NYSE,E,ETF
+IGRO,iShares International Dividend Growth ETF,NYQ,NYSE,E,ETF
+IGVT,Xtrackers Barclays International Treasury Bond Hedged ETF,NYQ,NYSE,E,ETF
+IHD,Voya Emerging Markets High Dividend Equity Fund,NYQ,NYSE,S,Equity
+IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,NYQ,NYSE,E,ETF
+IHIT,Invesco High Income 2023 Target Term Fund,NYQ,NYSE,S,Equity
+IHT,InnSuites Hospitality Trust,NYQ,NYSE,S,Equity
+IHTA,Invesco High Income 2024 Target Term Fund,NYQ,NYSE,S,Equity
+PMX,PIMCO Municipal Income Fund III,NYQ,NYSE,S,Equity
+MYI,"BlackRock MuniYield Quality Fund III, Inc.",NYQ,NYSE,S,Equity
+IMH,"Impac Mortgage Holdings, Inc.",NYQ,NYSE,S,Equity
+ACIM,SPDR MSCI ACWI IMI ETF,NYQ,NYSE,E,ETF
+IMLP,iPath S&P MLP ETN,NYQ,NYSE,E,ETF
+IMTM,iShares Edge MSCI Intl Momentum Factor ETF,NYQ,NYSE,E,ETF
+INB,"Cohen & Steers Global Income Builder, Inc",NYQ,NYSE,S,Equity
+TEVA,Teva Pharmaceutical Industries Limited,NYQ,NYSE,S,Equity
+VTI,Vanguard Total Stock Market Index Fund ETF Shares,NYQ,NYSE,E,ETF
+INF,Brookfield Global Listed Infrastructure Income Fund Inc.,NYQ,NYSE,S,Equity
+VGT,Vanguard Information Technology Index Fund ETF Shares,NYQ,NYSE,E,ETF
+AMZA,InfraCap MLP ETF,NYQ,NYSE,E,ETF
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",NYQ,NYSE,S,Equity
+FIS,"Fidelity National Information Services, Inc.",NYQ,NYSE,S,Equity
+INFY,Infosys Limited,NYQ,NYSE,S,Equity
+ING,ING Groep N.V.,NYQ,NYSE,S,Equity
+INGR,Ingredion Incorporated,NYQ,NYSE,S,Equity
+ARKK,ARK Innovation ETF,NYQ,NYSE,E,ETF
+IPHI,Inphi Corporation,NYQ,NYSE,S,Equity
+INS,Intelligent Systems Corporation,NYQ,NYSE,S,Equity
+TWO,Two Harbors Investment Corp.,NYQ,NYSE,S,Equity
+INXN,InterXion Holding N.V.,NYQ,NYSE,S,Equity
+INXX,Columbia India Infrastructure ETF,NYQ,NYSE,E,ETF
+FICO,Fair Isaac Corporation,NYQ,NYSE,S,Equity
+ISDR,Issuer Direct Corporation,NYQ,NYSE,S,Equity
+ISF,ING Groep N.V. PERP HYB6.375%,NYQ,NYSE,S,Equity
+ISG,ING Groep N.V. PERP DBT 6.125,NYQ,NYSE,S,Equity
+ORC,"Orchid Island Capital, Inc.",NYQ,NYSE,S,Equity
+ISMD,Inspire Small/Mid Cap Impact ETF,NYQ,NYSE,E,ETF
+ISR,"IsoRay, Inc.",NYQ,NYSE,S,Equity
+ISRA,VanEck Vectors Israel ETF,NYQ,NYSE,E,ETF
+STAR,iStar Inc.,NYQ,NYSE,S,Equity
+STAR-PD,iStar Inc.,NYQ,NYSE,S,Equity
+IVE,iShares S&P 500 Value ETF,NYQ,NYSE,E,ETF
+IVH,Ivy Funds - Ivy High Income Opportunities Fund,NYQ,NYSE,S,Equity
+IVLU,iShares Edge MSCI Intl Value Factor ETF,NYQ,NYSE,E,ETF
+IVOO,Vanguard S&P Mid-Cap 400 Index Fund ETF Shares,NYQ,NYSE,E,ETF
+IVOG,Vanguard S&P Mid-Cap 400 Growth Index Fund ETF Shares,NYQ,NYSE,E,ETF
+IVOV,Vanguard S&P Mid-Cap 400 Value Index Fund ETF Shares,NYQ,NYSE,E,ETF
+IVR-PC,Invesco Mortgage Capital Inc.,NYQ,NYSE,S,Equity
+IVR-PB,Invesco Mortgage Capital Inc.,NYQ,NYSE,S,Equity
+IVR-PA,Invesco Mortgage Capital Inc.,NYQ,NYSE,S,Equity
+IWC,iShares Micro-Cap ETF,NYQ,NYSE,E,ETF
+IWL,iShares Russell Top 200 ETF,NYQ,NYSE,E,ETF
+IWS,iShares Russell Mid-Cap Value ETF,NYQ,NYSE,E,ETF
+IWY,iShares Russell Top 200 Growth ETF,NYQ,NYSE,E,ETF
+IYC,iShares U.S. Consumer Services ETF,NYQ,NYSE,E,ETF
+IYJ,iShares U.S. Industrials ETF,NYQ,NYSE,E,ETF
+IYK,iShares U.S. Consumer Goods ETF,NYQ,NYSE,E,ETF
+IYY,iShares Dow Jones U.S. ETF,NYQ,NYSE,E,ETF
+JBK,"Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6 04-6 A1 3.50",NYQ,NYSE,S,Equity
+JBN,"Corporate Backed Callable Trust Certificates, J.C. Penny Debenture-Backed Series 2007-1 Trust CORTS A-1 7%",NYQ,NYSE,S,Equity
+JBR,Corporate Backed Call Trust Certificates JCP 06-1CTF A1,NYQ,NYSE,E,ETF
+JHAA,Nuveen High Income 2023 Target Term Fund,NYQ,NYSE,S,Equity
+JHB,Nuveen High Income November 2021 Target Term Fund,NYQ,NYSE,S,Equity
+JHD,Nuveen High Income December 2019 Target Term Fund,NYQ,NYSE,S,Equity
+JHDG,WisdomTree Japan Hedged Quality Dividend Growth Fund,NYQ,NYSE,E,ETF
+JHMC,John Hancock Multifactor Consumer Discretionary ETF,NYQ,NYSE,E,ETF
+JHMD,John Hancock Multifactor Developed International ETF,NYQ,NYSE,E,ETF
+JHML,John Hancock Multifactor Large Cap ETF,NYQ,NYSE,E,ETF
+JHMS,John Hancock Multifactor Consumer Staples ETF,NYQ,NYSE,E,ETF
+JHSC,John Hancock Multifactor Small Cap ETF,NYQ,NYSE,E,ETF
+JHY,Nuveen High Income 2020 Target Term Fund,NYQ,NYSE,S,Equity
+JJP,iPath Series B Bloomberg Precious Metals Subindex Total Return ETN,NYQ,NYSE,E,ETF
+JJS,iPath Series B Bloomberg Softs Subindex Total Return ETN,NYQ,NYSE,E,ETF
+JJT,iPath Series B Bloomberg Tin Subindex Total Return ETN,NYQ,NYSE,E,ETF
+JKL,iShares Morningstar Small-Cap Value ETF,NYQ,NYSE,E,ETF
+JMBS,Janus Henderson Mortgage-Backed Securities ETF,NYQ,NYSE,E,ETF
+JMIN,JPMorgan U.S. Minimum Volatility ETF,NYQ,NYSE,E,ETF
+JMM,Nuveen Multi-Market Income Fund,NYQ,NYSE,S,Equity
+JMPD,JMP Group LLC 7.25% SR NT 27,NYQ,NYSE,E,ETF
+JMPB,JMP Group LLC SR NT 23,NYQ,NYSE,S,Equity
+JMT,Nuveen Mortgage Opportunity Term Fund 2,NYQ,NYSE,S,Equity
+CMSA,CMS Energy Corporation 5.6% JRSUB NT 78,NYQ,NYSE,E,ETF
+PJUL,Innovator S&P 500 Power Buffer ETF — July,NYQ,NYSE,E,ETF
+SILJ,ETFMG Prime Junior Silver ETF,NYQ,NYSE,E,ETF
+JE-PA,Just Energy Group Inc.,NYQ,NYSE,S,Equity
+LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,NYQ,NYSE,E,ETF
+KAI,Kadant Inc.,NYQ,NYSE,S,Equity
+KAMN,Kaman Corporation,NYQ,NYSE,S,Equity
+KRC,Kilroy Realty Corporation,NYQ,NYSE,S,Equity
+KRP,"Kimbell Royalty Partners, LP",NYQ,NYSE,S,Equity
+KIM-PM,Kimco Realty Corporation,NYQ,NYSE,S,Equity
+KIM-PL,Kimco Realty Corporation,NYQ,NYSE,S,Equity
+EWU,iShares MSCI United Kingdom ETF,NYQ,NYSE,E,ETF
+KEX,Kirby Corporation,NYQ,NYSE,S,Equity
+FSK,FS KKR Capital Corp.,NYQ,NYSE,S,Equity
+KSU_P,Kansas City Southern Preferred ,NYQ,NYSE,S,Equity
+ABT,Abbott Laboratories,NYQ,NYSE,S,Equity
+LAD,"Lithia Motors, Inc.",NYQ,NYSE,S,Equity
+LADR,Ladder Capital Corp,NYQ,NYSE,S,Equity
+LTS-PA,Ladenburg Thalmann Financial Services Inc.,NYQ,NYSE,S,Equity
+LTSL,Ladenburg Thalmann Financial Services Inc. 6.50% NT 27,NYQ,NYSE,E,ETF
+TPL,Texas Pacific Land Trust,NYQ,NYSE,S,Equity
+VV,Vanguard Large-Cap Index Fund ETF Shares,NYQ,NYSE,E,ETF
+LBJ,Direxion Daily Latin America Bull 3X Shares,NYQ,NYSE,E,ETF
+LAZ,Lazard Ltd,NYQ,NYSE,S,Equity
+LGI,"Lazard Global Total Return and Income Fund, Inc.",NYQ,NYSE,S,Equity
+LOR,Lazard World Dividend & Income Fund Inc.,NYQ,NYSE,S,Equity
+LEA,Lear Corporation,NYQ,NYSE,S,Equity
+AL,Air Lease Corporation,NYQ,NYSE,S,Equity
+FLY,Fly Leasing Limited,NYQ,NYSE,S,Equity
+GSL,"Global Ship Lease, Inc.",NYQ,NYSE,S,Equity
+LEE,"Lee Enterprises, Incorporated",NYQ,NYSE,S,Equity
+LEG,"Leggett & Platt, Incorporated",NYQ,NYSE,S,Equity
+PEJ,Invesco Dynamic Leisure and Entertainment ETF,NYQ,NYSE,E,ETF
+LEJU,Leju Holdings Limited,NYQ,NYSE,S,Equity
+LII,Lennox International Inc.,NYQ,NYSE,S,Equity
+TSLX,"TPG Specialty Lending, Inc.",NYQ,NYSE,S,Equity
+LEU,Centrus Energy Corp.,NYQ,NYSE,S,Equity
+LEVB,"Level Brands, Inc.",NYQ,NYSE,S,Equity
+MLPQ,UBS ETRACS 2xMonthly Leveraged Alerian MLP Infrastructure Index ETN SeriesB,NYQ,NYSE,E,ETF
+PFFL,ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN,NYQ,NYSE,E,ETF
+LGC,Legacy Acquisition Corp.,NYQ,NYSE,S,Equity
+LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,NYQ,NYSE,E,ETF
+OLP,"One Liberty Properties, Inc.",NYQ,NYSE,S,Equity
+LITB,"LightInTheBox Holding Co., Ltd.",NYQ,NYSE,S,Equity
+PSP,Invesco Global Listed Private Equity ETF,NYQ,NYSE,E,ETF
+PEX,ProShares Global Listed Private Equity ETF,NYQ,NYSE,E,ETF
+RAMP,"LiveRamp Holdings, Inc.",NYQ,NYSE,S,Equity
+CSU,Capital Senior Living Corporation,NYQ,NYSE,S,Equity
+SRLN,SPDR Blackstone / GSO Senior Loan ETF,NYQ,NYSE,E,ETF
+FL,"Foot Locker, Inc.",NYQ,NYSE,S,Equity
+ELD,WisdomTree Emerging Markets Local Debt Fund,NYQ,NYSE,E,ETF
+ALD,WisdomTree Asia Local Debt Fund,NYQ,NYSE,E,ETF
+CLDT,Chatham Lodging Trust,NYQ,NYSE,S,Equity
+RLJ-PA,RLJ Lodging Trust,NYQ,NYSE,S,Equity
+ANDX,Andeavor Logistics LP,NYQ,NYSE,S,Equity
+LOUP,Innovator Loup Frontier Tech ETF,NYQ,NYSE,E,ETF
+ELC,"Entergy Louisiana, LLC COLLATERAL TR MT",NYQ,NYSE,E,ETF
+ELU,"Entergy Louisiana, LLC 1ST MTG BD",NYQ,NYSE,E,ETF
+LOV,Spark Networks SE,NYQ,NYSE,S,Equity
+SPLV,Invesco S&P 500 Low Volatility ETF,NYQ,NYSE,E,ETF
+XMLV,Invesco S&P MidCap Low Volatility ETF,NYQ,NYSE,E,ETF
+LSAF,LeaderSharesTM AlphaFactor US Core Equity ETF,NYQ,NYSE,E,ETF
+LSLT,Salt Low truBeta US Market ETF,NYQ,NYSE,E,ETF
+ABB,ABB Ltd,NYQ,NYSE,S,Equity
+MHLA,"Maiden Holdings, Ltd. 6.625 NT 2046",NYQ,NYSE,E,ETF
+LTHM-WI,Livent Corporation,NYQ,NYSE,S,Equity
+LTL,ProShares Ultra Telecommunications,NYQ,NYSE,E,ETF
+LTN-UN,Union Acquisition Corp.,NYQ,NYSE,S,Equity
+LTN-RI,Union Acquisition Corp.,NYQ,NYSE,S,Equity
+LTN-WT,LTN-WT,NYQ,NYSE,S,Equity
+LTPZ,PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund,NYQ,NYSE,E,ETF
+LTSF,Ladenburg Thalmann Financial Services Inc. 7.00% SN NT 28,NYQ,NYSE,E,ETF
+LVHI,Legg Mason International Low Volatility High Dividend ETF,NYQ,NYSE,E,ETF
+LVHE,Legg Mason Emerging Markets Low Volatility High Dividend ETF,NYQ,NYSE,E,ETF
+LVIN,Hartford Multifactor Low Volatility International Equity ETF,NYQ,NYSE,E,ETF
+LVUS,Hartford Multifactor Low Volatility US Equity ETF,NYQ,NYSE,E,ETF
+MER-PK,Merrill Lynch Capital Trust I GTD CAP 6.45%,NYQ,NYSE,S,Equity
+IPB,Merrill Lynch Depositor Inc. 6.0518% Index Plus Trust Series 2003-1,NYQ,NYSE,S,Equity
+AB,AllianceBernstein Holding L.P.,NYQ,NYSE,S,Equity
+MTL,Mechel PAO,NYQ,NYSE,S,Equity
+MTL-P,Mechel PAO,NYQ,NYSE,S,Equity
+MED,"Medifast, Inc.",NYQ,NYSE,S,Equity
+MGK,Vanguard Mega Cap Growth Index Fund ETF Shares,NYQ,NYSE,E,ETF
+MGV,Vanguard Mega Cap Value Index Fund ETF Shares,NYQ,NYSE,E,ETF
+MEI,"Methode Electronics, Inc.",NYQ,NYSE,S,Equity
+BK-PC,The Bank of New York Mellon Corporation,NYQ,NYSE,S,Equity
+MEN,"BlackRock MuniEnhanced Fund, Inc.",NYQ,NYSE,S,Equity
+MDP,Meredith Corporation,NYQ,NYSE,S,Equity
+MCY,Mercury General Corporation,NYQ,NYSE,S,Equity
+MTR,Mesa Royalty Trust,NYQ,NYSE,S,Equity
+TMQ,Trilogy Metals Inc.,NYQ,NYSE,S,Equity
+PLG,Platinum Group Metals Ltd.,NYQ,NYSE,S,Equity
+MEXX,Direxion Daily MSCI Mexico Bull 3X Shares Direxion Daily MSCI Mexico Bull 3,NYQ,NYSE,E,ETF
+MXE,Mexico Equity & Income Fund Inc.,NYQ,NYSE,S,Equity
+MFA-PB,"MFA Financial, Inc.",NYQ,NYSE,S,Equity
+MFO,"MFA Financial, Inc. SR NT 42",NYQ,NYSE,S,Equity
+MFD,Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund,NYQ,NYSE,S,Equity
+MFDX,PIMCO RAFI Dynamic Multi-Factor International Equity ETF,NYQ,NYSE,E,ETF
+ESP,Espey Mfg. & Electronics Corp.,NYQ,NYSE,S,Equity
+MFL,BlackRock MuniHoldings Investment Quality Fund,NYQ,NYSE,S,Equity
+MFM,MFS Municipal Income Trust,NYQ,NYSE,S,Equity
+MIN,MFS Intermediate Income Trust,NYQ,NYSE,S,Equity
+MCR,MFS Charter Income Trust,NYQ,NYSE,S,Equity
+CIF,MFS Intermediate High Income Fund,NYQ,NYSE,S,Equity
+MFT,BlackRock MuniYield Investment Quality Fund,NYQ,NYSE,S,Equity
+MFUS,PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF,NYQ,NYSE,E,ETF
+MFV,MFS Special Value Trust,NYQ,NYSE,S,Equity
+MGR,"Affiliated Managers Group, Inc.",NYQ,NYSE,S,Equity
+MGU,Macquarie Global Infrastructure Total Return Fund Inc.,NYQ,NYSE,S,Equity
+MGY-WT,Magnolia Oil & Gas Corporation,NYQ,NYSE,S,Equity
+MHD,"BlackRock MuniHoldings Fund, Inc.",NYQ,NYSE,S,Equity
+MHF,Western Asset Municipal High Income Fund Inc.,NYQ,NYSE,S,Equity
+MHN,"BlackRock MuniHoldings New York Quality Fund, Inc.",NYQ,NYSE,S,Equity
+MHNC,"Maiden Holdings North America, Ltd.",NYQ,NYSE,S,Equity
+AMD,"Advanced Micro Devices, Inc.",NYQ,NYSE,S,Equity
+MIE,"Cohen & Steers MLP Income and Energy Opportunity Fund, Inc.",NYQ,NYSE,S,Equity
+OMI,"Owens & Minor, Inc.",NYQ,NYSE,S,Equity
+MITT,"AG Mortgage Investment Trust, Inc.",NYQ,NYSE,S,Equity
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",NYQ,NYSE,S,Equity
+MIXT,MiX Telematics Limited,NYQ,NYSE,S,Equity
+MIY,"BlackRock MuniYield Michigan Quality Fund, Inc.",NYQ,NYSE,S,Equity
+MKC-V,"McCormick & Company, Incorporated",NYQ,NYSE,S,Equity
+MKCV,"McCormick & Company, Incorporat",NYQ,NYSE,S,Equity
+FUE,ELEMENTS Linked to the MLCX Biofuels Index (Exchange Series) - Total Return,NYQ,NYSE,E,ETF
+MLN,VanEck Vectors AMT-Free Long Municipal Index ETF,NYQ,NYSE,E,ETF
+MLP,"Maui Land & Pineapple Company, Inc.",NYQ,NYSE,S,Equity
+AMLP,Alerian MLP ETF,NYQ,NYSE,E,ETF
+MLPX,Global X MLP & Energy Infrastructure ETF,NYQ,NYSE,E,ETF
+MLQD,iShares 5-10 Year Investment Grade Corporate Bond ETF,NYQ,NYSE,E,ETF
+HGI,Invesco Zacks Intl Mlt-Asst Inc ETF,NYQ,NYSE,E,ETF
+MMIN,IQ MacKay Shields Municipal Insured ETF,NYQ,NYSE,E,ETF
+MMIT,IQ MacKay Shields Municipal Intermediate ETF,NYQ,NYSE,E,ETF
+MMU,Western Asset Managed Municipals Fund Inc.,NYQ,NYSE,S,Equity
+MNE,"BlackRock Muni New York Intermediate Duration Fund, Inc.",NYQ,NYSE,S,Equity
+MNP,Western Asset Municipal Partners Fund Inc.,NYQ,NYSE,S,Equity
+MNR-PC,Monmouth Real Estate Investment Corporation,NYQ,NYSE,S,Equity
+MPA,BlackRock MuniYield Pennsylvania Quality Fund,NYQ,NYSE,S,Equity
+MPV,Barings Participation Investors,NYQ,NYSE,S,Equity
+MRC,MRC Global Inc.,NYQ,NYSE,S,Equity
+MRGR,ProShares Merger ETF,NYQ,NYSE,E,ETF
+MRT,"MedEquities Realty Trust, Inc.",NYQ,NYSE,S,Equity
+MVCD,"MVC Capital, Inc. 6.25% Senior ",NYQ,NYSE,E,ETF
+MVIN,Natixis Seeyond International Minimum Volatility ETF,NYQ,NYSE,E,ETF
+MVT,"BlackRock MuniVest Fund II, Inc.",NYQ,NYSE,S,Equity
+MYC,"Blackrock MuniYield California Fund, Inc.",NYQ,NYSE,S,Equity
+MYD,"BlackRock MuniYield Fund, Inc.",NYQ,NYSE,S,Equity
+MYE,"Myers Industries, Inc.",NYQ,NYSE,S,Equity
+MYF,BlackRock MuniYield Investment Fund,NYQ,NYSE,S,Equity
+MYJ,"BlackRock MuniYield New Jersey Fund, Inc.",NYQ,NYSE,S,Equity
+MYN,"BlackRock MuniYield New York Quality Fund, Inc.",NYQ,NYSE,S,Equity
+NBR-PA,Nabors Industries Ltd.,NYQ,NYSE,S,Equity
+NAC,Nuveen California Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+SID,Companhia Siderúrgica Nacional,NYQ,NYSE,S,Equity
+NAD,Nuveen Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,NYQ,NYSE,E,ETF
+NTP,Nam Tai Property Inc.,NYQ,NYSE,S,Equity
+NAN,Nuveen New York Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NAO,Nordic American Offshore Ltd.,NYQ,NYSE,S,Equity
+NAV,Navistar International Corporation,NYQ,NYSE,S,Equity
+NAVB,"Navidea Biopharmaceuticals, Inc.",NYQ,NYSE,S,Equity
+TNP,Tsakos Energy Navigation Limited,NYQ,NYSE,S,Equity
+NAZ,Nuveen Arizona Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NBB,Nuveen Taxable Municipal Income Fund,NYQ,NYSE,S,Equity
+NBH,Neuberger Berman Intermediate Municipal Fund Inc.,NYQ,NYSE,S,Equity
+NBHC,National Bank Holdings Corporation,NYQ,NYSE,S,Equity
+NBO,"Neuberger Berman New York Municipal Fund, Inc.",NYQ,NYSE,S,Equity
+NBW,Neuberger Berman California Intermediate Municipal Fund Inc.,NYQ,NYSE,S,Equity
+NCA,"Nuveen California Municipal Value Fund, Inc.",NYQ,NYSE,S,Equity
+NCB,Nuveen California Municipal Value Fund 2,NYQ,NYSE,S,Equity
+NCV-PA,AllianzGI Convertible & Income Fund,NYQ,NYSE,S,Equity
+NCZ-PA,AllianzGI Convertible & Income Fund II,NYQ,NYSE,S,Equity
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NEAR,iShares Short Maturity Bond ETF,NYQ,NYSE,E,ETF
+NEE,"NextEra Energy, Inc.",NYQ,NYSE,S,Equity
+NEE-PJ,"NextEra Energy Capital Holdings, Inc. SUB DEB SER J 73",NYQ,NYSE,S,Equity
+NEE-PN,"NextEra Energy, Inc. Series N J",NYQ,NYSE,S,Equity
+NEE-PI,"NextEra Energy Capital Holdings, Inc. SUB DEB 72",NYQ,NYSE,S,Equity
+NEE-PR,"NextEra Energy, Inc.",NYQ,NYSE,S,Equity
+NEP,"NextEra Energy Partners, LP",NYQ,NYSE,S,Equity
+SNN,Smith & Nephew plc,NYQ,NYSE,S,Equity
+ANET,"Arista Networks, Inc.",NYQ,NYSE,S,Equity
+NEU,NewMarket Corporation,NYQ,NYSE,S,Equity
+NEV,Nuveen Enhanced Municipal Value Fund,NYQ,NYSE,S,Equity
+NVRO,Nevro Corp.,NYQ,NYSE,S,Equity
+NSU,Nevsun Resources Ltd.,NYQ,NYSE,S,Equity
+FIVG,Defiance 5G Next Gen Connectivity ETF,NYQ,NYSE,E,ETF
+NFC-UN,New Frontier Corporation,NYQ,NYSE,S,Equity
+NFC-WT,New Frontier Corporation,NYQ,NYSE,S,Equity
+NFO,Invesco Insider Sentiment ETF,NYQ,NYSE,E,ETF
+NNC,Nuveen North Carolina Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NNN-PF,"National Retail Properties, Inc.",NYQ,NYSE,S,Equity
+NNN-PE,"National Retail Properties, Inc.",NYQ,NYSE,S,Equity
+NNY,"Nuveen New York Municipal Value Fund, Inc.",NYQ,NYSE,S,Equity
+NOA,North American Construction Group Ltd.,NYQ,NYSE,S,Equity
+NOAH,Noah Holdings Limited,NYQ,NYSE,S,Equity
+NOM,Nuveen Missouri Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NOMD,Nomad Foods Limited,NYQ,NYSE,S,Equity
+OFG-PB,OFG Bancorp 7.0% Non Cumulative,NYQ,NYSE,S,Equity
+SBNA,Scorpio Tankers Inc. 6.75 SR NOTE20,NYQ,NYSE,S,Equity
+TCRW,"THL Credit, Inc. 6.125% Notes D",NYQ,NYSE,S,Equity
+NTC,Nuveen Connecticut Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NTEST,NYSE Tick Pilot Test Sym-Contro,NYQ,NYSE,S,Equity
+ARGD,"Argo Group US, Inc. 6.5% SR NTS 42",NYQ,NYSE,E,ETF
+NTX,Nuveen Texas Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NTZ,Natuzzi S.p.A.,NYQ,NYSE,S,Equity
+UNMA,Unum Group 6.250% JR NT58,NYQ,NYSE,E,ETF
+NUEM,Nuveen ESG Emerging Markets Equity ETF,NYQ,NYSE,E,ETF
+NUM,Nuveen Michigan Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NUMG,Nuveen ESG Mid-Cap Growth ETF,NYQ,NYSE,E,ETF
+NUMV,Nuveen ESG Mid-Cap Value ETF,NYQ,NYSE,E,ETF
+NUO,Nuveen Ohio Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NURE,Nuveen Short-Term REIT ETF,NYQ,NYSE,E,ETF
+NSS,"NuStar Logistics, L.P. SB NT FX/FL 43",NYQ,NYSE,S,Equity
+NS-PA,NuStar Energy L.P.,NYQ,NYSE,S,Equity
+NS-PB,NuStar Energy L.P.,NYQ,NYSE,S,Equity
+NUSC,Nuveen ESG Small-Cap ETF,NYQ,NYSE,E,ETF
+NUSA,Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF,NYQ,NYSE,E,ETF
+NUV,"Nuveen Municipal Value Fund, Inc.",NYQ,NYSE,S,Equity
+NUW,Nuveen AMT-Free Municipal Value Fund,NYQ,NYSE,S,Equity
+NXC,Nuveen California Select Tax-Free Income Portfolio,NYQ,NYSE,S,Equity
+NXE,NexGen Energy Ltd.,NYQ,NYSE,S,Equity
+NXJ,Nuveen New Jersey Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+NXN,Nuveen New York Select Tax-Free Income Portfolio,NYQ,NYSE,S,Equity
+NXQ,Nuveen Select Tax-Free Income Portfolio 2,NYQ,NYSE,S,Equity
+NXR,Nuveen Select Tax-Free Income Portfolio 3,NYQ,NYSE,S,Equity
+NYCB-PU,New York Community Capital Trust V BONUSES UNIT,NYQ,NYSE,S,Equity
+NYCB-PA,"New York Community Bancorp, Inc.",NYQ,NYSE,S,Equity
+NYF,iShares New York Muni Bond ETF,NYQ,NYSE,E,ETF
+FBT,First Trust NYSE Arca Biotechnology Index Fund,NYQ,NYSE,E,ETF
+PYPE,UBS ETRACS NYSE Pickens Core Midstream Index ETN,NYQ,NYSE,E,ETF
+STM,STMicroelectronics N.V.,NYQ,NYSE,S,Equity
+PAG,"Penske Automotive Group, Inc.",NYQ,NYSE,S,Equity
+PAI,Western Asset Investment Grade Income Fund Inc.,NYQ,NYSE,S,Equity
+SPPP,Sprott Physical Platinum and Palladium Trust,NYQ,NYSE,S,Equity
+PAM,Pampa Energía S.A.,NYQ,NYSE,S,Equity
+PHX,Panhandle Oil and Gas Inc.,NYQ,NYSE,S,Equity
+CLW,Clearwater Paper Corporation,NYQ,NYSE,S,Equity
+TIS,Orchids Paper Products Company,NYQ,NYSE,S,Equity
+PAR,PAR Technology Corporation,NYQ,NYSE,S,Equity
+EP-PC,El Paso Energy Capital Trust I PFD CV TR SECS,NYQ,NYSE,S,Equity
+SBS,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,NYQ,NYSE,S,Equity
+PAVE,Global X U.S. Infrastructure Development ETF,NYQ,NYSE,E,ETF
+PAWZ,ProShares Pet Care ETF,NYQ,NYSE,E,ETF
+PAYC,"Paycom Software, Inc.",NYQ,NYSE,S,Equity
+PBB,Prospect Capital Corporation NT 061524,NYQ,NYSE,E,ETF
+PBC,Prospect Capital Corporation 6.,NYQ,NYSE,S,Equity
+PBE,Invesco Dynamic Biotechnology & Genome ETF,NYQ,NYSE,E,ETF
+PBEE,Invesco PureBeta FTSE Emerging Markets ETF,NYQ,NYSE,E,ETF
+PBFX,PBF Logistics LP,NYQ,NYSE,S,Equity
+PBH,Prestige Consumer Healthcare Inc.,NYQ,NYSE,S,Equity
+PBND,Invesco PureBeta US Aggregate Bond ETF,NYQ,NYSE,E,ETF
+PBRA,Petróleo Brasileiro S.A. - Petrobras,NYQ,NYSE,S,Equity
+PBS,Invesco Dynamic Media ETF,NYQ,NYSE,E,ETF
+PBSM,Invesco PureBeta MSCI USA Small Cap ETF,NYQ,NYSE,E,ETF
+PBUS,Invesco PureBeta MSCI USA ETF,NYQ,NYSE,E,ETF
+PBY,Prospect Capital Corporation,NYQ,NYSE,E,ETF
+PCF,High Income Securities Fund,NYQ,NYSE,S,Equity
+PCG-PA,Pacific Gas and Electric Company,NYQ,NYSE,S,Equity
+PCG-PD,Pacific Gas and Electric Company,NYQ,NYSE,S,Equity
+PCG-PB,Pacific Gas and Electric Company,NYQ,NYSE,S,Equity
+PCG-PE,Pacific Gas and Electric Company,NYQ,NYSE,S,Equity
+PCG-PH,Pacific Gas and Electric Company,NYQ,NYSE,S,Equity
+PCK,PIMCO California Municipal Income Fund II,NYQ,NYSE,S,Equity
+PCN,PIMCO Corporate & Income Strategy Fund,NYQ,NYSE,S,Equity
+PCQ,PIMCO California Municipal Income Fund,NYQ,NYSE,S,Equity
+PFD,Flaherty & Crumrine Preferred Income Fund Inc.,NYQ,NYSE,S,Equity
+ETP-PD,"Energy Transfer Partners, L.P. PFD UNIT SER D",NYQ,NYSE,S,Equity
+C-PN,Citigroup Capital XIII TR PFD SECS,NYQ,NYSE,S,Equity
+DXB,Deutsche Bank Contingent Capital Trust II TR PFD SEC 6.55%,NYQ,NYSE,S,Equity
+TOO-PB,Teekay Offshore Partners L.P. PFD UNIT SER B,NYQ,NYSE,S,Equity
+ALLY-PA,GMAC Capital Trust I GTD TR PFD-2,NYQ,NYSE,S,Equity
+TGP-PA,Teekay LNG Partners L.P. PFD UNIT SER A,NYQ,NYSE,S,Equity
+PFFR,InfraCap REIT Preferred ETF,NYQ,NYSE,E,ETF
+PFL,PIMCO Income Strategy Fund,NYQ,NYSE,S,Equity
+PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Inc.,NYQ,NYSE,S,Equity
+PICK,iShares MSCI Global Metals & Mining Producers ETF,NYQ,NYSE,E,ETF
+PDM,"Piedmont Office Realty Trust, Inc.",NYQ,NYSE,S,Equity
+PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares ETF,NYQ,NYSE,E,ETF
+PIM,Putnam Master Intermediate Income Trust,NYQ,NYSE,S,Equity
+PTY,PIMCO Corporate & Income Opportunity Fund,NYQ,NYSE,S,Equity
+PES,Pioneer Energy Services Corp.,NYQ,NYSE,S,Equity
+PHT,Pioneer High Income Trust,NYQ,NYSE,S,Equity
+MAV,Pioneer Municipal High Income Advantage Trust,NYQ,NYSE,S,Equity
+TCP,"TC PipeLines, LP",NYQ,NYSE,S,Equity
+TTP,"Tortoise Pipeline & Energy Fund, Inc.",NYQ,NYSE,S,Equity
+TPYP,Tortoise North American Pipeline Fund,NYQ,NYSE,E,ETF
+PVT-WT,Pivotal Acquisition Corp. Redee,NYQ,NYSE,S,Equity
+PJAN,Innovator S&P 500 Power Buffer ETF January,NYQ,NYSE,E,ETF
+AON,Aon plc,NYQ,NYSE,S,Equity
+RELX,RELX PLC,NYQ,NYSE,S,Equity
+PHI,PLDT Inc.,NYQ,NYSE,S,Equity
+PLND,VanEck Vectors Poland ETF,NYQ,NYSE,E,ETF
+PLT,"Plantronics, Inc.",NYQ,NYSE,S,Equity
+PLX,"Protalix BioTherapeutics, Inc.",NYQ,NYSE,S,Equity
+PLYM-PA,"Plymouth Industrial REIT, Inc.",NYQ,NYSE,S,Equity
+PNC-PQ,"The PNC Financial Services Group, Inc.",NYQ,NYSE,S,Equity
+PNC-PP,"The PNC Financial Services Group, Inc. DEPOSITARY SHS REP 1/4000TH PERP PFD SER P",NYQ,NYSE,S,Equity
+PNF,PIMCO New York Municipal Income Fund,NYQ,NYSE,S,Equity
+PNI,PIMCO New York Municipal Income Fund II,NYQ,NYSE,S,Equity
+TPB,"Turning Point Brands, Inc.",NYQ,NYSE,S,Equity
+TPRE,Third Point Reinsurance Ltd.,NYQ,NYSE,S,Equity
+POR,Portland General Electric Company,NYQ,NYSE,S,Equity
+POST,"Post Holdings, Inc.",NYQ,NYSE,S,Equity
+FXB,Invesco CurrencyShares British Pound Sterling Trust,NYQ,NYSE,E,ETF
+AEP,"American Electric Power Company, Inc.",NYQ,NYSE,S,Equity
+AT,Atlantic Power Corporation,NYQ,NYSE,S,Equity
+PPX,"PPL Capital Funding, Inc. JR SUB NT-B 73",NYQ,NYSE,S,Equity
+PPLC,PortfolioPlus S&P 500 ETF,NYQ,NYSE,E,ETF
+PYT,PPLUS Trust Series GSC-2 GSC 2 CT FL RT,NYQ,NYSE,S,Equity
+PPR,Voya Prime Rate Trust,NYQ,NYSE,S,Equity
+PRA,ProAssurance Corporation,NYQ,NYSE,S,Equity
+APTS,"Preferred Apartment Communities, Inc.",NYQ,NYSE,S,Equity
+PRF,Invesco FTSE RAFI US 1000 ETF,NYQ,NYSE,E,ETF
+PRGO,Perrigo Company plc,NYQ,NYSE,S,Equity
+PRH,"Prudential Financial, Inc. JR SUB NT 53",NYQ,NYSE,S,Equity
+PRK,Park National Corporation,NYQ,NYSE,S,Equity
+PRLB,"Proto Labs, Inc.",NYQ,NYSE,S,Equity
+PRNT,The 3D Printing ETF,NYQ,NYSE,E,ETF
+PRO,"PROS Holdings, Inc.",NYQ,NYSE,S,Equity
+AEH,Aegon N.V. PRP CP SEC 6.375,NYQ,NYSE,E,ETF
+PRS,"Prudential Financial, Inc. 5.62",NYQ,NYSE,E,ETF
+PRTY,Party City Holdco Inc.,NYQ,NYSE,S,Equity
+PUK,Prudential plc,NYQ,NYSE,S,Equity
+PUK-PA,Prudential plc PER SUB 6.50%,NYQ,NYSE,S,Equity
+PUK-P,Prudential plc,NYQ,NYSE,S,Equity
+PUK_P,Prudential Public Limited Compa,NYQ,NYSE,S,Equity
+PMM,Putnam Managed Municipal Income Trust,NYQ,NYSE,S,Equity
+PVI,Invesco VRDO Tax-Free Weekly ETF,NYQ,NYSE,E,ETF
+PVT-UN,Pivotal Acquisition Corp.,NYQ,NYSE,S,Equity
+PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,NYQ,NYSE,E,ETF
+PXH,Invesco FTSE RAFI Emerging Markets ETF,NYQ,NYSE,E,ETF
+PXLV,Invesco Russell Top 200 Pure Value ETF,NYQ,NYSE,E,ETF
+PXSG,Invesco Russell 2000 Pure Growth ETF,NYQ,NYSE,E,ETF
+QGRO,American Century U.S. Quality Growth ETF,NYQ,NYSE,E,ETF
+QLS,IQ Hedge Long/Short Tracker ETF,NYQ,NYSE,E,ETF
+QTS-PA,"QTS Realty Trust, Inc.",NYQ,NYSE,S,Equity
+QTS-PB,"QTS Realty Trust, Inc.",NYQ,NYSE,S,Equity
+QUOT,Quotient Technology Inc.,NYQ,NYSE,S,Equity
+QUS,SPDR MSCI USA StrategicFactors ETF,NYQ,NYSE,E,ETF
+RAAX,VanEck Vectors Real Asset Allocation ETF,NYQ,NYSE,E,ETF
+RPT-PD,Ramco-Gershenson Properties Trust PERP PFD-D CV,NYQ,NYSE,S,Equity
+TRC,Tejon Ranch Co.,NYQ,NYSE,S,Equity
+FLOT,iShares Floating Rate Bond ETF,NYQ,NYSE,E,ETF
+FDRR,Fidelity Dividend ETF for Rising Rates,NYQ,NYSE,E,ETF
+FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,NYQ,NYSE,E,ETF
+RAVI,FlexShares Ready Access Variable Income Fund,NYQ,NYSE,E,ETF
+RYAM-PA,Rayonier Advanced Materials Inc.,NYQ,NYSE,S,Equity
+RYJ,Invesco Raymond James SB-1 Equity ETF,NYQ,NYSE,E,ETF
+RBIN,Nationwide Risk-Based International Equity ETF,NYQ,NYSE,E,ETF
+VNQ,Vanguard Real Estate Index Fund ETF Shares,NYQ,NYSE,E,ETF
+ABR,"Arbor Realty Trust, Inc.",NYQ,NYSE,S,Equity
+REED,"Reed's, Inc.",NYQ,NYSE,S,Equity
+ARR,"ARMOUR Residential REIT, Inc.",NYQ,NYSE,S,Equity
+NEWR,"New Relic, Inc.",NYQ,NYSE,S,Equity
+GASL,Direxion Daily Natural Gas Related Bull 3X Shares,NYQ,NYSE,E,ETF
+GASX,Direxion Daily Natural Gas Related Bear 3X Shares,NYQ,NYSE,E,ETF
+REM,iShares Mortgage Real Estate Capped ETF,NYQ,NYSE,E,ETF
+REML,Credit Suisse X-Links Monthly Pay 2xLeveraged Mortgage REIT ETN,NYQ,NYSE,E,ETF
+REN,Resolute Energy Corporation,NYQ,NYSE,S,Equity
+RENN,Renren Inc.,NYQ,NYSE,S,Equity
+SOL,ReneSola Ltd,NYQ,NYSE,S,Equity
+ORI,Old Republic International Corporation,NYQ,NYSE,S,Equity
+FRC,First Republic Bank,NYQ,NYSE,S,Equity
+IRS,IRSA Inversiones y Representaciones Sociedad Anónima,NYQ,NYSE,S,Equity
+XRT,SPDR S&P Retail ETF,NYQ,NYSE,S,Equity
+TRI,Thomson Reuters Corporation,NYQ,NYSE,S,Equity
+REV,"Revlon, Inc.",NYQ,NYSE,S,Equity
+REVG,"REV Group, Inc.",NYQ,NYSE,S,Equity
+UTRN,Vesper U.S. Large Cap Short-Term Reversal Strategy ETF,NYQ,NYSE,E,ETF
+REW,ProShares UltraShort Technology,NYQ,NYSE,E,ETF
+REX,REX American Resources Corporation,NYQ,NYSE,S,Equity
+REXR-PA,"Rexford Industrial Realty, Inc.",NYQ,NYSE,S,Equity
+REXR-PB,"Rexford Industrial Realty, Inc.",NYQ,NYSE,S,Equity
+REZ,iShares Residential Real Estate Capped ETF,NYQ,NYSE,E,ETF
+REZI,"Resideo Technologies, Inc.",NYQ,NYSE,S,Equity
+RGT,"Royce Global Value Trust, Inc.",NYQ,NYSE,S,Equity
+RIF,RMR Real Estate Income Fund,NYQ,NYSE,S,Equity
+RIGS,RiverFront Strategic Income Fund,NYQ,NYSE,E,ETF
+RINF,ProShares Inflation Expectations ETF,NYQ,NYSE,E,ETF
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,NYQ,NYSE,S,Equity
+TAIL,Cambria Tail Risk ETF,NYQ,NYSE,E,ETF
+RIV,"RiverNorth Opportunities Fund, Inc.",NYQ,NYSE,S,Equity
+TRWH,"Twin River Worldwide Holdings, Inc.",NYQ,NYSE,S,Equity
+RMG-UN,RMG Acquisition Corp.,NYQ,NYSE,S,Equity
+RMG-WT,RMG ACQUISITION CORP C/WTS 02/2,NYQ,NYSE,S,Equity
+RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc.",NYQ,NYSE,S,Equity
+RMPL-P,RiverNorth Marketplace Lending Corporation,NYQ,NYSE,S,Equity
+RMT,"Royce Micro-Cap Trust, Inc.",NYQ,NYSE,S,Equity
+RNR-PE,RenaissanceRe Holdings Ltd.,NYQ,NYSE,S,Equity
+RNR-PF,RenaissanceRe Holdings Ltd.,NYQ,NYSE,S,Equity
+RNR-PC,RenaissanceRe Holdings Ltd. PFD C 6.08%,NYQ,NYSE,S,Equity
+RNR_PC,RenaissanceRe Holdings Ltd. 6.0,NYQ,NYSE,S,Equity
+AMBR,"Amber Road, Inc.",NYQ,NYSE,S,Equity
+AJRD,"Aerojet Rocketdyne Holdings, Inc.",NYQ,NYSE,S,Equity
+RODM,Hartford Multifactor Developed Markets (ex-US) ETF,NYQ,NYSE,E,ETF
+ROG,Rogers Corporation,NYQ,NYSE,S,Equity
+ROL,"Rollins, Inc.",NYQ,NYSE,S,Equity
+TR,"Tootsie Roll Industries, Inc.",NYQ,NYSE,S,Equity
+ROM,ProShares Ultra Technology,NYQ,NYSE,E,ETF
+ROP,"Roper Technologies, Inc.",NYQ,NYSE,S,Equity
+SCTO,Global X/JPMorgan US Sector Rotator Index ETF,NYQ,NYSE,E,ETF
+DYNF,BlackRock ETF Trust - BlackRock U.S. Equity Factor Rotation ETF,NYQ,NYSE,E,ETF
+SECT,Main Sector Rotation ETF,NYQ,NYSE,E,ETF
+ROUS,Hartford Multifactor US Equity ETF,NYQ,NYSE,E,ETF
+TWM,ProShares UltraShort Russell2000,NYQ,NYSE,S,Equity
+URTY,ProShares UltraPro Russell2000,NYQ,NYSE,E,ETF
+RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,NYQ,NYSE,E,ETF
+RWDE,Direxion MSCI Developed Over Emerging Markets ETF,NYQ,NYSE,E,ETF
+RWGE,Regalwood Global Energy Ltd.,NYQ,NYSE,S,Equity
+RWGE-UN,Regalwood Global Energy Ltd.,NYQ,NYSE,S,Equity
+RWGE-WT,Regalwood Global Energy Ltd.,NYQ,NYSE,S,Equity
+RWJ,Oppenheimer S&P SmallCap 600 Revenue ETF,NYQ,NYSE,E,ETF
+SAA,ProShares Ultra SmallCap600,NYQ,NYSE,E,ETF
+SAB,Saratoga Investment Corp. NT 23,NYQ,NYSE,E,ETF
+SBR,Sabine Royalty Trust,NYQ,NYSE,S,Equity
+GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,NYQ,NYSE,E,ETF
+GS-PD,"The Goldman Sachs Group, Inc.",NYQ,NYSE,S,Equity
+MSA,MSA Safety Incorporated,NYQ,NYSE,S,Equity
+SFE,"Safeguard Scientifics, Inc.",NYQ,NYSE,S,Equity
+SB-PD,"Safe Bulkers, Inc.",NYQ,NYSE,S,Equity
+HOLD,AdvisorShares Sage Core Reserves ETF,NYQ,NYSE,E,ETF
+SAH,"Sonic Automotive, Inc.",NYQ,NYSE,S,Equity
+SAIC,Science Applications International Corporation,NYQ,NYSE,S,Equity
+SALT,Scorpio Bulkers Inc.,NYQ,NYSE,S,Equity
+SBH,"Sally Beauty Holdings, Inc.",NYQ,NYSE,S,Equity
+SLT,Salt High truBeta US Market ETF,NYQ,NYSE,E,ETF
+SMM,Salient Midstream & MLP Fund,NYQ,NYSE,S,Equity
+PER,SandRidge Permian Trust,NYQ,NYSE,S,Equity
+SAR,Saratoga Investment Corp.,NYQ,NYSE,S,Equity
+SSL,Sasol Limited,NYQ,NYSE,S,Equity
+ACSI,American Customer Satisfaction ETF,NYQ,NYSE,E,ETF
+SCD,LMP Capital and Income Fund Inc.,NYQ,NYSE,S,Equity
+SCE-PB,Southern California Edison Company,NYQ,NYSE,S,Equity
+SCE-PL,SCE Trust VI 5% TR PREF SECS,NYQ,NYSE,S,Equity
+SCE-PE,Southern California Edison Company PFD 4.78%,NYQ,NYSE,S,Equity
+SCE-PG,SCE Trust II TR PFD SECS 5.1%,NYQ,NYSE,S,Equity
+SCE-PH,SCE Trust III,NYQ,NYSE,S,Equity
+SCHB,Schwab U.S. Broad Market ETF,NYQ,NYSE,E,ETF
+SCHH,Schwab U.S. REIT ETF,NYQ,NYSE,E,ETF
+SNDR,"Schneider National, Inc.",NYQ,NYSE,S,Equity
+TMO,Thermo Fisher Scientific Inc.,NYQ,NYSE,S,Equity
+SCJ,iShares MSCI Japan Small-Cap ETF,NYQ,NYSE,E,ETF
+SCL,Stepan Company,NYQ,NYSE,S,Equity
+SCM,Stellus Capital Investment Corporation,NYQ,NYSE,S,Equity
+SCS,Steelcase Inc.,NYQ,NYSE,S,Equity
+XLF,Financial Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+XLK,Technology Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+XLI,Industrial Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+XLP,Consumer Staples Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+SEE,Sealed Air Corporation,NYQ,NYSE,S,Equity
+SEF,ProShares Short Financials,NYQ,NYSE,E,ETF
+SEM,Select Medical Holdings Corporation,NYQ,NYSE,S,Equity
+TSM,Taiwan Semiconductor Manufacturing Company Limited,NYQ,NYSE,S,Equity
+SNR,New Senior Investment Group Inc.,NYQ,NYSE,S,Equity
+SGDM,Sprott Gold Miners ETF,NYQ,NYSE,E,ETF
+SGG,iPath Series B Bloomberg Sugar Subindex Total Return ETN,NYQ,NYSE,E,ETF
+SGU,"Star Group, L.P.",NYQ,NYSE,S,Equity
+SGZA,"Selective Insurance Group, Inc. SR NT 43",NYQ,NYSE,S,Equity
+SGZA-CL,"Selective Insurance Group, Inc.",NYQ,NYSE,S,Equity
+SGZA-L,SGZA-L,NYQ,NYSE,S,Equity
+SHE,SPDR SSGA Gender Diversity Index ETF,NYQ,NYSE,E,ETF
+SHG,"Shinhan Financial Group Co., Ltd.",NYQ,NYSE,S,Equity
+SHI,Sinopec Shanghai Petrochemical Company Limited,NYQ,NYSE,S,Equity
+SHLL-UN,Tortoise Acquisition Corp.,NYQ,NYSE,S,Equity
+SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,NYQ,NYSE,E,ETF
+VIXY,ProShares VIX Short-Term Futures ETF,NYQ,NYSE,E,ETF
+SPXU,ProShares UltraPro Short S&P500,NYQ,NYSE,E,ETF
+PSA-PU,Public Storage DEP SHS PFD-U,NYQ,NYSE,S,Equity
+C-PK,Citigroup Inc. Dep Shs Repstg 1,NYQ,NYSE,S,Equity
+SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,NYQ,NYSE,E,ETF
+SHYD,VanEck Vectors Short High-Yield Municipal Index ETF,NYQ,NYSE,E,ETF
+SHYL,Xtrackers Short Duration High Yield Bond ETF,NYQ,NYSE,E,ETF
+FSS,Federal Signal Corporation,NYQ,NYSE,S,Equity
+SIL,Global X Silver Miners ETF,NYQ,NYSE,E,ETF
+AG,First Majestic Silver Corp.,NYQ,NYSE,S,Equity
+FSM,Fortuna Silver Mines Inc.,NYQ,NYSE,S,Equity
+SSD,"Simpson Manufacturing Co., Inc.",NYQ,NYSE,S,Equity
+SPG-PJ,"Simon Property Group, Inc.",NYQ,NYSE,S,Equity
+EWS,iShares MSCI Singapore Capped ETF,NYQ,NYSE,E,ETF
+SITC,SITE Centers Corp.,NYQ,NYSE,S,Equity
+SIVR,Aberdeen Standard Physical Silver Shares ETF,NYQ,NYSE,E,ETF
+SIZE,iShares Edge MSCI USA Size Factor ETF,NYQ,NYSE,E,ETF
+SLF,Sun Life Financial Inc.,NYQ,NYSE,S,Equity
+SLG-PI,SL Green Realty Corp.,NYQ,NYSE,S,Equity
+SLTB,Scorpio Bulkers Inc. 7.5% SR NT 19,NYQ,NYSE,S,Equity
+SLVP,iShares MSCI Global Silver Miners ETF,NYQ,NYSE,E,ETF
+SLYG,SPDR S&P 600 Small Cap Growth ETF,NYQ,NYSE,E,ETF
+SNMP,Sanchez Midstream Partners LP,NYQ,NYSE,S,Equity
+SNP,China Petroleum & Chemical Corporation,NYQ,NYSE,S,Equity
+SNV-PD,Synovus Financial Corp.,NYQ,NYSE,S,Equity
+SPA,Sparton Corporation,NYQ,NYSE,S,Equity
+SPB,"Spectrum Brands Holdings, Inc.",NYQ,NYSE,S,Equity
+SPE,"Special Opportunities Fund, Inc.",NYQ,NYSE,S,Equity
+BCSF,"Bain Capital Specialty Finance, Inc.",NYQ,NYSE,S,Equity
+TRK,"Speedway Motorsports, Inc.",NYQ,NYSE,S,Equity
+SPFF,Global X SuperIncome Preferred ETF,NYQ,NYSE,E,ETF
+SPGI,S&P Global Inc.,NYQ,NYSE,S,Equity
+SPH,"Suburban Propane Partners, L.P.",NYQ,NYSE,S,Equity
+SPR,"Spirit AeroSystems Holdings, Inc.",NYQ,NYSE,S,Equity
+SMTA,Spirit MTA REIT,NYQ,NYSE,S,Equity
+SPLP,Steel Partners Holdings L.P.,NYQ,NYSE,S,Equity
+SPLB,SPDR Portfolio Long Term Corporate Bond ETF,NYQ,NYSE,E,ETF
+SPLP-PA,Steel Partners Holdings L.P.,NYQ,NYSE,S,Equity
+SPMO,Invesco S&P 500 Momentum ETF,NYQ,NYSE,E,ETF
+SPN,"Superior Energy Services, Inc.",NYQ,NYSE,S,Equity
+SPSB,SPDR Portfolio Short Term Corporate Bond ETF,NYQ,NYSE,E,ETF
+SPUU,Direxion Daily S&P 500 Bull 2X Shares,NYQ,NYSE,E,ETF
+SPXC,SPX Corporation,NYQ,NYSE,S,Equity
+FLOW,"SPX FLOW, Inc.",NYQ,NYSE,S,Equity
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,NYQ,NYSE,S,Equity
+SPXE,ProShares S&P 500 ex-Energy ETF,NYQ,NYSE,E,ETF
+SPYX,SPDR S&P 500 Fossil Fuel Reserves Free ETF,NYQ,NYSE,E,ETF
+SRCI,SRC Energy Inc.,NYQ,NYSE,S,Equity
+SRC-PA,"Spirit Realty Capital, Inc.",NYQ,NYSE,S,Equity
+SRE-PA,Sempra Energy,NYQ,NYSE,S,Equity
+SRE-PB,Sempra Energy,NYQ,NYSE,S,Equity
+SRF,The Cushing Energy Income Fund,NYQ,NYSE,S,Equity
+SRG-PA,Seritage Growth Properties,NYQ,NYSE,S,Equity
+SRI,"Stoneridge, Inc.",NYQ,NYSE,S,Equity
+SRT,"StarTek, Inc.",NYQ,NYSE,S,Equity
+SRTY,ProShares UltraPro Short Russell2000,NYQ,NYSE,E,ETF
+SSG,ProShares UltraShort Semiconductors,NYQ,NYSE,E,ETF
+SMLV,SPDR SSGA US Small Cap Low Volatility Index ETF,NYQ,NYSE,E,ETF
+SSW-PH,Seaspan Corporation,NYQ,NYSE,S,Equity
+SSW-PD,Seaspan Corporation,NYQ,NYSE,S,Equity
+SSWN,Seaspan Corporation,NYQ,NYSE,S,Equity
+SSW-PI,Seaspan Corporation,NYQ,NYSE,S,Equity
+SSW-PE,Seaspan Corporation,NYQ,NYSE,S,Equity
+SSW-PG,Seaspan Corporation,NYQ,NYSE,S,Equity
+SSY,"SunLink Health Systems, Inc.",NYQ,NYSE,S,Equity
+STT,State Street Corporation,NYQ,NYSE,S,Equity
+STWD,"Starwood Property Trust, Inc.",NYQ,NYSE,S,Equity
+STC,Stewart Information Services Corporation,NYQ,NYSE,S,Equity
+STE,STERIS plc,NYQ,NYSE,S,Equity
+AKS,AK Steel Holding Corporation,NYQ,NYSE,S,Equity
+STI-PA,"SunTrust Banks, Inc.",NYQ,NYSE,S,Equity
+SFB,Stifel Financial Corporation 5.,NYQ,NYSE,E,ETF
+STK,Columbia Seligman Premium Technology Growth Fund,NYQ,NYSE,S,Equity
+STL,Sterling Bancorp,NYQ,NYSE,S,Equity
+STL-PA,Sterling Bancorp,NYQ,NYSE,S,Equity
+STN,Stantec Inc.,NYQ,NYSE,S,Equity
+VT,Vanguard Total World Stock Index Fund ETF Shares,NYQ,NYSE,E,ETF
+MAIN,Main Street Capital Corporation,NYQ,NYSE,S,Equity
+CLM,"Cornerstone Strategic Value Fund, Inc.",NYQ,NYSE,S,Equity
+STT-PC,State Street Corporation,NYQ,NYSE,S,Equity
+STT-PE,State Street Corporation,NYQ,NYSE,S,Equity
+STT-PD,State Street Corporation,NYQ,NYSE,S,Equity
+STZ-B,"Constellation Brands, Inc.",NYQ,NYSE,S,Equity
+STZB,Constellation Brands Inc.,NYQ,NYSE,S,Equity
+SVT,"Servotronics, Inc.",NYQ,NYSE,S,Equity
+SWAN,Amplify BlackSwan Growth & Treasury Core ETF,NYQ,NYSE,E,ETF
+EWD,iShares MSCI Sweden ETF,NYQ,NYSE,E,ETF
+FXS,Invesco CurrencyShares Swedish Krona Trust,NYQ,NYSE,E,ETF
+EWL,iShares MSCI Switzerland ETF,NYQ,NYSE,E,ETF
+FXF,Invesco CurrencyShares Swiss Franc Trust,NYQ,NYSE,E,ETF
+SWJ,"Stanley Black & Decker, Inc. JR SUB DEB 52",NYQ,NYSE,S,Equity
+SWX,"Southwest Gas Holdings, Inc.",NYQ,NYSE,S,Equity
+SYG,SPDR MFS Systematic Growth Equity ETF,NYQ,NYSE,E,ETF
+SYLD,Cambria Shareholder Yield ETF,NYQ,NYSE,E,ETF
+SYV,SPDR MFS Systematic Value Equity ETF,NYQ,NYSE,E,ETF
+SYX,Systemax Inc.,NYQ,NYSE,S,Equity
+SZO,DB Crude Oil Short ETN,NYQ,NYSE,E,ETF
+VALE,Vale S.A.,NYQ,NYSE,S,Equity
+TOT,TOTAL S.A.,NYQ,NYSE,S,Equity
+TI,Telecom Italia S.p.A.,NYQ,NYSE,S,Equity
+UCI,UBS ETRACS CMCI Total Return ETN,NYQ,NYSE,E,ETF
+UCON,First Trust TCW Unconstrained Plus Bond ETF,NYQ,NYSE,E,ETF
+UMH-PD,"UMH Properties, Inc.",NYQ,NYSE,S,Equity
+UMH-PB,"UMH Properties, Inc.",NYQ,NYSE,S,Equity
+UMH-PC,"UMH Properties, Inc.",NYQ,NYSE,S,Equity
+FRAK,VanEck Vectors Unconventional Oil & Gas ETF,NYQ,NYSE,E,ETF
+UNF,UniFirst Corporation,NYQ,NYSE,S,Equity
+UNFI,"United Natural Foods, Inc.",NYQ,NYSE,S,Equity
+UNL,"United States 12 Month Natural Gas Fund, LP",NYQ,NYSE,E,ETF
+UNM,Unum Group,NYQ,NYSE,S,Equity
+UNT,Unit Corporation,NYQ,NYSE,S,Equity
+UPV,ProShares Ultra FTSE Europe,NYQ,NYSE,E,ETF
+UPW,ProShares Ultra Utilities,NYQ,NYSE,E,ETF
+NLR,VanEck Vectors Uranium+Nuclear Energy ETF,NYQ,NYSE,E,ETF
+FIX,"Comfort Systems USA, Inc.",NYQ,NYSE,S,Equity
+USNA,"USANA Health Sciences, Inc.",NYQ,NYSE,S,Equity
+USB-PH,U.S. Bancorp,NYQ,NYSE,S,Equity
+USB-PA,U.S. Bancorp PERP PFD SER A,NYQ,NYSE,S,Equity
+USB-PP,U.S. Bancorp,NYQ,NYSE,S,Equity
+USB-PM,U.S. Bancorp,NYQ,NYSE,S,Equity
+USD,ProShares Ultra Semiconductors,NYQ,NYSE,E,ETF
+USDP,USD Partners LP,NYQ,NYSE,S,Equity
+HYLB,Xtrackers USD High Yield Corporate Bond ETF,NYQ,NYSE,E,ETF
+USEQ,Invesco Russell 1000 Enhanced Equal Weight ETF,NYQ,NYSE,E,ETF
+USFD,US Foods Holding Corp.,NYQ,NYSE,S,Equity
+USFR,WisdomTree Floating Rate Treasury Fund,NYQ,NYSE,E,ETF
+USM,United States Cellular Corporation,NYQ,NYSE,S,Equity
+USMF,WisdomTree U.S. Multifactor Fund,NYQ,NYSE,E,ETF
+USOU,United States 3x Oil Fund,NYQ,NYSE,E,ETF
+USOD,United States 3x Short Oil Fund,NYQ,NYSE,E,ETF
+USPH,"U.S. Physical Therapy, Inc.",NYQ,NYSE,S,Equity
+UST,ProShares Ultra 7-10 Year Treasury,NYQ,NYSE,E,ETF
+USTB,USAA Core Short-Term Bond ETF,NYQ,NYSE,E,ETF
+USVM,USAA MSCI USA Small Cap Value Momentum Blend Index ETF,NYQ,NYSE,E,ETF
+FFIU,Fieldstone UVA Unconstrained Medium-Term Fixed Income ETF,NYQ,NYSE,E,ETF
+WAAS,AquaVenture Holdings Limited,NYQ,NYSE,S,Equity
+WAB-WI,Wabtec Corporation,NYQ,NYSE,S,Equity
+WAGE,"WageWorks, Inc.",NYQ,NYSE,S,Equity
+WAIR,"Wesco Aircraft Holdings, Inc.",NYQ,NYSE,S,Equity
+WAL,Western Alliance Bancorporation,NYQ,NYSE,S,Equity
+AWK,"American Water Works Company, Inc.",NYQ,NYSE,S,Equity
+AWR,American States Water Company,NYQ,NYSE,S,Equity
+WEA,Western Asset Premier Bond Fund,NYQ,NYSE,S,Equity
+WEAT,Teucrium Wheat,NYQ,NYSE,E,ETF
+WBS-PF,Webster Financial Corporation,NYQ,NYSE,S,Equity
+WEC,"WEC Energy Group, Inc.",NYQ,NYSE,S,Equity
+WELL,Welltower Inc.,NYQ,NYSE,S,Equity
+WES,"Western Midstream Partners, LP",NYQ,NYSE,S,Equity
+WEX,WEX Inc.,NYQ,NYSE,S,Equity
+WIA,Western Asset Inflation-Linked Income Fund,NYQ,NYSE,S,Equity
+WMW,ELEMENTS Linked to the Morningstar Wide Moat Focus Total Return Index,NYQ,NYSE,E,ETF
+DES,WisdomTree U.S. SmallCap Dividend Fund,NYQ,NYSE,E,ETF
+DEM,WisdomTree Emerging Markets High Dividend Fund,NYQ,NYSE,E,ETF
+SPVM,Invesco S&P 500 Value With Momentum ETF,NYQ,NYSE,E,ETF
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund,NYQ,NYSE,S,Equity
+WLDR,Affinity World Leaders Equity ETF,NYQ,NYSE,E,ETF
+WSC,WillScot Corporation,NYQ,NYSE,S,Equity
+WSO-B,"Watsco, Inc.",NYQ,NYSE,S,Equity
+WSOB,Watsco Inc.,NYQ,NYSE,S,Equity
+WTIU,UBS ETRACS - ProShares Daily 3x Long Crude ETN,NYQ,NYSE,E,ETF
+WTID,UBS ETRACS - ProShares Daily 3x Inverse Crude ETN,NYQ,NYSE,E,ETF
+WTM,"White Mountains Insurance Group, Ltd.",NYQ,NYSE,S,Equity
+RESI,Front Yard Residential Corporation,NYQ,NYSE,S,Equity
+TBT,ProShares UltraShort 20+ Year Treasury,NYQ,NYSE,E,ETF
+TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares,NYQ,NYSE,E,ETF
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+CYB,WisdomTree Chinese Yuan Strategy Fund,NYQ,NYSE,E,ETF
+CYD,China Yuchai International Limited,NYQ,NYSE,S,Equity
+ZBH,"Zimmer Biomet Holdings, Inc.",NYQ,NYSE,S,Equity
+BOSS,Global X Founder-Run Companies ETF,NYQ,NYSE,E,ETF
+BBDO,Banco Bradesco S.A.,NYQ,NYSE,S,Equity
+BHR,"Braemar Hotels & Resorts, Inc.",NYQ,NYSE,S,Equity
+BHR-PD,"Braemar Hotels & Resorts, Inc.",NYQ,NYSE,S,Equity
+BHR-PB,"Braemar Hotels & Resorts, Inc.",NYQ,NYSE,S,Equity
+VIV,Telefônica Brasil S.A.,NYQ,NYSE,S,Equity
+BAK,Braskem S.A.,NYQ,NYSE,S,Equity
+LND,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,NYQ,NYSE,S,Equity
+BKF,iShares MSCI BRIC ETF,NYQ,NYSE,E,ETF
+BBRC,Columbia Beyond BRICs ETF,NYQ,NYSE,E,ETF
+BSCQ,Invesco BulletShares 2026 Corporate Bond ETF,NYQ,NYSE,E,ETF
+BSCR,Invesco BulletShares 2027 Corporate Bond ETF,NYQ,NYSE,E,ETF
+SB-PC,"Safe Bulkers, Inc.",NYQ,NYSE,S,Equity
+DIVB,iShares U.S. Dividend and Buyback ETF,NYQ,NYSE,E,ETF
+CMCL,Caledonia Mining Corporation Plc,NYQ,NYSE,S,Equity
+CALX,"Calix, Inc.",NYQ,NYSE,S,Equity
+TRTY,Cambria Trinity ETF,NYQ,NYSE,E,ETF
+GMOM,Cambria Global Momentum ETF,NYQ,NYSE,E,ETF
+EWC,iShares MSCI Canada ETF,NYQ,NYSE,E,ETF
+FHLC,Fidelity MSCI Health Care Index ETF,NYQ,NYSE,E,ETF
+CSV,"Carriage Services, Inc.",NYQ,NYSE,S,Equity
+CARS,Cars.com Inc.,NYQ,NYSE,S,Equity
+CCI-PA,Crown Castle International Corp,NYQ,NYSE,S,Equity
+CELP,"Cypress Energy Partners, L.P.",NYQ,NYSE,S,Equity
+CHAC-UN,Chardan Healthcare Acquisition Corp.,NYQ,NYSE,S,Equity
+CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,NYQ,NYSE,E,ETF
+CCO,"Clear Channel Outdoor Holdings, Inc.",NYQ,NYSE,S,Equity
+CCF,Chase Corporation,NYQ,NYSE,S,Equity
+JPM-PD,JPMorgan Chase & Co.,NYQ,NYSE,S,Equity
+JPM-PC,JPMorgan Chase & Co.,NYQ,NYSE,S,Equity
+JPM-PA,J P Morgan Chase & Co Depositar,NYQ,NYSE,S,Equity
+JPM-PH,J P Morgan Chase & Co Depositar,NYQ,NYSE,S,Equity
+JPM-PG,J P Morgan Chase & Co Depositar,NYQ,NYSE,S,Equity
+JPM-PE,J P Morgan Chase & Co Depositor,NYQ,NYSE,S,Equity
+JPM-PF,J P Morgan Chase & Co Depositar,NYQ,NYSE,S,Equity
+CHEP,AGFiQ U.S. Market Neutral Value Fund,NYQ,NYSE,E,ETF
+CPK,Chesapeake Utilities Corporation,NYQ,NYSE,S,Equity
+CHIH,Global X MSCI China Health Care ETF,NYQ,NYSE,E,ETF
+CHII,Global X MSCI China Industrials ETF,NYQ,NYSE,E,ETF
+CHIL,Global X MSCI China Large-Cap 50 ETF,NYQ,NYSE,E,ETF
+BCH,Banco de Chile,NYQ,NYSE,S,Equity
+ECH,iShares MSCI Chile Capped ETF,NYQ,NYSE,E,ETF
+CHIM,Global X MSCI China Materials ETF,NYQ,NYSE,E,ETF
+CIM-PB,Chimera Investment Corporation,NYQ,NYSE,S,Equity
+CIM-PD,Chimera Investment Corporation,NYQ,NYSE,S,Equity
+CIM-PA,Chimera Investment Corporation,NYQ,NYSE,S,Equity
+CIM-PC,Chimera Investment Corporation,NYQ,NYSE,S,Equity
+ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,NYQ,NYSE,E,ETF
+CHIR,Global X MSCI China Real Estate ETF,NYQ,NYSE,E,ETF
+CHIU,Global X MSCI China Utilities ETF,NYQ,NYSE,E,ETF
+CHIX,Global X MSCI China Financials ETF,NYQ,NYSE,E,ETF
+KOL,VanEck Vectors Coal ETF,NYQ,NYSE,E,ETF
+CFXA,Colfax Corporation,NYQ,NYSE,S,Equity
+CCH,Collier Creek Holdings,NYQ,NYSE,S,Equity
+CLNY-PH,"Colony Capital, Inc.",NYQ,NYSE,S,Equity
+COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,NYQ,NYSE,E,ETF
+CCZ,Comcast Holdings Corp.,NYQ,NYSE,S,Equity
+COMG,GraniteShares S&P GSCI Commodity Broad Strategy No K-1 ETF,NYQ,NYSE,E,ETF
+TRV,"The Travelers Companies, Inc.",NYQ,NYSE,S,Equity
+CCM,Concord Medical Services Holdings Limited,NYQ,NYSE,S,Equity
+TEL,TE Connectivity Ltd.,NYQ,NYSE,S,Equity
+VDC,Vanguard Consumer Staples Index Fund ETF Shares,NYQ,NYSE,E,ETF
+CLR,"Continental Resources, Inc.",NYQ,NYSE,S,Equity
+TCS,"The Container Store Group, Inc.",NYQ,NYSE,S,Equity
+CWB,SPDR Bloomberg Barclays Convertible Securities ETF,NYQ,NYSE,E,ETF
+ACV,AllianzGI Diversified Income & Convertible Fund,NYQ,NYSE,S,Equity
+AVK,Advent Claymore Convertible Securities and Income Fund,NYQ,NYSE,S,Equity
+CORN,Teucrium Corn Fund,NYQ,NYSE,E,ETF
+OC,Owens Corning,NYQ,NYSE,S,Equity
+FCPT,"Four Corners Property Trust, Inc.",NYQ,NYSE,S,Equity
+VFC,V.F. Corporation,NYQ,NYSE,S,Equity
+CORR,"CorEnergy Infrastructure Trust, Inc.",NYQ,NYSE,S,Equity
+CORR-PA,"CorEnergy Infrastructure Trust, Inc.",NYQ,NYSE,S,Equity
+KTH,Corts Trust For Peco Energy Capital Trust III,NYQ,NYSE,S,Equity
+KTN,Credit-Enhanced Corts Trust Aon,NYQ,NYSE,S,Equity
+CMRE-PB,Costamare Inc.,NYQ,NYSE,S,Equity
+ACP,Aberdeen Income Credit Strategies Fund,NYQ,NYSE,S,Equity
+BAP,Credicorp Ltd.,NYQ,NYSE,S,Equity
+FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc.,NYQ,NYSE,S,Equity
+FLC,Flaherty & Crumrine Total Return Fund Inc.,NYQ,NYSE,S,Equity
+OFG_PB,OFG Bancorp 7.0% Non Cumulative,NYQ,NYSE,S,Equity
+XLTY,Cushing Transportation & MLP ETF,NYQ,NYSE,E,ETF
+CUBI-PE,"Customers Bancorp, Inc.",NYQ,NYSE,S,Equity
+DIVA,AGFiQ Hedged Dividend Income Fund,NYQ,NYSE,E,ETF
+DFND,Reality Shares Divcon Dividend Defender ETF,NYQ,NYSE,E,ETF
+GARD,Reality Shares Divcon Dividend Guard ETF,NYQ,NYSE,E,ETF
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,NYQ,NYSE,S,Equity
+ADX,"Adams Diversified Equity Fund, Inc.",NYQ,NYSE,S,Equity
+DIVO,Amplify CWP Enhanced Dividend Income ETF,NYQ,NYSE,E,ETF
+DIVY,Reality Shares DIVS ETF,NYQ,NYSE,E,ETF
+DGP,DB Gold Double Long ETN,NYQ,NYSE,E,ETF
+DURA,VanEck Vectors Morningstar Durable Dividend ETF,NYQ,NYSE,E,ETF
+EURL,Direxion Daily FTSE Europe Bull 3X Shares,NYQ,NYSE,E,ETF
+EURZ,Xtrackers Eurozone Equity ETF,NYQ,NYSE,E,ETF
+EVSTCNX,Eaton Vance NextShares Trust - Eaton Vance Stock NextShares,NYQ,NYSE,M,Fund
+EXTN,Exterran Corporation,NYQ,NYSE,S,Equity
+GLOG,GasLog Ltd.,NYQ,NYSE,S,Equity
+GLOP-PA,GasLog Partners LP,NYQ,NYSE,S,Equity
+GLOP-PC,GasLog Partners LP,NYQ,NYSE,S,Equity
+GLOP-PB,GasLog Partners LP,NYQ,NYSE,S,Equity
+GLOG-PA,GasLog Ltd.,NYQ,NYSE,S,Equity
+EMEM,Virtus Glovista Emerging Markets ETF,NYQ,NYSE,E,ETF
+GLOW,"Glowpoint, Inc.",NYQ,NYSE,S,Equity
+GOLF,Acushnet Holdings Corp.,NYQ,NYSE,S,Equity
+GDP,Goodrich Petroleum Corporation,NYQ,NYSE,S,Equity
+VGM,Invesco Trust for Investment Grade Municipals,NYQ,NYSE,S,Equity
+GRAF,Graf Industrial Corp.,NYQ,NYSE,S,Equity
+GRAF-UN,Graf Industrial Corp.,NYQ,NYSE,S,Equity
+GRAF-WT,Graf Industrial Corp.,NYQ,NYSE,S,Equity
+GRAM,Graña y Montero S.A.A.,NYQ,NYSE,S,Equity
+BAR,GraniteShares Gold Trust,NYQ,NYSE,E,ETF
+GTN-A,"Gray Television, Inc.",NYQ,NYSE,S,Equity
+GTNA,"Gray Television, Inc.",NYQ,NYSE,S,Equity
+AJX,Great Ajax Corp.,NYQ,NYSE,S,Equity
+GEF,"Greif, Inc.",NYQ,NYSE,S,Equity
+GEF-B,"Greif, Inc.",NYQ,NYSE,S,Equity
+GEFB,"Greif, Inc.",NYQ,NYSE,S,Equity
+GREK,Global X MSCI Greece ETF,NYQ,NYSE,E,ETF
+GRES,IQ Global Resources ETF,NYQ,NYSE,E,ETF
+VUG,Vanguard Growth Index Fund ETF Shares,NYQ,NYSE,E,ETF
+HE-PUCL,"Hawaiian Electric Industries, I",NYQ,NYSE,S,Equity
+HE-PUL,HE-PUL,NYQ,NYSE,S,Equity
+IPOA-UN,Social Capital Hedosophia Holdings Corp.,NYQ,NYSE,S,Equity
+IPOA-WT,Social Capital Hedosophia Holdi,NYQ,NYSE,S,Equity
+HT-PD,Hersha Hospitality Trust,NYQ,NYSE,S,Equity
+HT-PE,Hersha Hospitality Trust,NYQ,NYSE,S,Equity
+HT-PC,Hersha Hospitality Trust,NYQ,NYSE,S,Equity
+BHLB,"Berkshire Hills Bancorp, Inc.",NYQ,NYSE,S,Equity
+HILO,Columbia EM Quality Dividend ETF,NYQ,NYSE,E,ETF
+HMN,Horace Mann Educators Corporation,NYQ,NYSE,S,Equity
+IBDP,iShares iBonds Dec 2024 Term Corporate ETF,NYQ,NYSE,E,ETF
+IBDN,iShares iBonds Dec 2022 Term Corporate ETF,NYQ,NYSE,E,ETF
+IBDR,iShares iBonds Dec 2026 Term Corporate ETF,NYQ,NYSE,E,ETF
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,NYQ,NYSE,E,ETF
+INCO,Columbia India Consumer ETF,NYQ,NYSE,E,ETF
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,NYQ,NYSE,S,Equity
+INSI,Insight Select Income Fund,NYQ,NYSE,S,Equity
+INST,"Instructure, Inc.",NYQ,NYSE,S,Equity
+THG,"The Hanover Insurance Group, Inc.",NYQ,NYSE,S,Equity
+INSW,"International Seaways, Inc.",NYQ,NYSE,S,Equity
+INSW-PA,"International Seaways, Inc. 8.50% SN NT 23",NYQ,NYSE,S,Equity
+GHYG,iShares US & Intl High Yield Corp Bond ETF,NYQ,NYSE,E,ETF
+IQLT,iShares Edge MSCI Intl Quality Factor ETF,NYQ,NYSE,E,ETF
+STAR-PI,iStar Inc.,NYQ,NYSE,S,Equity
+STAR-PG,iStar Inc.,NYQ,NYSE,S,Equity
+JHMA,John Hancock Multifactor Materials ETF,NYQ,NYSE,E,ETF
+JHMI,John Hancock Multifactor Industrials ETF,NYQ,NYSE,E,ETF
+CLB,Core Laboratories N.V.,NYQ,NYSE,S,Equity
+MLPZ,UBS ETRACS 2xMonthly Leveraged S&P MLP Index ETN Series B,NYQ,NYSE,E,ETF
+LXP-PC,Lexington Realty Trust,NYQ,NYSE,S,Equity
+TSLF,THL Credit Senior Loan Fund,NYQ,NYSE,S,Equity
+TLI,Western Asset Corporate Loan Fund Inc.,NYQ,NYSE,S,Equity
+EBND,SPDR Bloomberg Barclays Emerging Markets Local Bond ETF,NYQ,NYSE,E,ETF
+ELJ,"Entergy Louisiana, LLC 1ST MTG5.25%",NYQ,NYSE,S,Equity
+MCC,Medley Capital Corporation,NYQ,NYSE,S,Equity
+MDLY,Medley Management Inc.,NYQ,NYSE,S,Equity
+MDLX,Medley LLC SR NT 26,NYQ,NYSE,E,ETF
+MDLQ,Medley LLC NT 24,NYQ,NYSE,E,ETF
+MCX,Medley Capital Corporation 6.50 NT 013021,NYQ,NYSE,E,ETF
+MCV,Medley Capital Corporation SR NT 23,NYQ,NYSE,S,Equity
+MTH,Meritage Homes Corporation,NYQ,NYSE,S,Equity
+MDY,SPDR S&P MidCap 400 ETF,NYQ,NYSE,E,ETF
+REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,NYQ,NYSE,E,ETF
+SMDD,ProShares UltraPro Short MidCap400,NYQ,NYSE,E,ETF
+MIDU,Direxion Daily Mid Cap Bull 3X Shares,NYQ,NYSE,E,ETF
+CIG,Companhia Energética de Minas Gerais,NYQ,NYSE,S,Equity
+CIG-C,Companhia Energética de Minas Gerais,NYQ,NYSE,S,Equity
+MINC,AdvisorShares Newfleet Multi-Sector Income ETF,NYQ,NYSE,E,ETF
+TGB,Taseko Mines Limited,NYQ,NYSE,S,Equity
+NMS,Nuveen Minnesota Quality Municipal Income Fund,NYQ,NYSE,S,Equity
+VMM,"Delaware Investments Minnesota Municipal Income Fund II, Inc.",NYQ,NYSE,S,Equity
+MITT-PA,"AG Mortgage Investment Trust, Inc.",NYQ,NYSE,S,Equity
+MITT-PB,"AG Mortgage Investment Trust, Inc.",NYQ,NYSE,S,Equity
+NANR,SPDR S&P North American Natural Resources ETF,NYQ,NYSE,E,ETF
+EWN,iShares MSCI Netherlands ETF,NYQ,NYSE,E,ETF
+NEWM,New Media Investment Group Inc.,NYQ,NYSE,S,Equity
+OSB,Norbord Inc.,NYQ,NYSE,S,Equity
+NORW,Global X MSCI Norway ETF,NYQ,NYSE,E,ETF
+PACD,Pacific Drilling S.A.,NYQ,NYSE,S,Equity
+PTLC,Pacer Trendpilot US Large Cap ETF,NYQ,NYSE,E,ETF
+PTEU,Pacer Trendpilot European Index ETF,NYQ,NYSE,E,ETF
+ITP,"IT Tech Packaging, Inc.",NYQ,NYSE,S,Equity
+PGRE,"Paramount Group, Inc.",NYQ,NYSE,S,Equity
+PKE,Park Electrochemical Corp.,NYQ,NYSE,S,Equity
+TVE,Tennessee Valley Authority PARRS A 2029,NYQ,NYSE,S,Equity
+TVC,Tennessee Valley Authority PARRS D 2028,NYQ,NYSE,S,Equity
+EP_PC,El Paso Corporation Preferred S,NYQ,NYSE,S,Equity
+VPG,"Vishay Precision Group, Inc.",NYQ,NYSE,S,Equity
+ASA,ASA Gold and Precious Metals Limited,NYQ,NYSE,S,Equity
+AWP,Aberdeen Global Premier Properties Fund,NYQ,NYSE,S,Equity
+PRIF-PB,"Priority Income Fund, Inc.",NYQ,NYSE,S,Equity
+PRIF-PA,"Priority Income Fund, Inc.",NYQ,NYSE,S,Equity
+PRIF-PC,"Priority Income Fund, Inc.",NYQ,NYSE,S,Equity
+PGZ,Principal Real Estate Income Fund,NYQ,NYSE,S,Equity
+AVP,"Avon Products, Inc.",NYQ,NYSE,S,Equity
+SON,Sonoco Products Company,NYQ,NYSE,S,Equity
+PUW,Invesco WilderHill Progressive Engy ETF,NYQ,NYSE,E,ETF
+GLU-PA,The Gabelli Global Utility & Income Trust PFD A PUTT CAL,NYQ,NYSE,S,Equity
+RPUT,WisdomTree CBOE Russell 2000 PutWrite Strategy Fund,NYQ,NYSE,E,ETF
+REEM,Oppenheimer Emerging Markets Revenue ETF,NYQ,NYSE,E,ETF
+BCRH,Blue Capital Reinsurance Holdings Ltd.,NYQ,NYSE,S,Equity
+IPOS,Renaissance International IPO ETF,NYQ,NYSE,E,ETF
+AMH,American Homes 4 Rent,NYQ,NYSE,S,Equity
+AMH-PD,American Homes 4 Rent,NYQ,NYSE,S,Equity
+RPLA-UN,Replay Acquisition Corp.,NYQ,NYSE,S,Equity
+PSA_PZ,Public Storage Dep Shs Represen,NYQ,NYSE,S,Equity
+PSA-PV,Public Storage Dep Shs Repstg 1,NYQ,NYSE,S,Equity
+PSA_PV,Public Storage Dep Shs Repstg 1,NYQ,NYSE,S,Equity
+FRC-PH,First Republic Bank,NYQ,NYSE,S,Equity
+FRC-PG,First Republic Bank,NYQ,NYSE,S,Equity
+FRC-PF,First Republic Bank,NYQ,NYSE,S,Equity
+FDS,FactSet Research Systems Inc.,NYQ,NYSE,S,Equity
+EARN,Ellington Residential Mortgage REIT,NYQ,NYSE,S,Equity
+RETL,Direxion Daily Retail Bull 3X Shares,NYQ,NYSE,E,ETF
+ZF,Virtus Total Return Fund Inc.,NYQ,NYSE,S,Equity
+FIBR,iShares Edge U.S. Fixed Income Balanced Risk ETF,NYQ,NYSE,E,ETF
+SCHA,Schwab U.S. Small-Cap ETF,NYQ,NYSE,E,ETF
+SCHC,Schwab International Small-Cap Equity ETF,NYQ,NYSE,E,ETF
+SCHE,Schwab Emerging Markets Equity ETF,NYQ,NYSE,E,ETF
+SCHF,Schwab International Equity ETF,NYQ,NYSE,E,ETF
+SCHK,Schwab 1000 ETF,NYQ,NYSE,E,ETF
+SCHM,Schwab U.S. Mid-Cap ETF,NYQ,NYSE,E,ETF
+SCHO,Schwab Short-Term U.S. Treasury ETF,NYQ,NYSE,E,ETF
+SCHP,Schwab U.S. TIPS ETF,NYQ,NYSE,E,ETF
+SCID,Global X Scientific Beta Europe ETF,NYQ,NYSE,E,ETF
+SCIJ,Global X Scientific Beta Japan ETF,NYQ,NYSE,E,ETF
+SCIN,Columbia India Small Cap ETF,NYQ,NYSE,E,ETF
+SCIX,Global X Scientific Beta Asia ex-Japan ETF,NYQ,NYSE,E,ETF
+SMHI,SEACOR Marine Holdings Inc.,NYQ,NYSE,S,Equity
+TPX,"Tempur Sealy International, Inc.",NYQ,NYSE,S,Equity
+SEAS,"SeaWorld Entertainment, Inc.",NYQ,NYSE,S,Equity
+AED,Aegon N.V. PERP CAP SECS,NYQ,NYSE,E,ETF
+SEMG,SemGroup Corporation,NYQ,NYSE,S,Equity
+SRE_PA,Sempra Energy 6% Mandatory Conv,NYQ,NYSE,S,Equity
+VVR,Invesco Senior Income Trust,NYQ,NYSE,S,Equity
+XRLV,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,NYQ,NYSE,E,ETF
+DS-PB,Drive Shack Inc.,NYQ,NYSE,S,Equity
+DS-PD,Drive Shack Inc.,NYQ,NYSE,S,Equity
+DS-PC,Drive Shack Inc.,NYQ,NYSE,S,Equity
+SHAG,WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund,NYQ,NYSE,E,ETF
+SHLL,SHLL,NYQ,NYSE,S,Equity
+SHLL-WT,SHLL-WT,NYQ,NYSE,S,Equity
+VSI,"Vitamin Shoppe, Inc.",NYQ,NYSE,S,Equity
+SILV,SilverCrest Metals Inc.,NYQ,NYSE,S,Equity
+SBOW,"SilverBow Resources, Inc.",NYQ,NYSE,S,Equity
+USAS,Americas Silver Corporation,NYQ,NYSE,S,Equity
+SITC-PK,SITE Centers Corp.,NYQ,NYSE,S,Equity
+SITC-PJ,SITE Centers Corp.,NYQ,NYSE,S,Equity
+SITC-PA,SITE Centers Corp.,NYQ,NYSE,S,Equity
+SPAB,SPDR Portfolio Aggregate Bond ETF,NYQ,NYSE,E,ETF
+EWP,iShares MSCI Spain Capped ETF,NYQ,NYSE,E,ETF
+SPAQ,Spartan Energy Acquisition Corp.,NYQ,NYSE,S,Equity
+SPAQ-UN,Spartan Energy Acquisition Corp.,NYQ,NYSE,S,Equity
+SPAQ-WT,SPAQ-WT,NYQ,NYSE,S,Equity
+SPDN,Direxion Daily S&P 500 Bear 1X Shares,NYQ,NYSE,E,ETF
+SPDV,AAM S&P 500 High Dividend Value ETF,NYQ,NYSE,E,ETF
+STAG,"STAG Industrial, Inc.",NYQ,NYSE,S,Equity
+STAG-PC,"STAG Industrial, Inc.",NYQ,NYSE,S,Equity
+SMP,"Standard Motor Products, Inc.",NYQ,NYSE,S,Equity
+FSTA,Fidelity MSCI Consumer Staples Index ETF,NYQ,NYSE,E,ETF
+OIS,"Oil States International, Inc.",NYQ,NYSE,S,Equity
+STON,StoneMor Partners L.P.,NYQ,NYSE,S,Equity
+EDI,Stone Harbor Emerging Markets Total Income Fund,NYQ,NYSE,S,Equity
+STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,NYQ,NYSE,E,ETF
+FEU,SPDR STOXX Europe 50 ETF,NYQ,NYSE,E,ETF
+FDD,First Trust STOXX European Select Dividend Index Fund,NYQ,NYSE,E,ETF
+SMEZ,SPDR EURO STOXX Small Cap ETF,NYQ,NYSE,E,ETF
+FSP,Franklin Street Properties Corp.,NYQ,NYSE,S,Equity
+STRI,"STR Holdings, Inc.",NYQ,NYSE,S,Equity
+FT,Franklin Universal Trust,NYQ,NYSE,S,Equity
+OMAD-WT,One Madison Corporation Warrant,NYQ,NYSE,S,Equity
+EQLT,Workplace Equality Portfolio,NYQ,NYSE,E,ETF
+EBR-B,Centrais Elétricas Brasileiras S.A. - Eletrobras,NYQ,NYSE,S,Equity
+BGG_W,Briggs & Stratton Corporation,NYQ,NYSE,S,Equity
+WBIL,WBI BullBear Quality 1000 ETF,NYQ,NYSE,E,ETF
+WBII,WBI BullBear Global Income ETF,NYQ,NYSE,E,ETF
+WBIA,WBI BullBear Rising Income 2000 ETF,NYQ,NYSE,E,ETF
+WBIF,WBI BullBear Value 1000 ETF,NYQ,NYSE,E,ETF
+WBIB,WBI BullBear Value 2000 ETF,NYQ,NYSE,E,ETF
+WBIH,WBI BullBear Global High Income ETF,NYQ,NYSE,E,ETF
+WBIG,WBI BullBear Yield 1000 ETF,NYQ,NYSE,E,ETF
+USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,NYQ,NYSE,E,ETF
+VCV,Invesco California Value Municipal Income Trust,NYQ,NYSE,S,Equity
+CMF,iShares California Muni Bond ETF,NYQ,NYSE,E,ETF
+CPE-PA,Callon Petroleum Company Prefer,NYQ,NYSE,S,Equity
+CPE_PA,Callon Petroleum Company Prefer,NYQ,NYSE,S,Equity
+CCOR,Cambria Core Equity ETF,NYQ,NYSE,E,ETF
+VAMO,Cambria Value and Momentum ETF,NYQ,NYSE,E,ETF
+TCO,"Taubman Centers, Inc.",NYQ,NYSE,S,Equity
+SCHW-PC,The Charles Schwab Corporation,NYQ,NYSE,S,Equity
+SCHW-PD,The Charles Schwab Corporation,NYQ,NYSE,S,Equity
+CLNY-PJ,"Colony Capital, Inc.",NYQ,NYSE,S,Equity
+CLNY-PI,"Colony Capital, Inc.",NYQ,NYSE,S,Equity
+CLNY-PG,"Colony Capital, Inc.",NYQ,NYSE,S,Equity
+VCF,"Delaware Investments Colorado Municipal Income Fund, Inc.",NYQ,NYSE,S,Equity
+TJX,"The TJX Companies, Inc.",NYQ,NYSE,S,Equity
+DEUS,Xtrackers Russell 1000 Comprehensive Factor ETF,NYQ,NYSE,E,ETF
+CIX,CompX International Inc.,NYQ,NYSE,S,Equity
+AOK,iShares Core Conservative Allocation ETF,NYQ,NYSE,E,ETF
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,NYQ,NYSE,E,ETF
+FCN,"FTI Consulting, Inc.",NYQ,NYSE,S,Equity
+MCF,Contango Oil & Gas Company,NYQ,NYSE,S,Equity
+CLGX,"CoreLogic, Inc.",NYQ,NYSE,S,Equity
+ITCB,Itaú CorpBanca,NYQ,NYSE,S,Equity
+AMT,American Tower Corporation (REIT),NYQ,NYSE,S,Equity
+AIR,AAR Corp.,NYQ,NYSE,S,Equity
+CUBI-PD,"Customers Bancorp, Inc.",NYQ,NYSE,S,Equity
+CUBI-PF,"Customers Bancorp, Inc.",NYQ,NYSE,S,Equity
+BCD,Aberdeen Standard Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF,NYQ,NYSE,E,ETF
+FXR,First Trust Industrials/Producer Durables AlphaDEX Fund,NYQ,NYSE,E,ETF
+BGH,Barings Global Short Duration High Yield Fund,NYQ,NYSE,S,Equity
+SMDV,ProShares Russell 2000 Dividend Growers ETF,NYQ,NYSE,E,ETF
+VBK,Vanguard Small-Cap Growth Index Fund ETF Shares,NYQ,NYSE,E,ETF
+AGO-PE,Assured Guaranty Municipal Holdings Inc. NT 6.25%  2102,NYQ,NYSE,S,Equity
+AGO-PB,Assured Guaranty Municipal Holdings Inc. QUIBS 6.875%,NYQ,NYSE,S,Equity
+AGO-PF,Assured Guaranty Municipal Holdings Inc. NT 5.60% 2103,NYQ,NYSE,S,Equity
+ASGN,ASGN Incorporated,NYQ,NYSE,S,Equity
+TYG,Tortoise Energy Infrastructure Corporation,NYQ,NYSE,S,Equity
+ITGR,Integer Holdings Corporation,NYQ,NYSE,S,Equity
+OUT,Outfront Media Inc.,NYQ,NYSE,S,Equity
+MFAC,Megalith Financial Acquisition Corp.,NYQ,NYSE,S,Equity
+MFAC-UN,Megalith Financial Acquisition Corp.,NYQ,NYSE,S,Equity
+MFAC-WT,Megalith Financial Acquisition ,NYQ,NYSE,S,Equity
+MSL,"MidSouth Bancorp, Inc.",NYQ,NYSE,S,Equity
+AEM,Agnico Eagle Mines Limited,NYQ,NYSE,S,Equity
+VFMV,Vanguard U.S. Minimum Volatility ETF ETF Shares,NYQ,NYSE,E,ETF
+PSB-PY,"PS Business Parks, Inc.",NYQ,NYSE,S,Equity
+PSB-PW,"PS Business Parks, Inc.",NYQ,NYSE,S,Equity
+PSB-PU,"PS Business Parks, Inc.",NYQ,NYSE,S,Equity
+PSB-PV,"PS Business Parks, Inc.",NYQ,NYSE,S,Equity
+PSB-PX,"PS Business Parks, Inc.",NYQ,NYSE,S,Equity
+TSU,TIM Participações S.A.,NYQ,NYSE,S,Equity
+AAP,"Advance Auto Parts, Inc.",NYQ,NYSE,S,Equity
+PGM,iPath Series B Bloomberg Platinum Subindex Total Return ETN,NYQ,NYSE,E,ETF
+PSK,SPDR Wells Fargo Preferred Stock ETF,NYQ,NYSE,E,ETF
+KOIN,Innovation Shares NextGen Protocol ETF,NYQ,NYSE,E,ETF
+VNO,Vornado Realty Trust,NYQ,NYSE,S,Equity
+FRT,Federal Realty Investment Trust,NYQ,NYSE,S,Equity
+TRGP,Targa Resources Corp.,NYQ,NYSE,S,Equity
+FLRU,Franklin FTSE Russia ETF,NYQ,NYSE,E,ETF
+XLB,Materials Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+GSV,Gold Standard Ventures Corp,NYQ,NYSE,S,Equity
+FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc.",NYQ,NYSE,S,Equity
+TI-A,Telecom Italia S.p.A.,NYQ,NYSE,S,Equity
+BGR,BlackRock Energy and Resources Trust,NYQ,NYSE,S,Equity
+BGX,Blackstone / GSO Long-Short Credit Income Fund,NYQ,NYSE,S,Equity
+TUP,Tupperware Brands Corporation,NYQ,NYSE,S,Equity
+FLBR,Franklin FTSE Brazil ETF,NYQ,NYSE,E,ETF
+PKB,Invesco Dynamic Building & Construction ETF,NYQ,NYSE,E,ETF
+WBID,WBI BullBear Quality 2000 ETF,NYQ,NYSE,E,ETF
+FYLD,Cambria Foreign Shareholder Yield ETF,NYQ,NYSE,E,ETF
+CPF,Central Pacific Financial Corp.,NYQ,NYSE,S,Equity
+CCS,"Century Communities, Inc.",NYQ,NYSE,S,Equity
+CLNY-PE,"Colony Capital, Inc.",NYQ,NYSE,S,Equity
+CLNY-PB,"Colony Capital, Inc.",NYQ,NYSE,S,Equity
+CMP,"Compass Minerals International, Inc.",NYQ,NYSE,S,Equity
+EWEM,Invesco MSCI Emerging Markets Equal Country Weight ETF,NYQ,NYSE,E,ETF
+RYLD,Global X Russell 2000 Covered Call ETF,NYQ,NYSE,S,Equity
+MUI,"BlackRock Muni Intermediate Duration Fund, Inc.",NYQ,NYSE,S,Equity
+CPL,CPFL Energia S.A.,NYQ,NYSE,S,Equity
+ETM,Entercom Communications Corp.,NYQ,NYSE,S,Equity
+EAI,"Entergy Arkansas, Inc. 1M BD 4.875%66",NYQ,NYSE,E,ETF
+EAB,"Entergy Arkansas, Inc. 1MTG BD 52",NYQ,NYSE,S,Equity
+AMC,"AMC Entertainment Holdings, Inc.",NYQ,NYSE,S,Equity
+HYHG,ProShares High Yield—Interest Rate Hedged,NYQ,NYSE,E,ETF
+XHR,"Xenia Hotels & Resorts, Inc.",NYQ,NYSE,S,Equity
+IBDC,iShares iBonds Mar 2020 Term Corporate ETF,NYQ,NYSE,E,ETF
+IBDD,iShares iBonds Mar 2023 Term Corporate ETF,NYQ,NYSE,E,ETF
+IBDS,iShares iBonds Dec 2027 Term Corporate ETF,NYQ,NYSE,E,ETF
+TRN,"Trinity Industries, Inc.",NYQ,NYSE,S,Equity
+HYIH,Xtrackers High Yield Corporate Bond - Interest Rate Hedged ETF,NYQ,NYSE,E,ETF
+EMBH,iShares Interest Rate Hedged Emerging Markets Bond ETF,NYQ,NYSE,E,ETF
+ETH,Ethan Allen Interiors Inc.,NYQ,NYSE,S,Equity
+VSH,"Vishay Intertechnology, Inc.",NYQ,NYSE,S,Equity
+ASG,"Liberty All-Star Growth Fund, Inc.",NYQ,NYSE,S,Equity
+VAR,"Varian Medical Systems, Inc.",NYQ,NYSE,S,Equity
+RFG,Invesco S&P MidCap 400 Pure Growth ETF,NYQ,NYSE,E,ETF
+BPMP,BP Midstream Partners LP,NYQ,NYSE,S,Equity
+AUMN,Golden Minerals Company,NYQ,NYSE,S,Equity
+ATEN,"A10 Networks, Inc.",NYQ,NYSE,S,Equity
+AIEQ,AI Powered Equity ETF,NYQ,NYSE,E,ETF
+AIIQ,Equbot AI Powered International Equity ETF,NYQ,NYSE,E,ETF
+FPE,First Trust Preferred Securities and Income ETF,NYQ,NYSE,E,ETF
+TCTL,Premise Capital Frontier Advantage Diversified Tactical ETF,NYQ,NYSE,E,ETF
+PSA-PH,Public Storage,NYQ,NYSE,S,Equity
+XUSA,QuantX Dynamic Beta US Equity ETF,NYQ,NYSE,E,ETF
+FRC-PI,First Republic Bank,NYQ,NYSE,S,Equity
+BEN,"Franklin Resources, Inc.",NYQ,NYSE,S,Equity
+OR,Osisko Gold Royalties Ltd,NYQ,NYSE,S,Equity
+XLC,Communication Services Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+FIV,First Trust Senior Floating Rate 2022 Target Term Fund,NYQ,NYSE,S,Equity
+AMS,American Shared Hospital Services,NYQ,NYSE,S,Equity
+HTY,John Hancock Investments - John Hancock Tax-Advantaged Global Shareholder Yield Fund,NYQ,NYSE,S,Equity
+FGB,First Trust Specialty Finance and Financial Opportunities Fund,NYQ,NYSE,S,Equity
+FXG,First Trust Consumer Staples AlphaDEX Fund,NYQ,NYSE,E,ETF
+VAC,Marriott Vacations Worldwide Corporation,NYQ,NYSE,S,Equity
+NIE,AllianzGI Equity & Convertible Income Fund,NYQ,NYSE,S,Equity
+THC,Tenet Healthcare Corporation,NYQ,NYSE,S,Equity
+MOH,"Molina Healthcare, Inc.",NYQ,NYSE,S,Equity
+AMN,"AMN Healthcare Services, Inc.",NYQ,NYSE,S,Equity
+AI,Arlington Asset Investment Corp.,NYQ,NYSE,S,Equity
+FII,"Federated Investors, Inc.",NYQ,NYSE,S,Equity
+VFLQ,Vanguard U.S. Liquidity Factor ETF ETF Shares,NYQ,NYSE,E,ETF
+FDP,Fresh Del Monte Produce Inc.,NYQ,NYSE,S,Equity
+VEGI,iShares MSCI Global Agriculture Producers ETF,NYQ,NYSE,E,ETF
+TETF,ETF Industry Exposure & Financial Services ETF,NYQ,NYSE,E,ETF
+FLQL,Franklin LibertyQ U.S. Equity ETF,NYQ,NYSE,E,ETF
+FLQE,Franklin LibertyQ Emerging Markets ETF,NYQ,NYSE,E,ETF
+FLQM,Franklin LibertyQ U.S. Mid Cap Equity ETF,NYQ,NYSE,E,ETF
+FLQS,Franklin LibertyQ U.S. Small Cap Equity ETF,NYQ,NYSE,E,ETF
+FLQG,Franklin LibertyQ Global Equity ETF,NYQ,NYSE,E,ETF
+FLQH,Franklin LibertyQ International Equity Hedged ETF,NYQ,NYSE,E,ETF
+FTNW,"FTE Networks, Inc.",NYQ,NYSE,S,Equity
+PRE-PF,PartnerRe Ltd.,NYQ,NYSE,S,Equity
+PRE-PH,PartnerRe Ltd.,NYQ,NYSE,S,Equity
+PRE-PI,PartnerRe Ltd.,NYQ,NYSE,S,Equity
+PRE-PG,PartnerRe Ltd.,NYQ,NYSE,S,Equity
+OIH,VanEck Vectors Oil Services ETF,NYQ,NYSE,E,ETF
+OSLE,Oaktree Specialty Lending Corpo,NYQ,NYSE,E,ETF
+WMB_W,"Williams Companies, Inc. (The)",NYQ,NYSE,S,Equity
+CMS-PB,Consumers Energy Company,NYQ,NYSE,S,Equity
+AIT,"Applied Industrial Technologies, Inc.",NYQ,NYSE,S,Equity
+VIS,Vanguard Industrials Index Fund ETF Shares,NYQ,NYSE,E,ETF
+THO,"Thor Industries, Inc.",NYQ,NYSE,S,Equity
+SUP,"Superior Industries International, Inc.",NYQ,NYSE,S,Equity
+XITK,SPDR FactSet Innovative Technology ETF,NYQ,NYSE,E,ETF
+IRET,Investors Real Estate Trust,NYQ,NYSE,S,Equity
+DSU,"BlackRock Debt Strategies Fund, Inc.",NYQ,NYSE,S,Equity
+FRA,"BlackRock Floating Rate Income Strategies Fund, Inc.",NYQ,NYSE,S,Equity
+MXDE,Nationwide Maximum Diversification Emerging Markets Core Equity ETF,NYQ,NYSE,E,ETF
+FIDU,Fidelity MSCI Industrials Index ETF,NYQ,NYSE,E,ETF
+VFL,Delaware Investments National Municipal Income Fund,NYQ,NYSE,S,Equity
+PSI,Invesco Dynamic Semiconductors ETF,NYQ,NYSE,E,ETF
