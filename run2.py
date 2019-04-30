@@ -16,16 +16,27 @@ from core.utils import Timer
 ###############################################################################
 # Parameters and data
 ###############################################################################
+experience_id = '20190430'
 sequence_length = 5 * 4 * 6
+number_steps_in_future = 10
 batch_size = 32
 n_steps = sequence_length - 1  # We want to predict last value.
 cols = ["Close"]  # , "Volume", 'High', 'Low', 'Open']
 ipredicted_col = 0
 spredicted_col = cols[ipredicted_col]
 n_features = len(cols)
-epochs = 3
+epochs = 5
 nfolds = 5
-saved_dir = './saved_models/'
+saved_dir = './saved_models/'+experience_id+'/'
+saved_pic_dir = './saved_pictures/'+experience_id+'/'
+try:
+    os.makedirs(saved_dir)
+except:
+    None
+try:
+    os.makedirs(saved_pic_dir)
+except:
+    None
 trainval__test_split = 0.95
 train_val_split = 0.20
 input_shape = (n_steps, n_features)
@@ -38,11 +49,11 @@ for col in cols:
 # Model
 ###############################################################################
 main_input = Input(shape=input_shape, dtype='float32', name='main_input')
-x = LSTM(100, activation='relu', return_sequences=True, kernel_regularizer=keras.regularizers.l2(0.01),
+x = LSTM(100, activation='relu', return_sequences=True, kernel_regularizer=keras.regularizers.l2(0.0001),
          name='rnn_1.1')(main_input)
-x = LSTM(100, activation='relu', return_sequences=True, kernel_regularizer=keras.regularizers.l2(0.01),
+x = LSTM(100, activation='relu', return_sequences=True, kernel_regularizer=keras.regularizers.l2(0.0001),
          name='rnn_1.2')(x)
-x = LSTM(100, activation='relu', name='rnn_2')(x)
+x = LSTM(100, activation='relu', kernel_regularizer=keras.regularizers.l2(0.0001), name='rnn_2')(x)
 x = Dense(1)(x)
 main_output = x
 model = Model(inputs=[main_input], outputs=[main_output])
@@ -158,14 +169,14 @@ x_test, y_test, indexes = data.get_test_data(seq_len=sequence_length, normalise=
 mean__ = 0
 for e, (x, y, index) in enumerate(zip(x_test, y_test, indexes)):
     x = x[np.newaxis, ...]
-    dfh, hresult = predict_sequences_multiple_pp(model, x, df, index, number_steps_in_future=sequence_length // 2,
+    dfh, hresult = predict_sequences_multiple_pp(model, x, df, index, number_steps_in_future=number_steps_in_future,
                                                  n_steps_=n_steps, n_features_=n_features,
                                                  spredicted_col_=spredicted_col, ipredicted_col_=ipredicted_col)
     dfh['diff'] = np.absolute(dfh['R'] - dfh['P'])
     mean__ += dfh['diff'].mean()
     plot = dfh[['R', 'P']].plot()
     fig = plot.get_figure()
-    fig.savefig("./saved_pictures/" + str(e) + '.png')
+    fig.savefig(saved_pic_dir + str(e) + '__'+str(dfh['diff'].mean())+'.png')
 mean__ /= len(index)
 print(str(mean__) + '% mean error')
 ###############################################################################

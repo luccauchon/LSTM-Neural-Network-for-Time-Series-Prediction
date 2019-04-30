@@ -4,6 +4,10 @@ import numpy as np
 from sklearn.model_selection import ShuffleSplit
 from core.data_processor import DataLoader
 import math
+import pandas as pd
+
+pd.read_csv('/data/NYQ.csv')
+
 
 data = yf.download(
     # tickers list or string as well
