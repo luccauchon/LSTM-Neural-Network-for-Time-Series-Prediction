@@ -45,6 +45,13 @@ df = pd.read_csv('./data/sp500.csv')
 for col in cols:
     assert col in df.columns
 
+from os import listdir
+from os.path import isfile, join
+onlyfiles = [f for f in listdir('./data/downloads/NYQ/1day/') if isfile(join('./data/downloads/NYQ/1day/', f))]
+for file in onlyfiles:
+    print('loading '+file)
+    pd.read_json(file)
+
 ###############################################################################
 # Model
 ###############################################################################
