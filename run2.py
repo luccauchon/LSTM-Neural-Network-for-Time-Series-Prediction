@@ -17,16 +17,16 @@ from core.utils import Timer
 # Parameters and data
 ###############################################################################
 experience_id = '20190430'
-sequence_length = 5 * 4 * 6
+sequence_length = 20
 number_steps_in_future = 10
-batch_size = 32
+batch_size = 512
 n_steps = sequence_length - 1  # We want to predict last value.
-cols = ["Close"]  # , "Volume", 'High', 'Low', 'Open']
+cols = ["Close", "Volume"]#, 'High', 'Low', 'Open']
 ipredicted_col = 0
 spredicted_col = cols[ipredicted_col]
 n_features = len(cols)
-epochs = 5
-nfolds = 5
+epochs = 15
+nfolds = 15
 saved_dir = './saved_models/'+experience_id+'/'
 saved_pic_dir = './saved_pictures/'+experience_id+'/'
 try:
@@ -45,22 +45,20 @@ df = pd.read_csv('./data/sp500.csv')
 for col in cols:
     assert col in df.columns
 
-from os import listdir
+'''from os import listdir
 from os.path import isfile, join
 onlyfiles = [f for f in listdir('./data/downloads/NYQ/1day/') if isfile(join('./data/downloads/NYQ/1day/', f))]
 for file in onlyfiles:
     print('loading '+file)
-    pd.read_json(file)
+    pd.read_json(file)'''
 
 ###############################################################################
 # Model
 ###############################################################################
 main_input = Input(shape=input_shape, dtype='float32', name='main_input')
-x = LSTM(100, activation='relu', return_sequences=True, kernel_regularizer=keras.regularizers.l2(0.0001),
-         name='rnn_1.1')(main_input)
-x = LSTM(100, activation='relu', return_sequences=True, kernel_regularizer=keras.regularizers.l2(0.0001),
-         name='rnn_1.2')(x)
-x = LSTM(100, activation='relu', kernel_regularizer=keras.regularizers.l2(0.0001), name='rnn_2')(x)
+x = LSTM(100, activation='relu', return_sequences=True, kernel_regularizer=keras.regularizers.l2(0.00001),name='rnn_1.1')(main_input)
+x = LSTM(100, activation='relu', return_sequences=True, kernel_regularizer=keras.regularizers.l2(0.00001),name='rnn_1.2')(x)
+x = LSTM(100, activation='relu', kernel_regularizer=keras.regularizers.l2(0.00001),name='rnn_2')(x)
 x = Dense(1)(x)
 main_output = x
 model = Model(inputs=[main_input], outputs=[main_output])
@@ -181,9 +179,9 @@ for e, (x, y, index) in enumerate(zip(x_test, y_test, indexes)):
                                                  spredicted_col_=spredicted_col, ipredicted_col_=ipredicted_col)
     dfh['diff'] = np.absolute(dfh['R'] - dfh['P'])
     mean__ += dfh['diff'].mean()
-    plot = dfh[['R', 'P']].plot()
-    fig = plot.get_figure()
-    fig.savefig(saved_pic_dir + str(e) + '__'+str(dfh['diff'].mean())+'.png')
+    #plot = dfh[['R', 'P']].plot()
+    #fig = plot.get_figure()
+    #fig.savefig(saved_pic_dir + str(e) + '__'+str(dfh['diff'].mean())+'.png')
 mean__ /= len(index)
 print(str(mean__) + '% mean error')
 ###############################################################################
